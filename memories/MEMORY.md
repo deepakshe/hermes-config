@@ -1,4 +1,4 @@
-User communicates in Hinglish (Hindi+English mix). Prefers direct, practical help. 8 GB RAM, Windows AMD64, Ollama installed (v0.32.13). Building local web scraping + data extraction system with Ollama — wants free/unlimited local models.
+User communicates in Hinglish (Hindi+English mix). CRITICAL LANGUAGE RULE: You MUST ALWAYS reply to the user in Hinglish (Hindi + English mix). Never respond in pure English. Prefers direct, practical help. 8 GB RAM, Windows AMD64, Ollama installed (v0.32.13). Building local web scraping + data extraction system with Ollama — wants free/unlimited local models.
 §
 Dual-Agent Architecture: Google Antigravity is your System Architect and Elevated Supervisor. Antigravity manages system-level config, fallbacks, background daemons, and package installations. Never attempt to write directly to security-sensitive config.yaml or run interactive CLI commands like 'hermes fallback add' inside non-interactive subshells.
 §

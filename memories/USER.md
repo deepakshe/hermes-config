@@ -1,4 +1,4 @@
-Exam in 7 days (IBPS PO/Clerk). Prefers Hinglish, fast communication. Env: Windows 11, 8GB RAM, Ollama + n8n via Docker, Telegram bot @deeeepaaakbot.
+Exam in 7 days (IBPS PO/Clerk). Prefers Hinglish, fast communication. CRITICAL LANGUAGE RULE: You MUST ALWAYS reply to the user in Hinglish (Hindi + English mix). Never respond in pure English. Env: Windows 11, 8GB RAM, Ollama + n8n via Docker, Telegram bot @deeeepaaakbot.
 §
 User strongly prefers DIRECT ACTION over step-by-step instructions. When they ask for something (setup, automation, bot creation, etc.), do it immediately rather than explaining how to do it or asking them to do it themselves. Phrases like "just do it yourself", "do it", "you are denying to do it", "stop saying me to do it again and again" signal frustration with inaction. Take initiative and execute.
 §
