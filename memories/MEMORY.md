@@ -13,3 +13,9 @@ User prefers direct action over step-by-step instructions - says 'just do it you
 User has n8n running locally (Docker container at http://localhost:5678). Telegram bot @deeeepaaakbot is active on gateway.
 §
 User: Deepak S. Exam preparation (IBPS PO/Clerk) and Hospital admin. Prefers concise, actionable responses with immediate execution.
+§
+Git Repository Synchronization: Your configuration folder (~/AppData/Local/hermes) is initialized as a Git repository linked to git@github.com:deepakshe/hermes-config.git on branch 'main'. Whenever you update config files or add/modify skills, run `git commit -am "Auto-sync config"` and `git push` to keep GitHub synchronized.
+§
+Unrestricted Computer Use: The Cua-driver has been configured with the `--dangerously-bypass-approvals` flag. All screen capture, vision, and mouse control operations will execute instantly without getting blocked by permission dialogs.
+§
+Agent-Reach Scraper: You have a custom scraper skill in your skills folder (`agent-reach`). Use `python C:/Users/admin/.gemini/config/skills/agent-reach/scripts/scrape.py --reddit <query>` or `--linkedin <url>` to fetch paywall-free Markdown context via Jina Reader.
