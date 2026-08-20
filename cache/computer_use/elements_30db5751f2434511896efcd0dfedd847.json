@@ -1,0 +1,679 @@
+{
+ "app": "chrome.exe",
+ "window_title": "",
+ "total_elements": 56,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimise",
+   "bounds": [
+    1749,
+    0,
+    57,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Button",
+   "label": "Reload",
+   "bounds": [
+    98,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Document",
+   "label": "Search icon",
+   "bounds": [
+    158,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Edit",
+   "label": "Address and search bar",
+   "bounds": [
+    198,
+    64,
+    1480,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Button",
+   "label": "Extensions",
+   "bounds": [
+    1713,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Button",
+   "label": "Downloads",
+   "bounds": [
+    1780,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Deepak (Your Chrome)",
+   "bounds": [
+    1825,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "Chrome",
+   "bounds": [
+    1870,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Tab groups",
+   "bounds": [
+    8,
+    108,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Settings",
+   "bounds": [
+    65,
+    108,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "History",
+   "bounds": [
+    166,
+    108,
+    91,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "Gmail",
+   "bounds": [
+    261,
+    108,
+    82,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "YouTube",
+   "bounds": [
+    348,
+    108,
+    101,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "Maps",
+   "bounds": [
+    453,
+    108,
+    81,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "All Bookmarks",
+   "bounds": [
+    1768,
+    108,
+    143,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Document",
+   "label": "New Tab",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Document",
+   "label": "chrome-untrusted://new-tab-page/custom_background_image?url=https%3A%2F%2Flh5.googleusercontent.com%2Fproxy%2Fxvtq6_782kBajCBr0GISHpujOb51XLKUeEOJ2lLPKh12-xNBTCtsoHT14NQcaH9l4JhatcXEMBkqgUeCWhb3XhdLnD1BiNzQ_LVydwg%3Dw3840-h2160-p-k-no-nd-mv",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Document",
+   "label": "chrome-untrusted://new-tab-page/one-google-bar?paramsencoded=",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "Hyperlink",
+   "label": "Gmail ",
+   "bounds": [
+    1659,
+    176,
+    43,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "Hyperlink",
+   "label": "Search for images ",
+   "bounds": [
+    1720,
+    176,
+    54,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "Group",
+   "label": "gbwa",
+   "bounds": [
+    1792,
+    161,
+    53,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "Button",
+   "label": "Google apps",
+   "bounds": [
+    1792,
+    166,
+    51,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "Button",
+   "label": "Google Account: Deepak Sheoran (deepaksheoran172@gmail.com)",
+   "bounds": [
+    1852,
+    166,
+    51,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "Button",
+   "label": "Enhance your search with tabs, files or an AI tool",
+   "bounds": [
+    506,
+    466,
+    46,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "Group",
+   "label": "menu",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "ComboBox",
+   "label": "Ask Google",
+   "bounds": [
+    558,
+    453,
+    630,
+    71
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "Button",
+   "label": "Search by voice",
+   "bounds": [
+    1194,
+    466,
+    33,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "Button",
+   "label": "Search by image",
+   "bounds": [
+    1244,
+    466,
+    33,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Button",
+   "label": "AI Mode",
+   "bounds": [
+    1297,
+    466,
+    117,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Group",
+   "label": "Youtube",
+   "bounds": [
+    750,
+    546,
+    140,
+    140
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Hyperlink",
+   "label": "Youtube",
+   "bounds": [
+    750,
+    546,
+    140,
+    140
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Button",
+   "label": "More actions for Youtube shortcut",
+   "bounds": [
+    852,
+    551,
+    36,
+    35
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "Text",
+   "label": "Youtube",
+   "bounds": [
+    790,
+    645,
+    60,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "Group",
+   "label": "Guidely",
+   "bounds": [
+    890,
+    546,
+    140,
+    140
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "Hyperlink",
+   "label": "Guidely",
+   "bounds": [
+    890,
+    546,
+    140,
+    140
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "Button",
+   "label": "More actions for Guidely shortcut",
+   "bounds": [
+    992,
+    551,
+    36,
+    35
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "Text",
+   "label": "Guidely",
+   "bounds": [
+    932,
+    645,
+    56,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "Button",
+   "label": "Add shortcut",
+   "bounds": [
+    1030,
+    546,
+    140,
+    140
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "Group",
+   "label": "actionMenu",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "Hyperlink",
+   "label": "Photo by NASA Image Library",
+   "bounds": [
+    20,
+    955,
+    280,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "Button",
+   "label": "Customise this page",
+   "bounds": [
+    1860,
+    960,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "Button",
+   "label": "Tab search",
+   "bounds": [
+    8,
+    8,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "TabItem",
+   "label": "YouTube",
+   "bounds": [
+    35,
+    0,
+    183,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "TabItem",
+   "label": "Download Odysseus AI Safely - Official GitHub & Setup Paths",
+   "bounds": [
+    195,
+    0,
+    183,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "TabItem",
+   "label": "Gemini Notebook - Memory usage - 291 MB",
+   "bounds": [
+    355,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "TabItem",
+   "label": "Data Research Analyst | Flexiple | LinkedIn",
+   "bounds": [
+    514,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "TabItem",
+   "label": "Get Started - PentAGI",
+   "bounds": [
+    673,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "TabItem",
+   "label": "Deepak Sheoran | LinkedIn - High memory usage - 1.9 GB",
+   "bounds": [
+    831,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "TabItem",
+   "label": "AI-Assisted Remote Roles - Memory usage - 654 MB",
+   "bounds": [
+    990,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "TabItem",
+   "label": "Google Antigravity - Download",
+   "bounds": [
+    1149,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "TabItem",
+   "label": "New Tab",
+   "bounds": [
+    1308,
+    0,
+    182,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1439,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "Button",
+   "label": "New Tab",
+   "bounds": [
+    1481,
+    0,
+    36,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "Button",
+   "label": "Ask Gemini",
+   "bounds": [
+    1584,
+    0,
+    151,
+    50
+   ],
+   "app": ""
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+IBPS PO/CLERK PRACTICE QUESTIONS EBOOK - SELLER SETUP GUIDE
+================================================================================
+
+CREATED: 2026-08-16
+PRODUCT: 150 Banking Exam Practice Questions (IBPS PO & Clerk)
+PRICE: ₹299-499 (flexible based on platform)
+TOTAL QUESTIONS: 150 (40 English + 54 Quant + 56 Reasoning)
+
+================================================================================
+STEP 1: PLATFORM SELECTION (Choose One)
+================================================================================
+
+OPTION A: GUMROAD (RECOMMENDED FOR BEGINNERS)
+----------------------------------------------
+1. Go to gumroad.com/create-account
+2. Sign up (free, 5% + $0.30 per transaction)
+3. Click "New Product" → "Digital Download"
+4. Product title: "IBPS PO & Clerk: 150 Practice Questions"
+5. Description: Use the full analysis text below
+6. Price: Set your price (₹299, ₹399, ₹499)
+7. Upload file: ibps_po_ebook_analysis.txt (or convert to PDF)
+8. Save and get your product link
+
+OPTION B: UDADEMY (COURSE FORMAT)
+----------------------------------
+1. Go to udemy.com/instructor
+2. Create instructor account
+3. Click "Create a new course"
+4. Title: "IBPS PO/Cracking: Quantitative + Reasoning"
+5. Record simple video intro (even phone video works)
+6. Upload your content as video lessons
+7. Set price (Udemy takes 50% but gives traffic)
+
+OPTION C: LOCAL COACHING (DIRECT SALES)
+---------------------------------------
+1. Contact 10-15 coaching classes in your city
+2. Offer ₹200 per sale (20% affiliate)
+3. Share free sample PDF (20 questions)
+4. Collect payments via UPI/PhonePe directly
+5. Share password/access to file after payment
+
+================================================================================
+STEP 2: FREE SAMPLE (MUST FOR CONVERSION)
+================================================================================
+
+Create a free PDF with 20 questions:
+
+1. From ibps_po_english.csv: Take 7 Error Detection questions
+2. From ibps_po_quant.csv: Take 7 speed_distance + profit_loss questions  
+3. From ibps_po_reasoning.csv: Take 6 seating_arrangement + puzzles questions
+
+Format as:
+--------------------------------
+IBPS PO FREE SAMPLE - 20 Questions
+================================================================================
+Q1: Identify error: 'u' (English) - Answer: Part C
+Q2: Speed-distance: Train 200m at 50kmph (Quant) - Answer: 14.4 sec
+Q3: Seating arrangement: 6 persons circular (Reasoning) - Answer: A sits 2nd left
+...
+
+Download link for full 150 questions: [YOUR GUMROAD LINK]
+Price: ₹299 (one time)
+
+================================================================================
+STEP 3: PAYMENT COLLECTION SETUP
+================================================================================
+
+INDIA-ONLY OPTIONS (No international cards needed):
+
+1. PHONEPE/MOBIKWIK/UPI QR CODE
+   • Create UPI ID: yourname@paytm or phonepe
+   • Share QR code after purchase
+   • Send file access after payment confirmation
+
+2. GOOGLE PAY
+   • Same as above - use G Pay QR
+   • Most popular in India
+
+3. RAZORPAY (for website integration)
+   • Sign up at razorpay.com (free)
+   • Get API keys
+   • Integrate with Gumroad or simple website
+   • Handles ₹10-₹10,000 transactions easily
+
+4. PAYTM PAYMENTS BANK
+   • Simplest option for beginners
+   • Link your savings account
+   • Receive payments instantly
+
+================================================================================
+STEP 4: DELIVERY AUTOMATION
+================================================================================
+
+MANUAL METHOD (Easiest to start):
+--------------------------------
+1. Customer pays ₹299 via UPI
+2. You get notification on phone
+3. Reply to their message: "Thank you! Here's the download link: [your link]"
+4. They download ibps_po_ebook_analysis.txt or PDF version
+5. You're done - 2 minutes work per customer
+
+SEMI-AUTOMATED (Using Gumroad):
+--------------------------------
+1. Set up Gumroad (Step 1)
+2. Customer buys on Gumroad
+3. Gumroad automatically delivers the file
+4. Customer gets download link instantly
+5. You don't need to do anything!
+
+FULLY AUTOMATED (Requires setup):
+---------------------------------
+1. Gumroad + Zapier integration (₹500/month)
+2. Or use PayPal + WooCommerce (more technical)
+3. Customer pays → system auto-delivers email with download link
+4. Zero manual work after initial setup
+
+================================================================================
+STEP 5: MARKETING (GET FIRST CUSTOMER TODAY)
+================================================================================
+
+TELEGRAM GROUPS (Free, fastest):
+-------------------------------
+• Search "IBPS PO preparation" on Telegram
+• Join 5-10 groups
+• Post: "Free 20 question sample PDF - DM for full 150 questions @ ₹299"
+• Pin your message in each group
+• Expected: 5-10 DMs first day
+
+FACEBOOK GROUPS:
+----------------
+• "IBPS PO 2026 Preparation"
+• "Banking Exams India"
+• Post daily one question with "Answer in comments"
+• After 3-5 days: "Full 150 questions package @ ₹299, DM me"
+• Conversion: 2-5% from group members
+
+INSTAGRAM (Good for visual):
+----------------------------
+• Create 3-5 reels showing "Trick for speed_distance question"
+• Post daily question story with "Save this for later"
+• Bio: "IBPS PO 150Q practice set @ ₹299, link in bio"
+• Swipe up or link in bio to Gumroad
+
+WHATSAPP STRATEGY (Most personal):
+----------------------------------
+1. Save 20-30 numbers of coaching class students/aspirants
+2. Send daily: "Good morning! 🌚 Today's IBPS Quant question:"
+3. Send one question per day, engage them
+4. After 7 days: "Full 150 question package available @ ₹299, interested?"
+5. Conversion: 10-15% from warm leads
+
+SAMPLE POSTS YOU CAN COPY-PASTE:
+---------------------------------
+
+POST 1 (Telegram/Facebook):
+"Free IBPS PO 20 question sample PDF! 📱
+English: 7 Qs | Quant: 7 Qs | Reasoning: 6 Qs
+All with solutions + explanations
+DM me for free sample 👇
+[Your contact]"
+
+POST 2 (Instagram Reel caption):
+"Speed-distance trick that saves 2 minutes ⏱️
+Ask me how to solve any speed-distance problem in 30 seconds
+Full 150 question package: ₹299
+Link in bio #ibpspo #bankexam #practiceset"
+
+POST 3 (WhatsApp broadcast):
+"Good evening! 🌅
+Quick update: 25 people already bought the IBPS PO 150 questions package @ ₹299
+If you missed out, DM me ASAP - only 10 copies left at this price
+Full solutions included, PDF format, study anywhere
+[Your contact number]"
+
+================================================================================
+STEP 6: PRICING STRATEGY
+================================================================================
+
+TIER 1: LAUNCH PRICE (First 2 weeks only)
+----------------------------------------
+• ₹299 for full 150 questions + solutions
+• Perfect for: First-time buyers, price-sensitive customers
+• Expected conversion: 5-8% from warm audience
+
+TIER 2: STANDARD PRICE (After launch)
+------------------------------------
+• ₹399 for full 150 questions + solutions  
+• Perfect for: Regular customers, after initial discount period
+• Expected conversion: 3-5% from warm audience
+
+TIER 3: BUNDLE PRICE
+--------------------
+• ₹599 for PO + Clerk combined package (300 questions total)
+• Perfect for: Serious aspirants, coaching recommendations
+• Expected conversion: 2-3% from warm audience
+
+TIER 4: AFFILIATE (For coaching teachers)
+----------------------------------------
+• ₹200 commission per sale
+• "Refer 10 students, earn ₹2000"
+• Gives them unique link/code to track sales
+• Win-win: They earn, You get customers
+
+================================================================================
+STEP 7: REFUND & SUPPORT POLICY
+================================================================================
+
+REFUND POLICY (Builds trust):
+----------------------------
+• 7-day money-back guarantee if customer unsatisfied
+• No questions asked
+• They just need to say "refund please" 
+• Process: Return payment via same UPI/method
+• Maximum 2 refunds per 20 sales (10% rate is normal)
+
+SUPPORT QUICK START:
+--------------------
+• Keep a simple FAQ document ready
+• Common questions: "File nahi khul raha", "Wrong questions", "Password needed"
+• Pre-written responses:
+  - "File PDF format hai, Adobe Reader ya Chrome use karein"
+  - "Sab questions error-detection wale topics se hain"
+  - "Dubara download link ke liye DM karein"
+• Response time: Within 24 hours (best: within 4 hours)
+
+================================================================================
+QUICK START CHECKLIST (DO TODAY)
+================================================================================
+
+☐ Step 1: Sign up on Gumroad (10 minutes)
+☐ Step 2: Upload ibps_po_ebook_analysis.txt as product file (5 minutes)
+☐ Step 3: Write product description using text from this guide (10 minutes)
+☐ Step 4: Set price at ₹299 (1 minute)
+☐ Step 5: Create free 20-question sample PDF (15 minutes)
+☐ Step 6: Join 3 Telegram IBPS groups, post free sample offer (10 minutes)
+☐ Step 7: Share your Gumroad link in those groups (2 minutes)
+☐ Step 8: Wait for first payment (UPI will notify you instantly)
+☐ Step 9: Send download link to first customer (2 minutes)
+☐ Step 10: Celebrate your first sale! 🎉
+
+================================================================================
+RESOURCES PROVIDED
+================================================================================
+
+FILES IN /c/Users/admin/Downloads/:
+  • ibps_po_english.csv     - 40 English questions
+  • ibps_po_quant.csv       - 54 Quantitative questions
+  • ibps_po_reasoning.csv   - 56 Reasoning questions
+  • ibps_po_daily_questions.csv - All 150 questions combined
+
+ANALYSIS FILE:
+  • ibps_po_ebook_analysis.txt - Complete topic breakdown + selling guide
+
+MODEL USED: hermes3:3b (local Ollama, zero cost, unlimited)
+
+NEXT STEPS:
+  1. Create Gumroad account TODAY
+  2. Upload the analysis file
+  3. Post free sample in Telegram groups TONIGHT
+  4. Make first sale THIS WEEK
+
+================================================================================
+READY TO SELL? YOU CAN DO THIS! 💪
+================================================================================

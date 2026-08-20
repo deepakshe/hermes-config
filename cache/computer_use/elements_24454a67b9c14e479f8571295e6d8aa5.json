@@ -1,0 +1,3511 @@
+{
+ "app": "chrome.exe",
+ "window_title": "",
+ "total_elements": 292,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimise",
+   "bounds": [
+    1749,
+    0,
+    57,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Button",
+   "label": "Back",
+   "bounds": [
+    0,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Button",
+   "label": "Forward",
+   "bounds": [
+    53,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Button",
+   "label": "Reload",
+   "bounds": [
+    98,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Button",
+   "label": "View site information",
+   "bounds": [
+    158,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Edit",
+   "label": "Address and search bar",
+   "bounds": [
+    198,
+    64,
+    1455,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Third-party cookies blocked",
+   "bounds": [
+    1661,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "Bookmark this tab",
+   "bounds": [
+    1701,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Extensions",
+   "bounds": [
+    1758,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Deepak (Your Chrome)",
+   "bounds": [
+    1825,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "Chrome",
+   "bounds": [
+    1870,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "Tab groups",
+   "bounds": [
+    8,
+    108,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "Settings",
+   "bounds": [
+    65,
+    108,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "History",
+   "bounds": [
+    166,
+    108,
+    91,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "Gmail",
+   "bounds": [
+    261,
+    108,
+    82,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Button",
+   "label": "YouTube",
+   "bounds": [
+    348,
+    108,
+    101,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Button",
+   "label": "Maps",
+   "bounds": [
+    453,
+    108,
+    81,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Button",
+   "label": "All Bookmarks",
+   "bounds": [
+    1768,
+    108,
+    143,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "Document",
+   "label": "Deepak Sheoran | LinkedIn",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "Group",
+   "label": "plasmo-shadow-container",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "Group",
+   "label": "root",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "Text",
+   "label": "0 notifications",
+   "bounds": [
+    38,
+    978,
+    2,
+    2
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "Group",
+   "label": "Skip navigation menu",
+   "bounds": [
+    255,
+    151,
+    1410,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "Button",
+   "label": "Skip to search",
+   "bounds": [
+    255,
+    151,
+    167,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "Button",
+   "label": "Skip to main content",
+   "bounds": [
+    431,
+    151,
+    230,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "Button",
+   "label": "Skip to primary content",
+   "bounds": [
+    670,
+    151,
+    256,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "Button",
+   "label": "Skip to aside",
+   "bounds": [
+    935,
+    151,
+    157,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Button",
+   "label": "Skip to footer",
+   "bounds": [
+    1101,
+    151,
+    165,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Button",
+   "label": "Close jump menu",
+   "bounds": [
+    1615,
+    151,
+    40,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Button",
+   "label": "LinkedIn",
+   "bounds": [
+    255,
+    162,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    327,
+    173,
+    21,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "Edit",
+   "label": "Search",
+   "bounds": [
+    307,
+    162,
+    351,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    782,
+    151,
+    601,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "Button",
+   "label": "Home, 1 new notification",
+   "bounds": [
+    782,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "Hyperlink",
+   "label": "My Network, 0 new notifications",
+   "bounds": [
+    882,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "Hyperlink",
+   "label": "Jobs, 0 new notifications",
+   "bounds": [
+    982,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "Hyperlink",
+   "label": "Messaging, 0 new notifications",
+   "bounds": [
+    1082,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "Hyperlink",
+   "label": "Notifications, 0 new notifications",
+   "bounds": [
+    1182,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "Button",
+   "label": "Me",
+   "bounds": [
+    1282,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "Button",
+   "label": "For Business",
+   "bounds": [
+    1398,
+    151,
+    102,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "Hyperlink",
+   "label": "Try Premium for ₹0",
+   "bounds": [
+    1510,
+    151,
+    155,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "Button",
+   "label": "Try Premium for ₹0",
+   "bounds": [
+    1524,
+    189,
+    127,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "Hyperlink",
+   "label": "Deepak Sheoran",
+   "bounds": [
+    255,
+    154,
+    953,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "Button",
+   "label": "More",
+   "bounds": [
+    1223,
+    154,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "Button",
+   "label": "Enhance profile",
+   "bounds": [
+    1273,
+    154,
+    153,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "Hyperlink",
+   "label": "Add section",
+   "bounds": [
+    1435,
+    154,
+    126,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "Button",
+   "label": "Open to",
+   "bounds": [
+    1570,
+    154,
+    95,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "Group",
+   "label": "workspace",
+   "bounds": [
+    0,
+    216,
+    1920,
+    804
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    245,
+    245,
+    991,
+    248
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "Button",
+   "label": "Edit background image",
+   "bounds": [
+    1170,
+    260,
+    41,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "Hyperlink",
+   "label": "Profile photo",
+   "bounds": [
+    275,
+    372,
+    201,
+    201
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "Hyperlink",
+   "label": "Edit profile",
+   "bounds": [
+    1160,
+    512,
+    61,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "Hyperlink",
+   "label": "Deepak Sheoran View Deepak’s verifications",
+   "bounds": [
+    275,
+    612,
+    259,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 56,
+   "role": "Text",
+   "label": "AI-Assisted Data & Operations | Excel & Google Sheets | Web Research | Virtual Assistance | Browser Automation | Open to Remote Work",
+   "bounds": [
+    275,
+    654,
+    613,
+    77
+   ],
+   "app": ""
+  },
+  {
+   "index": 57,
+   "role": "Text",
+   "label": "Bhiwani, Haryana, India",
+   "bounds": [
+    275,
+    734,
+    180,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 58,
+   "role": "Text",
+   "label": "·",
+   "bounds": [
+    464,
+    734,
+    5,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 59,
+   "role": "Hyperlink",
+   "label": "Contact info",
+   "bounds": [
+    473,
+    734,
+    98,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 60,
+   "role": "Button",
+   "label": "Independent Projects",
+   "bounds": [
+    902,
+    612,
+    304,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 61,
+   "role": "Button",
+   "label": "Rao Pahlad Singh College of Engineering & Technology",
+   "bounds": [
+    902,
+    667,
+    304,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 62,
+   "role": "Button",
+   "label": "Open to",
+   "bounds": [
+    275,
+    776,
+    96,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 63,
+   "role": "Hyperlink",
+   "label": "Add section",
+   "bounds": [
+    380,
+    776,
+    125,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 64,
+   "role": "Button",
+   "label": "Enhance profile",
+   "bounds": [
+    514,
+    776,
+    154,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 65,
+   "role": "Button",
+   "label": "More",
+   "bounds": [
+    677,
+    776,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 66,
+   "role": "Hyperlink",
+   "label": "Open to work Data Entry Specialist, Data Processing Specialist, Research Assistant, Virtual Assistant and Operations Assistant roles Show details",
+   "bounds": [
+    290,
+    856,
+    391,
+    97
+   ],
+   "app": ""
+  },
+  {
+   "index": 67,
+   "role": "Hyperlink",
+   "label": "Edit",
+   "bounds": [
+    680,
+    856,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 68,
+   "role": "Hyperlink",
+   "label": "Share that you’re hiring and attract qualified candidates. Get started",
+   "bounds": [
+    756,
+    857,
+    389,
+    95
+   ],
+   "app": ""
+  },
+  {
+   "index": 69,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1144,
+    857,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 70,
+   "role": "Hyperlink",
+   "label": "Showcase your services as a section on your profile so your business can be easily discovered. Add services",
+   "bounds": [
+    1221,
+    857,
+    389,
+    95
+   ],
+   "app": ""
+  },
+  {
+   "index": 71,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1609,
+    857,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 72,
+   "role": "Hyperlink",
+   "label": "Tell non-profits you are interested in getting involved with your time and skills Get started",
+   "bounds": [
+    1686,
+    857,
+    389,
+    95
+   ],
+   "app": ""
+  },
+  {
+   "index": 73,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    2074,
+    857,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 74,
+   "role": "Button",
+   "label": "Next",
+   "bounds": [
+    1175,
+    894,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 75,
+   "role": "Text",
+   "label": "Private to you",
+   "bounds": [
+    300,
+    1067,
+    108,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 76,
+   "role": "Hyperlink",
+   "label": "1 profile view Discover who’s viewed your profile.",
+   "bounds": [
+    275,
+    1110,
+    265,
+    97
+   ],
+   "app": ""
+  },
+  {
+   "index": 77,
+   "role": "Hyperlink",
+   "label": "0 post impressions Start a post to increase engagement. Past 7 days",
+   "bounds": [
+    569,
+    1110,
+    275,
+    97
+   ],
+   "app": ""
+  },
+  {
+   "index": 78,
+   "role": "Hyperlink",
+   "label": "0 search appearances Update your profile to appear more in search.",
+   "bounds": [
+    873,
+    1110,
+    333,
+    97
+   ],
+   "app": ""
+  },
+  {
+   "index": 79,
+   "role": "Hyperlink",
+   "label": "Show all analytics",
+   "bounds": [
+    245,
+    1247,
+    991,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 80,
+   "role": "Hyperlink",
+   "label": "Edit about",
+   "bounds": [
+    1160,
+    1332,
+    61,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 81,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    275,
+    1402,
+    931,
+    88
+   ],
+   "app": ""
+  },
+  {
+   "index": 82,
+   "role": "Text",
+   "label": "I am building my career in AI-assisted remote data and operations work, helping turn information and repetitive digital tasks into organized, usable outputs.",
+   "bounds": [
+    275,
+    1401,
+    921,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 83,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 84,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 85,
+   "role": "Text",
+   "label": "I can support workflows involving Excel and Google Sheets, data entry, data cleaning, data processing, data validation, spreadsheet organization, web and market research, lead research, data enrichment, documentation, reporting, presentations and virtual assistance.",
+   "bounds": [
+    275,
+    1467,
+    927,
+    67
+   ],
+   "app": ""
+  },
+  {
+   "index": 86,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 87,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 88,
+   "role": "Text",
+   "label": "I use AI tools, browser-based agents and structured checklists to speed up research, repetitive browser tasks, document preparation and first-draft analysis. I review sources, validate important fields, check formatting and look for errors before delivering work.",
+   "bounds": [
+    275,
+    1554,
+    926,
+    68
+   ],
+   "app": ""
+  },
+  {
+   "index": 89,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 90,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 91,
+   "role": "Text",
+   "label": "My strongest direction is practical execution across data, research and operations. I am also interested in content research, script-writing support, AI evaluation, data annotation, CRM/data updating and other computer-based digital workflows where clear instructions, consistency and careful verification matter.",
+   "bounds": [
+    275,
+    1642,
+    914,
+    67
+   ],
+   "app": ""
+  },
+  {
+   "index": 92,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 93,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 94,
+   "role": "Text",
+   "label": "I am open to legitimate remote / work-from-home opportunities in India, including data operations, research assistance, virtual assistance, administrative support, reporting, documentation, presentation support and AI-enabled operations.",
+   "bounds": [
+    275,
+    1729,
+    932,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 95,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 96,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 97,
+   "role": "Text",
+   "label": "I am continuing to build portfolio projects that show how I learn a workflow, structure the work, use AI responsibly and produce a clear final result.",
+   "bounds": [
+    275,
+    1795,
+    920,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 98,
+   "role": "Button",
+   "label": "Featured overflow menu",
+   "bounds": [
+    1100,
+    1544,
+    61,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 99,
+   "role": "Hyperlink",
+   "label": "View featured detail screen",
+   "bounds": [
+    1160,
+    1544,
+    61,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 100,
+   "role": "Hyperlink",
+   "label": "Media AI-Assisted Digital Operations Command Center | Deepak Sheoran SIMULATED PORTFOLIO SCENARIO by Deepak Sheoran. Integrated research, public browser data collection, data cleaning, validation, reporting, presentation, operations tracking and documentation into one reviewable workflow. AI/browser agents accelerated execution; human oversight, source traceability, errors and limitations remain visible. Independent portfolio project only.",
+   "bounds": [
+    275,
+    1614,
+    291,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 101,
+   "role": "Button",
+   "label": "Media",
+   "bounds": [
+    275,
+    1614,
+    291,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 102,
+   "role": "Hyperlink",
+   "label": "Media AI-Assisted Competitor Research & Market Intelligence | Deepak Sheoran",
+   "bounds": [
+    585,
+    1614,
+    291,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 103,
+   "role": "Button",
+   "label": "Media",
+   "bounds": [
+    585,
+    1614,
+    291,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 104,
+   "role": "Hyperlink",
+   "label": "Media AI-Assisted Browser Automation & Public Data Extraction | Deepak Sheoran AI-Assisted Independent Portfolio Project by Deepak Sheoran. Built a bounded public product-data capture workflow using the Open Food Facts API. Demonstrates browser navigation, structured extraction, raw-value retention, normalization, missing-data handling, near-duplicate review, source traceability and a manual QA sample. The first pass accepted 10 of 12 rows and recorded 2 correction notes (83.3% observed first-pass match rate). After correction, no mismatch was found in reviewed nonblank fields; one quantity field was N/A and missing values remain visible. No bypass or private data used.",
+   "bounds": [
+    895,
+    1614,
+    291,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 105,
+   "role": "Button",
+   "label": "Media",
+   "bounds": [
+    895,
+    1614,
+    291,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 106,
+   "role": "Hyperlink",
+   "label": "Media AI-Assisted B2B Lead Research & Data Enrichment | Deepak Sheoran AI-Assisted Independent Portfolio Project by Deepak Sheoran. Built a public-company lead research queue from a digital marketing agency directory. Demonstrates discovery, structured company fields, normalization, duplicate removal, manual review-priority scoring, missing-data reporting and verification. Public information only; no personal contact data or outreach claims.",
+   "bounds": [
+    1205,
+    1614,
+    291,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 107,
+   "role": "Button",
+   "label": "Media",
+   "bounds": [
+    1205,
+    1614,
+    291,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 108,
+   "role": "Hyperlink",
+   "label": "Media AI-Assisted Remote Operations Desk | Deepak Sheoran SIMULATED PORTFOLIO WORKFLOW by Deepak Sheoran. Built a 20-task remote operations desk showing task intake, prioritization, research, spreadsheet updates, documentation, QA, exception handling and delivery reporting. AI/browser agents accelerated repetitive steps; human review, limitations and the blocked-source exception remain visible.",
+   "bounds": [
+    1515,
+    1614,
+    291,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 109,
+   "role": "Button",
+   "label": "Media",
+   "bounds": [
+    1515,
+    1614,
+    291,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 110,
+   "role": "Hyperlink",
+   "label": "Show all featured items",
+   "bounds": [
+    1836,
+    1614,
+    269,
+    357
+   ],
+   "app": ""
+  },
+  {
+   "index": 111,
+   "role": "Button",
+   "label": "Next",
+   "bounds": [
+    1175,
+    1772,
+    41,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 112,
+   "role": "Hyperlink",
+   "label": "0 followers",
+   "bounds": [
+    275,
+    2083,
+    88,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 113,
+   "role": "Hyperlink",
+   "label": "Create a post",
+   "bounds": [
+    1015,
+    2037,
+    136,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 114,
+   "role": "Hyperlink",
+   "label": "Edit default activity",
+   "bounds": [
+    1160,
+    2037,
+    61,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 115,
+   "role": "Text",
+   "label": "You haven’t posted yet",
+   "bounds": [
+    275,
+    2108,
+    234,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 116,
+   "role": "Text",
+   "label": "Posts you share will be displayed here.",
+   "bounds": [
+    275,
+    2138,
+    296,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 117,
+   "role": "Hyperlink",
+   "label": "Show all posts",
+   "bounds": [
+    245,
+    2180,
+    991,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 118,
+   "role": "Hyperlink",
+   "label": "Edit profile language",
+   "bounds": [
+    1595,
+    260,
+    31,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 119,
+   "role": "Text",
+   "label": "English",
+   "bounds": [
+    1295,
+    319,
+    56,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 120,
+   "role": "Hyperlink",
+   "label": "Edit Public profile & URL",
+   "bounds": [
+    1595,
+    372,
+    31,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 121,
+   "role": "Text",
+   "label": "www.linkedin.com/in/deepak-sheoran-digital-ops",
+   "bounds": [
+    1295,
+    431,
+    301,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 122,
+   "role": "Text",
+   "label": "From your school",
+   "bounds": [
+    1295,
+    570,
+    135,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 123,
+   "role": "Hyperlink",
+   "label": "Sapna . Verified · 3rd+ Manager(MI) at ICICI | IIM Kashipur | Harvard’s HPAIR’25 | ",
+   "bounds": [
+    1295,
+    613,
+    331,
+    63
+   ],
+   "app": ""
+  },
+  {
+   "index": 124,
+   "role": "Hyperlink",
+   "label": "Sapna . Verified",
+   "bounds": [
+    1365,
+    612,
+    92,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 125,
+   "role": "Button",
+   "label": "Invite Sapna . to connect",
+   "bounds": [
+    1365,
+    686,
+    122,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 126,
+   "role": "Hyperlink",
+   "label": "Sudesh Mahayach · 3rd+ Marketing and Sales | Project Management | Client Servicing | Team Management | Market Research | Digital Marketing",
+   "bounds": [
+    1295,
+    757,
+    331,
+    63
+   ],
+   "app": ""
+  },
+  {
+   "index": 127,
+   "role": "Hyperlink",
+   "label": "Sudesh Mahayach",
+   "bounds": [
+    1365,
+    756,
+    165,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 128,
+   "role": "Button",
+   "label": "Invite Sudesh Mahayach to connect",
+   "bounds": [
+    1365,
+    829,
+    122,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 129,
+   "role": "Hyperlink",
+   "label": "Priyanka Bhardwaj Verified · 3rd+ MBA in Human Resource.",
+   "bounds": [
+    1295,
+    900,
+    313,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 130,
+   "role": "Hyperlink",
+   "label": "Priyanka Bhardwaj Verified",
+   "bounds": [
+    1365,
+    899,
+    194,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 131,
+   "role": "Button",
+   "label": "Invite Priyanka Bhardwaj to connect",
+   "bounds": [
+    1365,
+    970,
+    122,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 132,
+   "role": "Hyperlink",
+   "label": "Manisha Sangwan Premium · 3rd+ Connecting professionals across Digital Marketing, Performance Marketing, SEO, SEM/PPC, Social Media, Content Marketing, Email Marketing, Marketing Analytics, Growth Marketing, and E-commerce domains.",
+   "bounds": [
+    1295,
+    1041,
+    331,
+    63
+   ],
+   "app": ""
+  },
+  {
+   "index": 133,
+   "role": "Hyperlink",
+   "label": "Manisha Sangwan Premium",
+   "bounds": [
+    1365,
+    1040,
+    191,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 134,
+   "role": "Button",
+   "label": "Invite Manisha Sangwan to connect",
+   "bounds": [
+    1365,
+    1114,
+    122,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 135,
+   "role": "Hyperlink",
+   "label": "Hemant Singh Verified · 3rd+ Success is achieved through accurate efforts",
+   "bounds": [
+    1295,
+    1185,
+    331,
+    63
+   ],
+   "app": ""
+  },
+  {
+   "index": 136,
+   "role": "Hyperlink",
+   "label": "Hemant Singh Verified",
+   "bounds": [
+    1365,
+    1184,
+    156,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 137,
+   "role": "Button",
+   "label": "Invite Hemant Singh to connect",
+   "bounds": [
+    1365,
+    1257,
+    122,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 138,
+   "role": "Hyperlink",
+   "label": "Show all people you may know",
+   "bounds": [
+    1270,
+    1318,
+    381,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 139,
+   "role": "Text",
+   "label": "Pages for you",
+   "bounds": [
+    1295,
+    1427,
+    106,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 140,
+   "role": "Hyperlink",
+   "label": "Tata Group Executive Offices 6,036,944 followers",
+   "bounds": [
+    1295,
+    1470,
+    331,
+    63
+   ],
+   "app": ""
+  },
+  {
+   "index": 141,
+   "role": "Hyperlink",
+   "label": "Tata Group",
+   "bounds": [
+    1365,
+    1469,
+    101,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 142,
+   "role": "Button",
+   "label": "Follow Tata Group",
+   "bounds": [
+    1365,
+    1557,
+    108,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 143,
+   "role": "Hyperlink",
+   "label": "Deloitte Business Consulting and Services 22,501,745 followers",
+   "bounds": [
+    1295,
+    1628,
+    331,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 144,
+   "role": "Hyperlink",
+   "label": "Deloitte",
+   "bounds": [
+    1365,
+    1627,
+    73,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 145,
+   "role": "Button",
+   "label": "Follow Deloitte",
+   "bounds": [
+    1365,
+    1716,
+    108,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 146,
+   "role": "Hyperlink",
+   "label": "Show all pages you might like",
+   "bounds": [
+    1270,
+    1777,
+    381,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 147,
+   "role": "Hyperlink",
+   "label": "About",
+   "bounds": [
+    255,
+    2343,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 148,
+   "role": "Hyperlink",
+   "label": "Accessibility",
+   "bounds": [
+    440,
+    2343,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 149,
+   "role": "Hyperlink",
+   "label": "Talent Solutions",
+   "bounds": [
+    625,
+    2343,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 150,
+   "role": "Hyperlink",
+   "label": "Community Guidelines",
+   "bounds": [
+    255,
+    2387,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 151,
+   "role": "Hyperlink",
+   "label": "Careers",
+   "bounds": [
+    440,
+    2387,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 152,
+   "role": "Hyperlink",
+   "label": "Marketing Solutions ",
+   "bounds": [
+    625,
+    2387,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 153,
+   "role": "Button",
+   "label": "Privacy & Terms",
+   "bounds": [
+    255,
+    2431,
+    151,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 154,
+   "role": "Hyperlink",
+   "label": "Ad Choices",
+   "bounds": [
+    440,
+    2431,
+    151,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 155,
+   "role": "Hyperlink",
+   "label": "Advertising",
+   "bounds": [
+    625,
+    2431,
+    151,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 156,
+   "role": "Hyperlink",
+   "label": "Sales Solutions",
+   "bounds": [
+    255,
+    2476,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 157,
+   "role": "Hyperlink",
+   "label": "Mobile",
+   "bounds": [
+    440,
+    2476,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 158,
+   "role": "Hyperlink",
+   "label": "Small Business",
+   "bounds": [
+    625,
+    2476,
+    151,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 159,
+   "role": "Hyperlink",
+   "label": "Safety Center",
+   "bounds": [
+    255,
+    2520,
+    151,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 160,
+   "role": "Text",
+   "label": "LinkedIn Corporation © 2026",
+   "bounds": [
+    255,
+    2572,
+    195,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 161,
+   "role": "Hyperlink",
+   "label": "Questions?",
+   "bounds": [
+    990,
+    2343,
+    142,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 162,
+   "role": "Text",
+   "label": "Visit our Help Center.",
+   "bounds": [
+    990,
+    2369,
+    142,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 163,
+   "role": "Hyperlink",
+   "label": "Manage your account and privacy",
+   "bounds": [
+    990,
+    2398,
+    270,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 164,
+   "role": "Text",
+   "label": "Go to your Settings.",
+   "bounds": [
+    990,
+    2424,
+    133,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 165,
+   "role": "Hyperlink",
+   "label": "Recommendation transparency",
+   "bounds": [
+    990,
+    2453,
+    284,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 166,
+   "role": "Text",
+   "label": "Learn more about Recommended Content.",
+   "bounds": [
+    990,
+    2479,
+    284,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 167,
+   "role": "Text",
+   "label": "Select language",
+   "bounds": [
+    1303,
+    2337,
+    105,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 168,
+   "role": "ComboBox",
+   "label": "Select language",
+   "bounds": [
+    1303,
+    2360,
+    353,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 169,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1535,
+    960,
+    220,
+    59
+   ],
+   "app": ""
+  },
+  {
+   "index": 170,
+   "role": "Text",
+   "label": "Status is online",
+   "bounds": [
+    1568,
+    997,
+    134,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 171,
+   "role": "Button",
+   "label": "You are on the messaging overlay. Press enter to open the list of conversations.",
+   "bounds": [
+    1590,
+    977,
+    86,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 172,
+   "role": "Button",
+   "label": "Open messenger dropdown menu",
+   "bounds": [
+    1760,
+    969,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 173,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1800,
+    969,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 174,
+   "role": "Button",
+   "label": "Compose message",
+   "bounds": [
+    1800,
+    969,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 175,
+   "role": "Button",
+   "label": "You are on the messaging overlay. Press enter to open the list of conversations.",
+   "bounds": [
+    1840,
+    969,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 176,
+   "role": "Document",
+   "label": "LinkedIn",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 177,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    151,
+    1901,
+    178
+   ],
+   "app": ""
+  },
+  {
+   "index": 178,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    38,
+    978,
+    2,
+    2
+   ],
+   "app": ""
+  },
+  {
+   "index": 179,
+   "role": "Button",
+   "label": "Skip to search",
+   "bounds": [
+    245,
+    161,
+    168,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 180,
+   "role": "Button",
+   "label": "Skip to main content",
+   "bounds": [
+    432,
+    161,
+    230,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 181,
+   "role": "Button",
+   "label": "Keyboard shortcuts",
+   "bounds": [
+    681,
+    161,
+    216,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 182,
+   "role": "Button",
+   "label": "Close jump menu",
+   "bounds": [
+    1605,
+    156,
+    51,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 183,
+   "role": "Hyperlink",
+   "label": "LinkedIn",
+   "bounds": [
+    255,
+    157,
+    52,
+    53
+   ],
+   "app": ""
+  },
+  {
+   "index": 184,
+   "role": "ComboBox",
+   "label": "Search",
+   "bounds": [
+    306,
+    162,
+    351,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 185,
+   "role": "Hyperlink",
+   "label": "new feed updates notifications Home",
+   "bounds": [
+    781,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 186,
+   "role": "Hyperlink",
+   "label": "My Network",
+   "bounds": [
+    881,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 187,
+   "role": "Hyperlink",
+   "label": "Jobs",
+   "bounds": [
+    981,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 188,
+   "role": "Hyperlink",
+   "label": "Messaging",
+   "bounds": [
+    1081,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 189,
+   "role": "Hyperlink",
+   "label": "Notifications",
+   "bounds": [
+    1181,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 190,
+   "role": "Button",
+   "label": "Deepak Sheoran Me",
+   "bounds": [
+    1281,
+    151,
+    101,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 191,
+   "role": "Button",
+   "label": "For Business",
+   "bounds": [
+    1397,
+    151,
+    102,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 192,
+   "role": "Hyperlink",
+   "label": "Try Premium for ₹0",
+   "bounds": [
+    1508,
+    151,
+    157,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 193,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 194,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 195,
+   "role": "Button",
+   "label": "logo icon",
+   "bounds": [
+    1920,
+    937,
+    50,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 196,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1915,
+    967,
+    20,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 197,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2030,
+    151,
+    550,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 198,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 199,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2035,
+    156,
+    470,
+    859
+   ],
+   "app": ""
+  },
+  {
+   "index": 200,
+   "role": "Text",
+   "label": "Hi,",
+   "bounds": [
+    2065,
+    317,
+    54,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 201,
+   "role": "Text",
+   "label": "How can I assist you today?",
+   "bounds": [
+    2065,
+    391,
+    299,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 202,
+   "role": "Text",
+   "label": "Why ask, when Claw can do?",
+   "bounds": [
+    2081,
+    445,
+    241,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 203,
+   "role": "Text",
+   "label": "Answers are nice. Finished tasks are better. Claw researches, compares, and completes multi-step work for you.",
+   "bounds": [
+    2081,
+    475,
+    379,
+    66
+   ],
+   "app": ""
+  },
+  {
+   "index": 204,
+   "role": "Button",
+   "label": "Start a task",
+   "bounds": [
+    2081,
+    556,
+    126,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 205,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2065,
+    630,
+    170,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 206,
+   "role": "Text",
+   "label": "Full Screen Chat",
+   "bounds": [
+    2106,
+    639,
+    113,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 207,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2242,
+    630,
+    162,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 208,
+   "role": "Text",
+   "label": "Deep Research",
+   "bounds": [
+    2283,
+    639,
+    105,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 209,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2065,
+    677,
+    151,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 210,
+   "role": "Text",
+   "label": "My Highlights",
+   "bounds": [
+    2106,
+    686,
+    94,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 211,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2222,
+    677,
+    117,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 212,
+   "role": "Text",
+   "label": "AI Slides",
+   "bounds": [
+    2263,
+    686,
+    60,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 213,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2050,
+    733,
+    440,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 214,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2477,
+    725,
+    21,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 215,
+   "role": "Text",
+   "label": "Deepak Sheoran | LinkedIn",
+   "bounds": [
+    2095,
+    747,
+    213,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 216,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2297,
+    733,
+    135,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 217,
+   "role": "Text",
+   "label": "Summarize",
+   "bounds": [
+    2317,
+    746,
+    95,
+    23
+   ],
+   "app": ""
+  },
+  {
+   "index": 218,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    2442,
+    741,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 219,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2050,
+    793,
+    160,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 220,
+   "role": "Text",
+   "label": "GPT-5.6 Terra",
+   "bounds": [
+    2083,
+    800,
+    103,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 221,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2216,
+    793,
+    39,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 222,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    2216,
+    793,
+    39,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 223,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2254,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 224,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    2254,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 225,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    2291,
+    793,
+    39,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 226,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2377,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 227,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2377,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 228,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2415,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 229,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2415,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 230,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2452,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 231,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2452,
+    793,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 232,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 233,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2050,
+    840,
+    440,
+    123
+   ],
+   "app": ""
+  },
+  {
+   "index": 234,
+   "role": "Edit",
+   "label": "Ask anything, @ models, / prompts",
+   "bounds": [
+    2063,
+    854,
+    424,
+    55
+   ],
+   "app": ""
+  },
+  {
+   "index": 235,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2064,
+    916,
+    87,
+    33
+   ],
+   "app": ""
+  },
+  {
+   "index": 236,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2064,
+    916,
+    87,
+    33
+   ],
+   "app": ""
+  },
+  {
+   "index": 237,
+   "role": "Text",
+   "label": "Think",
+   "bounds": [
+    2098,
+    921,
+    38,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 238,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2439,
+    914,
+    40,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 239,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    2441,
+    914,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 240,
+   "role": "Text",
+   "label": "40",
+   "bounds": [
+    2075,
+    980,
+    18,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 241,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2109,
+    978,
+    80,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 242,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2109,
+    978,
+    80,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 243,
+   "role": "Hyperlink",
+   "label": "Upgrade",
+   "bounds": [
+    2109,
+    978,
+    80,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 244,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2395,
+    976,
+    30,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 245,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2395,
+    976,
+    30,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 246,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2427,
+    976,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 247,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2427,
+    976,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 248,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2460,
+    976,
+    30,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 249,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2460,
+    976,
+    30,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 250,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2521,
+    176,
+    18,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 251,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2521,
+    176,
+    18,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 252,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2546,
+    176,
+    18,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 253,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2546,
+    176,
+    18,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 254,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    213,
+    79,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 255,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    213,
+    79,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 256,
+   "role": "Text",
+   "label": "Chat",
+   "bounds": [
+    2527,
+    260,
+    31,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 257,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    297,
+    79,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 258,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    297,
+    79,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 259,
+   "role": "Text",
+   "label": "Claw",
+   "bounds": [
+    2527,
+    344,
+    31,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 260,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    381,
+    79,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 261,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    381,
+    79,
+    64
+   ],
+   "app": ""
+  },
+  {
+   "index": 262,
+   "role": "Text",
+   "label": "Code",
+   "bounds": [
+    2525,
+    428,
+    35,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 263,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    464,
+    79,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 264,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2503,
+    464,
+    79,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 265,
+   "role": "Text",
+   "label": "REC Note",
+   "bounds": [
+    2513,
+    511,
+    59,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 266,
+   "role": "Text",
+   "label": "More",
+   "bounds": [
+    2526,
+    595,
+    33,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 267,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    653,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 268,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    653,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 269,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    713,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 270,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    713,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 271,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    915,
+    41,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 272,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2522,
+    915,
+    41,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 273,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    2527,
+    975,
+    31,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 274,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    1982,
+    957,
+    51,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 275,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 276,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 277,
+   "role": "Button",
+   "label": "Tab search",
+   "bounds": [
+    8,
+    8,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 278,
+   "role": "TabItem",
+   "label": "YouTube",
+   "bounds": [
+    35,
+    0,
+    262,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 279,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    246,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 280,
+   "role": "TabItem",
+   "label": "Download Odysseus AI Safely - Official GitHub & Setup Paths",
+   "bounds": [
+    274,
+    0,
+    262,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 281,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    485,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 282,
+   "role": "TabItem",
+   "label": "Gemini Notebook - Memory usage - 291 MB",
+   "bounds": [
+    513,
+    0,
+    262,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 283,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    724,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 284,
+   "role": "TabItem",
+   "label": "Notifications | LinkedIn",
+   "bounds": [
+    751,
+    0,
+    262,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 285,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    963,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 286,
+   "role": "TabItem",
+   "label": "Get Started - PentAGI",
+   "bounds": [
+    990,
+    0,
+    262,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 287,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1201,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 288,
+   "role": "TabItem",
+   "label": "Deepak Sheoran | LinkedIn",
+   "bounds": [
+    1229,
+    0,
+    261,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 289,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1439,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 290,
+   "role": "Button",
+   "label": "New Tab",
+   "bounds": [
+    1481,
+    0,
+    36,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 291,
+   "role": "Button",
+   "label": "Ask Gemini",
+   "bounds": [
+    1584,
+    0,
+    151,
+    50
+   ],
+   "app": ""
+  }
+ ]
+}

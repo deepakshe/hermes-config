@@ -1,0 +1,415 @@
+{
+ "app": "chrome.exe",
+ "window_title": "",
+ "total_elements": 34,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimise",
+   "bounds": [
+    1749,
+    0,
+    57,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Button",
+   "label": "Back",
+   "bounds": [
+    0,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Button",
+   "label": "Reload",
+   "bounds": [
+    98,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Button",
+   "label": "View site information",
+   "bounds": [
+    158,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Edit",
+   "label": "Address and search bar",
+   "bounds": [
+    198,
+    64,
+    1455,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Button",
+   "label": "Install GitHub",
+   "bounds": [
+    1661,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Bookmark this tab",
+   "bounds": [
+    1701,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "Extensions",
+   "bounds": [
+    1758,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Deepak (Your Chrome)",
+   "bounds": [
+    1825,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Chrome",
+   "bounds": [
+    1870,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "Tab groups",
+   "bounds": [
+    8,
+    108,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "Settings",
+   "bounds": [
+    65,
+    108,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "History",
+   "bounds": [
+    166,
+    108,
+    91,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "Gmail",
+   "bounds": [
+    261,
+    108,
+    82,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "YouTube",
+   "bounds": [
+    348,
+    108,
+    101,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Button",
+   "label": "Maps",
+   "bounds": [
+    453,
+    108,
+    81,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Button",
+   "label": "All Bookmarks",
+   "bounds": [
+    1768,
+    108,
+    143,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Button",
+   "label": "Tab search",
+   "bounds": [
+    8,
+    8,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "TabItem",
+   "label": "(262) NEXTRANKERS - SANDEEP PRAJAPATI - YouTube",
+   "bounds": [
+    35,
+    0,
+    158,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "TabItem",
+   "label": "(261) 50 Puzzle Set Marathon | SBI PO & IBPS PO | 2026 By Saurav Sir - YouTube",
+   "bounds": [
+    170,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "TabItem",
+   "label": "(262) ibps po english marathon - YouTube",
+   "bounds": [
+    304,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "TabItem",
+   "label": "(263) 400+ Arithmetic One Shot | 19 घंटे लगातार | Best Quality Questions for IBPS PO, SBI PO & RRB PO - YouTube - High memory usage - 1.7 GB",
+   "bounds": [
+    438,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "TabItem",
+   "label": "Question Series Analysis - Memory usage - 376 MB",
+   "bounds": [
+    571,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "TabItem",
+   "label": "API Keys — RoutesMe - Memory usage - 276 MB",
+   "bounds": [
+    705,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "TabItem",
+   "label": "GitHub Authentication - Sign In",
+   "bounds": [
+    839,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "TabItem",
+   "label": "Get Started - PentAGI",
+   "bounds": [
+    973,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "TabItem",
+   "label": "API keys | Google AI Studio",
+   "bounds": [
+    1106,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "TabItem",
+   "label": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "bounds": [
+    1240,
+    0,
+    157,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1346,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Button",
+   "label": "New Tab",
+   "bounds": [
+    1389,
+    0,
+    36,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Button",
+   "label": "Ask Gemini",
+   "bounds": [
+    1491,
+    0,
+    243,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Button",
+   "label": "Dismiss suggestion",
+   "bounds": [
+    1699,
+    8,
+    21,
+    36
+   ],
+   "app": ""
+  }
+ ]
+}

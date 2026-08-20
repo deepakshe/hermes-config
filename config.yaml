@@ -1,0 +1,268 @@
+_config_version: 37
+agent:
+  max_turns: 150
+  personalities: {}
+  reasoning_effort: low
+  verbose: false
+browser:
+  backend: browser-use
+  cloud_provider: local
+  executable_path: C:\Program Files\Mozilla Firefox\firefox.exe
+  inactivity_timeout: 120
+  use_gateway: false
+code_execution:
+  max_tool_calls: 50
+  timeout: 300
+command_allowlist:
+- script execution via heredoc
+compression:
+  codex_app_server_auto: native
+  codex_gpt55_autoraise: true
+  codex_responses_compact_threshold: 200000
+  codex_responses_native: false
+  enabled: true
+  idle_compact_after_seconds: 0
+  max_attempts: 3
+  min_tail_user_messages: 1
+  proactive_prune_min_reclaim_tokens: 4096
+  proactive_prune_min_result_chars: 8000
+  proactive_prune_tokens: 0
+  progress_notices: false
+  protect_first_n: 3
+  protect_last_n: 20
+  target_ratio: 0.2
+  threshold: 0.5
+computer_use:
+  backend: cua-driver
+  delivery_mode: background
+  enabled: true
+custom_providers:
+- api_mode: chat_completions
+  base_url: http://localhost:11434
+  key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
+  model: mistral:latest
+  models:
+  - mistral:latest
+  - hermes3:3b
+  name: Mistral Local
+database:
+  journal_mode: wal
+delegation:
+  max_iterations: 250
+display:
+  background_process_notifications: concise
+  bell_on_complete: false
+  busy_ack_detail: true
+  busy_input_mode: interrupt
+  cleanup_progress: false
+  compact: false
+  interim_assistant_messages: true
+  long_running_notifications: true
+  pet:
+    enabled: true
+    slug: nukey
+  show_reasoning: false
+  skin: default
+  streaming: true
+  tool_progress: all
+fallback_providers:
+- base_url: http://localhost:11434
+  key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
+  max_retries: 3
+  model: mistral:latest
+  provider: Mistral Local
+  trigger_on:
+  - 429
+  - 529
+  - 503
+  - connection_error
+fallbacks:
+- base_url: https://inference-api.nousresearch.com/v1
+  model: stepfun/step-3.7-flash:free
+  provider: nous
+- base_url: http://localhost:11434
+  model: mistral:latest
+  provider: custom
+group_sessions_per_user: true
+known_builtin_toolsets:
+  cli:
+  - bfl
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - context_engine
+  - cronjob
+  - delegation
+  - discord
+  - discord_admin
+  - file
+  - homeassistant
+  - image_gen
+  - memory
+  - session_search
+  - skills
+  - spotify
+  - stt
+  - terminal
+  - todo
+  - tts
+  - video
+  - video_gen
+  - vision
+  - web
+  - x_search
+  - yuanbao
+  telegram:
+  - bfl
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - context_engine
+  - cronjob
+  - delegation
+  - discord
+  - discord_admin
+  - file
+  - homeassistant
+  - image_gen
+  - memory
+  - session_search
+  - skills
+  - spotify
+  - stt
+  - terminal
+  - todo
+  - tts
+  - video
+  - video_gen
+  - vision
+  - web
+  - x_search
+  - yuanbao
+known_plugin_toolsets:
+  cli:
+  - a2a
+  - spotify
+  telegram:
+  - a2a
+  - spotify
+mcp_servers:
+  n8n:
+    args:
+    - C:/Users/admin/AppData/Local/hermes/mcp-installs/n8n/server.py
+    - --env
+    - N8N_MCP_ENV=C:/Users/admin/.config/n8n-mcp/env
+    command: C:/Users/admin/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe
+    enabled: true
+memory:
+  flush_min_turns: 6
+  memory_char_limit: 2200
+  memory_enabled: true
+  nudge_interval: 10
+  user_char_limit: 1375
+  user_profile_enabled: true
+model:
+  api_mode: chat_completions
+  base_url: https://inference-api.nousresearch.com/v1
+  default: stepfun/step-3.7-flash:free
+  provider: nous
+onboarding:
+  seen:
+    busy_input_prompt: true
+    openclaw_residue_cleanup: true
+platform_toolsets:
+  cli:
+  - bfl
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - cronjob
+  - delegation
+  - file
+  - image_gen
+  - kanban
+  - memory
+  - session_search
+  - skills
+  - terminal
+  - todo
+  - tts
+  - vision
+  - web
+  discord:
+  - hermes-discord
+  google_chat:
+  - hermes-google_chat
+  homeassistant:
+  - hermes-homeassistant
+  qqbot:
+  - hermes-qqbot
+  signal:
+  - hermes-signal
+  slack:
+  - hermes-slack
+  teams:
+  - hermes-teams
+  telegram:
+  - bfl
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - cronjob
+  - delegation
+  - file
+  - image_gen
+  - memory
+  - session_search
+  - skills
+  - terminal
+  - todo
+  - tts
+  - vision
+  - web
+platforms:
+  telegram:
+    bot_token: 8927696890:AAH1wt18GE_56EzNR_5XzywLCh2IalPml58
+    enabled: true
+plugins:
+  disabled: []
+  enabled:
+  - browser/browser-use
+  - cron_providers/chronos
+  - google_meet
+  - image_gen/deepinfra
+  - image_gen/fal
+  - image_gen/openai
+  - image_gen/openrouter
+  - image_gen/xai
+  - model-providers/custom
+  - observability/langfuse
+  - observability/nemo_relay
+  - platforms/a2a
+  - security-guidance
+  - teams_pipeline
+  - web/brave_free
+  - web/ddgs
+  - web/exa
+  - web/firecrawl
+  - web/parallel
+  - web/searxng
+session_reset:
+  mode: skills
+  toolsets: '[bfl, browser, clarify, code_execution, computer_use, cronjob, delegation,
+    file, image_gen, memory, session_search, skills, terminal, todo, tts, vision,
+    web, x_search, yuanbao, spotify, stt, video, video_gen, context_engine, discord,
+    discord_admin, homeassistant]'
+terminal:
+  backend: local
+voice:
+  auto_tts: false
+wake_word:
+  enabled: true
+web:
+  backend: ddgs
+  use_gateway: false

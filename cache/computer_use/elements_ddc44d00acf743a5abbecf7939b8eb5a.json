@@ -1,0 +1,6823 @@
+{
+ "app": "chrome.exe",
+ "window_title": "",
+ "total_elements": 568,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimise",
+   "bounds": [
+    1749,
+    0,
+    57,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Button",
+   "label": "Back",
+   "bounds": [
+    0,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Button",
+   "label": "Reload",
+   "bounds": [
+    98,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Button",
+   "label": "View site information",
+   "bounds": [
+    158,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Edit",
+   "label": "Address and search bar",
+   "bounds": [
+    198,
+    64,
+    1455,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Button",
+   "label": "Third-party cookies blocked",
+   "bounds": [
+    1661,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Bookmark this tab",
+   "bounds": [
+    1701,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "Extensions",
+   "bounds": [
+    1758,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Deepak (Your Chrome)",
+   "bounds": [
+    1825,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Chrome",
+   "bounds": [
+    1870,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "Tab groups",
+   "bounds": [
+    8,
+    108,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "Settings",
+   "bounds": [
+    65,
+    108,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "History",
+   "bounds": [
+    166,
+    108,
+    91,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "Gmail",
+   "bounds": [
+    261,
+    108,
+    82,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "YouTube",
+   "bounds": [
+    348,
+    108,
+    101,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Button",
+   "label": "Maps",
+   "bounds": [
+    453,
+    108,
+    81,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Button",
+   "label": "All Bookmarks",
+   "bounds": [
+    1768,
+    108,
+    143,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Document",
+   "label": "Memory Retention Mnemonics",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "Group",
+   "label": "plasmo-shadow-container",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "Hyperlink",
+   "label": "Skip to content",
+   "bounds": [
+    -88,
+    149,
+    175,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "Text",
+   "label": "Chat history",
+   "bounds": [
+    -2,
+    149,
+    2,
+    2
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "Group",
+   "label": "Chat history",
+   "bounds": [
+    0,
+    151,
+    325,
+    787
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "Group",
+   "label": "sidebar-header",
+   "bounds": [
+    10,
+    151,
+    286,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "Hyperlink",
+   "label": "Home",
+   "bounds": [
+    10,
+    161,
+    153,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "Button",
+   "label": "Search chats",
+   "bounds": [
+    206,
+    161,
+    45,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "Button",
+   "label": "Close sidebar",
+   "bounds": [
+    251,
+    161,
+    45,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "Hyperlink",
+   "label": "New chat",
+   "bounds": [
+    7,
+    -2042,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Hyperlink",
+   "label": "Library",
+   "bounds": [
+    7,
+    -1997,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Hyperlink",
+   "label": "Projects New project",
+   "bounds": [
+    7,
+    -1952,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Button",
+   "label": "New project",
+   "bounds": [
+    1,
+    -1956,
+    44,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Hyperlink",
+   "label": "Scheduled",
+   "bounds": [
+    7,
+    -1907,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "Hyperlink",
+   "label": "Plugins",
+   "bounds": [
+    7,
+    -1862,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "Group",
+   "label": "radix-_R_4r9lb9akqac9l35_",
+   "bounds": [
+    7,
+    -1817,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "Text",
+   "label": "More",
+   "bounds": [
+    52,
+    -1807,
+    42,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "Button",
+   "label": "Pinned",
+   "bounds": [
+    0,
+    -1757,
+    299,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "Hyperlink",
+   "label": "Prompt Generator",
+   "bounds": [
+    7,
+    -1717,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "Button",
+   "label": "radix-_r_1a_",
+   "bounds": [
+    1,
+    -1721,
+    44,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "Button",
+   "label": "Recents",
+   "bounds": [
+    0,
+    -1647,
+    231,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "Hyperlink",
+   "label": "New chat",
+   "bounds": [
+    226,
+    -1650,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "Button",
+   "label": "Organize chats",
+   "bounds": [
+    256,
+    -1650,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "Hyperlink",
+   "label": "PC Voice Assistant Development",
+   "bounds": [
+    7,
+    -1607,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "Button",
+   "label": "Pin PC Voice Assistant Development",
+   "bounds": [
+    -16,
+    -1623,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "Button",
+   "label": "Open conversation options for PC Voice Assistant Development",
+   "bounds": [
+    19,
+    -1623,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "Hyperlink",
+   "label": "Hermes installation issue",
+   "bounds": [
+    7,
+    -1562,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "Button",
+   "label": "Pin Hermes installation issue",
+   "bounds": [
+    -16,
+    -1578,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "Button",
+   "label": "Open conversation options for Hermes installation issue",
+   "bounds": [
+    19,
+    -1578,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "Hyperlink",
+   "label": "Hospital lease deed drafting",
+   "bounds": [
+    7,
+    -1517,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "Button",
+   "label": "Pin Hospital lease deed drafting",
+   "bounds": [
+    -16,
+    -1533,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "Button",
+   "label": "Open conversation options for Hospital lease deed drafting",
+   "bounds": [
+    19,
+    -1533,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "Hyperlink",
+   "label": "Hinenglish Request",
+   "bounds": [
+    7,
+    -1472,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "Button",
+   "label": "Pin Hinenglish Request",
+   "bounds": [
+    -16,
+    -1488,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "Button",
+   "label": "Open conversation options for Hinenglish Request",
+   "bounds": [
+    19,
+    -1488,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "Hyperlink",
+   "label": "Caste in Politics",
+   "bounds": [
+    7,
+    -1427,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 56,
+   "role": "Button",
+   "label": "Pin Caste in Politics",
+   "bounds": [
+    -16,
+    -1443,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 57,
+   "role": "Button",
+   "label": "Open conversation options for Caste in Politics",
+   "bounds": [
+    19,
+    -1443,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 58,
+   "role": "Hyperlink",
+   "label": "AI-Assisted Remote Roles",
+   "bounds": [
+    7,
+    -1382,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 59,
+   "role": "Button",
+   "label": "Pin AI-Assisted Remote Roles",
+   "bounds": [
+    -16,
+    -1398,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 60,
+   "role": "Button",
+   "label": "Open conversation options for AI-Assisted Remote Roles",
+   "bounds": [
+    19,
+    -1398,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 61,
+   "role": "Hyperlink",
+   "label": "Cover Page Suggestions",
+   "bounds": [
+    7,
+    -1337,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 62,
+   "role": "Button",
+   "label": "Pin Cover Page Suggestions",
+   "bounds": [
+    -16,
+    -1353,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 63,
+   "role": "Button",
+   "label": "Open conversation options for Cover Page Suggestions",
+   "bounds": [
+    19,
+    -1353,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 64,
+   "role": "Hyperlink",
+   "label": "Professional Headshot Description",
+   "bounds": [
+    7,
+    -1292,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 65,
+   "role": "Button",
+   "label": "Pin Professional Headshot Description",
+   "bounds": [
+    -16,
+    -1308,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 66,
+   "role": "Button",
+   "label": "Open conversation options for Professional Headshot Description",
+   "bounds": [
+    19,
+    -1308,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 67,
+   "role": "Hyperlink",
+   "label": "IBPS PO Pre Strategy",
+   "bounds": [
+    7,
+    -1247,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 68,
+   "role": "Button",
+   "label": "Pin IBPS PO Pre Strategy",
+   "bounds": [
+    -16,
+    -1263,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 69,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Pre Strategy",
+   "bounds": [
+    19,
+    -1263,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 70,
+   "role": "Hyperlink",
+   "label": "IBPS PO Pre Parajumbles",
+   "bounds": [
+    7,
+    -1202,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 71,
+   "role": "Button",
+   "label": "Pin IBPS PO Pre Parajumbles",
+   "bounds": [
+    -16,
+    -1218,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 72,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Pre Parajumbles",
+   "bounds": [
+    19,
+    -1218,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 73,
+   "role": "Hyperlink",
+   "label": "IBPS PO Error Detection, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -1157,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 74,
+   "role": "Button",
+   "label": "Pin IBPS PO Error Detection",
+   "bounds": [
+    -16,
+    -1173,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 75,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Error Detection",
+   "bounds": [
+    19,
+    -1173,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 76,
+   "role": "Hyperlink",
+   "label": "4 Mahine Ka Learning Plan",
+   "bounds": [
+    7,
+    -1112,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 77,
+   "role": "Button",
+   "label": "Pin 4 Mahine Ka Learning Plan",
+   "bounds": [
+    -16,
+    -1128,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 78,
+   "role": "Button",
+   "label": "Open conversation options for 4 Mahine Ka Learning Plan",
+   "bounds": [
+    19,
+    -1128,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 79,
+   "role": "Hyperlink",
+   "label": "RSS VHP Bajrang Dal Allegations",
+   "bounds": [
+    7,
+    -1067,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 80,
+   "role": "Button",
+   "label": "Pin RSS VHP Bajrang Dal Allegations",
+   "bounds": [
+    -16,
+    -1083,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 81,
+   "role": "Button",
+   "label": "Open conversation options for RSS VHP Bajrang Dal Allegations",
+   "bounds": [
+    19,
+    -1083,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 82,
+   "role": "Hyperlink",
+   "label": "Current Affairs Preparation Guide",
+   "bounds": [
+    7,
+    -1022,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 83,
+   "role": "Button",
+   "label": "Pin Current Affairs Preparation Guide",
+   "bounds": [
+    -16,
+    -1038,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 84,
+   "role": "Button",
+   "label": "Open conversation options for Current Affairs Preparation Guide",
+   "bounds": [
+    19,
+    -1038,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 85,
+   "role": "Hyperlink",
+   "label": "IBPS PO Mock Analysis, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -977,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 86,
+   "role": "Button",
+   "label": "Pin IBPS PO Mock Analysis",
+   "bounds": [
+    -16,
+    -993,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 87,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Mock Analysis",
+   "bounds": [
+    19,
+    -993,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 88,
+   "role": "Hyperlink",
+   "label": "RRB Clerk Haryana Vacancy",
+   "bounds": [
+    7,
+    -932,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 89,
+   "role": "Button",
+   "label": "Pin RRB Clerk Haryana Vacancy",
+   "bounds": [
+    -16,
+    -948,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 90,
+   "role": "Button",
+   "label": "Open conversation options for RRB Clerk Haryana Vacancy",
+   "bounds": [
+    19,
+    -948,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 91,
+   "role": "Hyperlink",
+   "label": "SBI Clerk Haryana Vacancy 2026",
+   "bounds": [
+    7,
+    -887,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 92,
+   "role": "Button",
+   "label": "Pin SBI Clerk Haryana Vacancy 2026",
+   "bounds": [
+    -38,
+    -903,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 93,
+   "role": "Button",
+   "label": "Open conversation options for SBI Clerk Haryana Vacancy 2026",
+   "bounds": [
+    -3,
+    -903,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 94,
+   "role": "Hyperlink",
+   "label": "Daily Current Affairs Mentor, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -842,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 95,
+   "role": "Button",
+   "label": "Pin Daily Current Affairs Mentor",
+   "bounds": [
+    -16,
+    -858,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 96,
+   "role": "Button",
+   "label": "Open conversation options for Daily Current Affairs Mentor",
+   "bounds": [
+    19,
+    -858,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 97,
+   "role": "Hyperlink",
+   "label": "IBPS PO Puzzle Plan",
+   "bounds": [
+    7,
+    -797,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 98,
+   "role": "Button",
+   "label": "Pin IBPS PO Puzzle Plan",
+   "bounds": [
+    -16,
+    -813,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 99,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Puzzle Plan",
+   "bounds": [
+    19,
+    -813,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 100,
+   "role": "Hyperlink",
+   "label": "Self Declaration IBPS 2026",
+   "bounds": [
+    7,
+    -752,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 101,
+   "role": "Button",
+   "label": "Pin Self Declaration IBPS 2026",
+   "bounds": [
+    -16,
+    -768,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 102,
+   "role": "Button",
+   "label": "Open conversation options for Self Declaration IBPS 2026",
+   "bounds": [
+    19,
+    -768,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 103,
+   "role": "Hyperlink",
+   "label": "OpenAI Platform Assistance",
+   "bounds": [
+    7,
+    -707,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 104,
+   "role": "Button",
+   "label": "Pin OpenAI Platform Assistance",
+   "bounds": [
+    -16,
+    -723,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 105,
+   "role": "Button",
+   "label": "Open conversation options for OpenAI Platform Assistance",
+   "bounds": [
+    19,
+    -723,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 106,
+   "role": "Hyperlink",
+   "label": "GPT-5.6 Luna Differences",
+   "bounds": [
+    7,
+    -662,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 107,
+   "role": "Button",
+   "label": "Pin GPT-5.6 Luna Differences",
+   "bounds": [
+    -16,
+    -678,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 108,
+   "role": "Button",
+   "label": "Open conversation options for GPT-5.6 Luna Differences",
+   "bounds": [
+    19,
+    -678,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 109,
+   "role": "Hyperlink",
+   "label": "IBPS PO Preparation Resources, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -617,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 110,
+   "role": "Button",
+   "label": "Pin IBPS PO Preparation Resources",
+   "bounds": [
+    -16,
+    -633,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 111,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Preparation Resources",
+   "bounds": [
+    19,
+    -633,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 112,
+   "role": "Hyperlink",
+   "label": "07 अगस्त 2026 समाचार",
+   "bounds": [
+    7,
+    -572,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 113,
+   "role": "Button",
+   "label": "Pin 07 अगस्त 2026 समाचार",
+   "bounds": [
+    -16,
+    -588,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 114,
+   "role": "Button",
+   "label": "Open conversation options for 07 अगस्त 2026 समाचार",
+   "bounds": [
+    19,
+    -588,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 115,
+   "role": "Hyperlink",
+   "label": "Political Science UPSC Guide, chat in project Political science",
+   "bounds": [
+    7,
+    -527,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 116,
+   "role": "Button",
+   "label": "Pin Political Science UPSC Guide",
+   "bounds": [
+    -16,
+    -543,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 117,
+   "role": "Button",
+   "label": "Open conversation options for Political Science UPSC Guide",
+   "bounds": [
+    19,
+    -543,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 118,
+   "role": "Hyperlink",
+   "label": "Mission 70+ Puzzle",
+   "bounds": [
+    7,
+    -482,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 119,
+   "role": "Button",
+   "label": "Pin Mission 70+ Puzzle",
+   "bounds": [
+    -16,
+    -498,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 120,
+   "role": "Button",
+   "label": "Open conversation options for Mission 70+ Puzzle",
+   "bounds": [
+    19,
+    -498,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 121,
+   "role": "Hyperlink",
+   "label": "IBPS PO Pattern Extraction, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -437,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 122,
+   "role": "Button",
+   "label": "Pin IBPS PO Pattern Extraction",
+   "bounds": [
+    -16,
+    -453,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 123,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Pattern Extraction",
+   "bounds": [
+    19,
+    -453,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 124,
+   "role": "Hyperlink",
+   "label": "Current Affairs Summary",
+   "bounds": [
+    7,
+    -392,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 125,
+   "role": "Button",
+   "label": "Pin Current Affairs Summary",
+   "bounds": [
+    -16,
+    -408,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 126,
+   "role": "Button",
+   "label": "Open conversation options for Current Affairs Summary",
+   "bounds": [
+    19,
+    -408,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 127,
+   "role": "Hyperlink",
+   "label": "IBPS Pre Puzzle Strategy, chat in project IBPS PO PRE CHats",
+   "bounds": [
+    7,
+    -347,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 128,
+   "role": "Button",
+   "label": "Pin IBPS Pre Puzzle Strategy",
+   "bounds": [
+    -16,
+    -363,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 129,
+   "role": "Button",
+   "label": "Open conversation options for IBPS Pre Puzzle Strategy",
+   "bounds": [
+    19,
+    -363,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 130,
+   "role": "Hyperlink",
+   "label": "IBPS PO Mains Revision",
+   "bounds": [
+    7,
+    -302,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 131,
+   "role": "Button",
+   "label": "Pin IBPS PO Mains Revision",
+   "bounds": [
+    -16,
+    -318,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 132,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Mains Revision",
+   "bounds": [
+    19,
+    -318,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 133,
+   "role": "Hyperlink",
+   "label": "IBPS PO GA Revision",
+   "bounds": [
+    7,
+    -257,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 134,
+   "role": "Button",
+   "label": "Pin IBPS PO GA Revision",
+   "bounds": [
+    -16,
+    -273,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 135,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO GA Revision",
+   "bounds": [
+    19,
+    -273,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 136,
+   "role": "Hyperlink",
+   "label": "IBPS Clerk Computer Certificate",
+   "bounds": [
+    7,
+    -212,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 137,
+   "role": "Button",
+   "label": "Pin IBPS Clerk Computer Certificate",
+   "bounds": [
+    -16,
+    -228,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 138,
+   "role": "Button",
+   "label": "Open conversation options for IBPS Clerk Computer Certificate",
+   "bounds": [
+    19,
+    -228,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 139,
+   "role": "Hyperlink",
+   "label": "IBPS PO English Strategy",
+   "bounds": [
+    7,
+    -167,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 140,
+   "role": "Button",
+   "label": "Pin IBPS PO English Strategy",
+   "bounds": [
+    -16,
+    -183,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 141,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO English Strategy",
+   "bounds": [
+    19,
+    -183,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 142,
+   "role": "Hyperlink",
+   "label": "DI Calculation Strategy",
+   "bounds": [
+    7,
+    -122,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 143,
+   "role": "Button",
+   "label": "Pin DI Calculation Strategy",
+   "bounds": [
+    -16,
+    -138,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 144,
+   "role": "Button",
+   "label": "Open conversation options for DI Calculation Strategy",
+   "bounds": [
+    19,
+    -138,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 145,
+   "role": "Hyperlink",
+   "label": "AI Workflow Optimization",
+   "bounds": [
+    7,
+    -77,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 146,
+   "role": "Button",
+   "label": "Pin AI Workflow Optimization",
+   "bounds": [
+    -16,
+    -93,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 147,
+   "role": "Button",
+   "label": "Open conversation options for AI Workflow Optimization",
+   "bounds": [
+    19,
+    -93,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 148,
+   "role": "Hyperlink",
+   "label": "Political Science Simplified",
+   "bounds": [
+    7,
+    -32,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 149,
+   "role": "Button",
+   "label": "Pin Political Science Simplified",
+   "bounds": [
+    -16,
+    -48,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 150,
+   "role": "Button",
+   "label": "Open conversation options for Political Science Simplified",
+   "bounds": [
+    19,
+    -48,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 151,
+   "role": "Hyperlink",
+   "label": "SBI PO Prelims Checklist",
+   "bounds": [
+    7,
+    13,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 152,
+   "role": "Button",
+   "label": "Pin SBI PO Prelims Checklist",
+   "bounds": [
+    -16,
+    -3,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 153,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Prelims Checklist",
+   "bounds": [
+    19,
+    -3,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 154,
+   "role": "Hyperlink",
+   "label": "Explain KR in Tablets",
+   "bounds": [
+    7,
+    58,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 155,
+   "role": "Button",
+   "label": "Pin Explain KR in Tablets",
+   "bounds": [
+    -16,
+    42,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 156,
+   "role": "Button",
+   "label": "Open conversation options for Explain KR in Tablets",
+   "bounds": [
+    19,
+    42,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 157,
+   "role": "Hyperlink",
+   "label": "Ultrasound pros and cons",
+   "bounds": [
+    7,
+    103,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 158,
+   "role": "Button",
+   "label": "Pin Ultrasound pros and cons",
+   "bounds": [
+    -16,
+    87,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 159,
+   "role": "Button",
+   "label": "Open conversation options for Ultrasound pros and cons",
+   "bounds": [
+    19,
+    87,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 160,
+   "role": "Hyperlink",
+   "label": "Droupadi Murmu Education Politics",
+   "bounds": [
+    7,
+    148,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 161,
+   "role": "Button",
+   "label": "Pin Droupadi Murmu Education Politics",
+   "bounds": [
+    -16,
+    132,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 162,
+   "role": "Button",
+   "label": "Open conversation options for Droupadi Murmu Education Politics",
+   "bounds": [
+    19,
+    132,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 163,
+   "role": "Hyperlink",
+   "label": "Chest Thakawat aur Remedies",
+   "bounds": [
+    7,
+    193,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 164,
+   "role": "Button",
+   "label": "Pin Chest Thakawat aur Remedies",
+   "bounds": [
+    -16,
+    177,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 165,
+   "role": "Button",
+   "label": "Open conversation options for Chest Thakawat aur Remedies",
+   "bounds": [
+    19,
+    177,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 166,
+   "role": "Hyperlink",
+   "label": "2026 Bank Insurance Papers",
+   "bounds": [
+    7,
+    238,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 167,
+   "role": "Button",
+   "label": "Pin 2026 Bank Insurance Papers",
+   "bounds": [
+    -16,
+    222,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 168,
+   "role": "Button",
+   "label": "Open conversation options for 2026 Bank Insurance Papers",
+   "bounds": [
+    19,
+    222,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 169,
+   "role": "Hyperlink",
+   "label": "Nombres comunes Portugal",
+   "bounds": [
+    7,
+    283,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 170,
+   "role": "Button",
+   "label": "Pin Nombres comunes Portugal",
+   "bounds": [
+    -16,
+    267,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 171,
+   "role": "Button",
+   "label": "Open conversation options for Nombres comunes Portugal",
+   "bounds": [
+    19,
+    267,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 172,
+   "role": "Hyperlink",
+   "label": "YouTube video request",
+   "bounds": [
+    7,
+    328,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 173,
+   "role": "Button",
+   "label": "Pin YouTube video request",
+   "bounds": [
+    -16,
+    312,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 174,
+   "role": "Button",
+   "label": "Open conversation options for YouTube video request",
+   "bounds": [
+    19,
+    312,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 175,
+   "role": "Hyperlink",
+   "label": "Tense Improvement Plan",
+   "bounds": [
+    7,
+    373,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 176,
+   "role": "Button",
+   "label": "Pin Tense Improvement Plan",
+   "bounds": [
+    -16,
+    357,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 177,
+   "role": "Button",
+   "label": "Open conversation options for Tense Improvement Plan",
+   "bounds": [
+    19,
+    357,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 178,
+   "role": "Hyperlink",
+   "label": "CBSE Unit Test Prep",
+   "bounds": [
+    7,
+    418,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 179,
+   "role": "Button",
+   "label": "Pin CBSE Unit Test Prep",
+   "bounds": [
+    -16,
+    402,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 180,
+   "role": "Button",
+   "label": "Open conversation options for CBSE Unit Test Prep",
+   "bounds": [
+    19,
+    402,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 181,
+   "role": "Hyperlink",
+   "label": "SBI PO Prep Strategy",
+   "bounds": [
+    7,
+    463,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 182,
+   "role": "Button",
+   "label": "Pin SBI PO Prep Strategy",
+   "bounds": [
+    -16,
+    447,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 183,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Prep Strategy",
+   "bounds": [
+    19,
+    447,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 184,
+   "role": "Hyperlink",
+   "label": "Bank Exam Calculation Retention",
+   "bounds": [
+    7,
+    508,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 185,
+   "role": "Button",
+   "label": "Pin Bank Exam Calculation Retention",
+   "bounds": [
+    -16,
+    492,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 186,
+   "role": "Button",
+   "label": "Open conversation options for Bank Exam Calculation Retention",
+   "bounds": [
+    19,
+    492,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 187,
+   "role": "Hyperlink",
+   "label": "English Tense Mastery Plan",
+   "bounds": [
+    7,
+    553,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 188,
+   "role": "Button",
+   "label": "Pin English Tense Mastery Plan",
+   "bounds": [
+    -16,
+    537,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 189,
+   "role": "Button",
+   "label": "Open conversation options for English Tense Mastery Plan",
+   "bounds": [
+    19,
+    537,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 190,
+   "role": "Hyperlink",
+   "label": "Geography Introduction Summary",
+   "bounds": [
+    7,
+    598,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 191,
+   "role": "Button",
+   "label": "Pin Geography Introduction Summary",
+   "bounds": [
+    -16,
+    582,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 192,
+   "role": "Button",
+   "label": "Open conversation options for Geography Introduction Summary",
+   "bounds": [
+    19,
+    582,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 193,
+   "role": "Hyperlink",
+   "label": "NotebookLM Study Plan",
+   "bounds": [
+    7,
+    643,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 194,
+   "role": "Button",
+   "label": "Pin NotebookLM Study Plan",
+   "bounds": [
+    -16,
+    627,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 195,
+   "role": "Button",
+   "label": "Open conversation options for NotebookLM Study Plan",
+   "bounds": [
+    19,
+    627,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 196,
+   "role": "Hyperlink",
+   "label": "Chhota Char Dham Yatra",
+   "bounds": [
+    7,
+    688,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 197,
+   "role": "Button",
+   "label": "Pin Chhota Char Dham Yatra",
+   "bounds": [
+    -16,
+    672,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 198,
+   "role": "Button",
+   "label": "Open conversation options for Chhota Char Dham Yatra",
+   "bounds": [
+    19,
+    672,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 199,
+   "role": "Hyperlink",
+   "label": "Memory Retention Mnemonics",
+   "bounds": [
+    7,
+    733,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 200,
+   "role": "Button",
+   "label": "Pin Memory Retention Mnemonics",
+   "bounds": [
+    221,
+    732,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 201,
+   "role": "Button",
+   "label": "Open conversation options for Memory Retention Mnemonics",
+   "bounds": [
+    256,
+    732,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 202,
+   "role": "Hyperlink",
+   "label": "Vocab Prompt Limitations",
+   "bounds": [
+    7,
+    778,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 203,
+   "role": "Button",
+   "label": "Pin Vocab Prompt Limitations",
+   "bounds": [
+    -16,
+    762,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 204,
+   "role": "Button",
+   "label": "Open conversation options for Vocab Prompt Limitations",
+   "bounds": [
+    19,
+    762,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 205,
+   "role": "Hyperlink",
+   "label": "Highest Mountain Peaks India",
+   "bounds": [
+    7,
+    823,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 206,
+   "role": "Button",
+   "label": "Pin Highest Mountain Peaks India",
+   "bounds": [
+    -16,
+    807,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 207,
+   "role": "Button",
+   "label": "Open conversation options for Highest Mountain Peaks India",
+   "bounds": [
+    19,
+    807,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 208,
+   "role": "Hyperlink",
+   "label": "Math Question Solution",
+   "bounds": [
+    7,
+    868,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 209,
+   "role": "Button",
+   "label": "Pin Math Question Solution",
+   "bounds": [
+    -16,
+    852,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 210,
+   "role": "Button",
+   "label": "Open conversation options for Math Question Solution",
+   "bounds": [
+    19,
+    852,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 211,
+   "role": "Hyperlink",
+   "label": "English Mock Analysis",
+   "bounds": [
+    7,
+    913,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 212,
+   "role": "Button",
+   "label": "Pin English Mock Analysis",
+   "bounds": [
+    -16,
+    897,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 213,
+   "role": "Button",
+   "label": "Open conversation options for English Mock Analysis",
+   "bounds": [
+    19,
+    897,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 214,
+   "role": "Hyperlink",
+   "label": "IBPS PO Current Affairs",
+   "bounds": [
+    7,
+    958,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 215,
+   "role": "Button",
+   "label": "Pin IBPS PO Current Affairs",
+   "bounds": [
+    -16,
+    942,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 216,
+   "role": "Button",
+   "label": "Open conversation options for IBPS PO Current Affairs",
+   "bounds": [
+    19,
+    942,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 217,
+   "role": "Hyperlink",
+   "label": "Himalayas Geography Summary",
+   "bounds": [
+    7,
+    1003,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 218,
+   "role": "Button",
+   "label": "Pin Himalayas Geography Summary",
+   "bounds": [
+    -16,
+    987,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 219,
+   "role": "Button",
+   "label": "Open conversation options for Himalayas Geography Summary",
+   "bounds": [
+    19,
+    987,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 220,
+   "role": "Hyperlink",
+   "label": "Himalayas Video Explanation",
+   "bounds": [
+    7,
+    1048,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 221,
+   "role": "Button",
+   "label": "Pin Himalayas Video Explanation",
+   "bounds": [
+    -16,
+    1032,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 222,
+   "role": "Button",
+   "label": "Open conversation options for Himalayas Video Explanation",
+   "bounds": [
+    19,
+    1032,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 223,
+   "role": "Hyperlink",
+   "label": "Geography Introduction Hindi",
+   "bounds": [
+    7,
+    1093,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 224,
+   "role": "Button",
+   "label": "Pin Geography Introduction Hindi",
+   "bounds": [
+    -16,
+    1077,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 225,
+   "role": "Button",
+   "label": "Open conversation options for Geography Introduction Hindi",
+   "bounds": [
+    19,
+    1077,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 226,
+   "role": "Hyperlink",
+   "label": "80/20 Rule SBI PO",
+   "bounds": [
+    7,
+    1138,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 227,
+   "role": "Button",
+   "label": "Pin 80/20 Rule SBI PO",
+   "bounds": [
+    -16,
+    1122,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 228,
+   "role": "Button",
+   "label": "Open conversation options for 80/20 Rule SBI PO",
+   "bounds": [
+    19,
+    1122,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 229,
+   "role": "Hyperlink",
+   "label": "Screen Sharing Capabilities",
+   "bounds": [
+    7,
+    1183,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 230,
+   "role": "Button",
+   "label": "Pin Screen Sharing Capabilities",
+   "bounds": [
+    -16,
+    1167,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 231,
+   "role": "Button",
+   "label": "Open conversation options for Screen Sharing Capabilities",
+   "bounds": [
+    19,
+    1167,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 232,
+   "role": "Hyperlink",
+   "label": "Mock Analysis Advice",
+   "bounds": [
+    7,
+    1228,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 233,
+   "role": "Button",
+   "label": "Pin Mock Analysis Advice",
+   "bounds": [
+    -16,
+    1212,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 234,
+   "role": "Button",
+   "label": "Open conversation options for Mock Analysis Advice",
+   "bounds": [
+    19,
+    1212,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 235,
+   "role": "Hyperlink",
+   "label": "SBI PO News Breakdown",
+   "bounds": [
+    7,
+    1273,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 236,
+   "role": "Button",
+   "label": "Pin SBI PO News Breakdown",
+   "bounds": [
+    -16,
+    1257,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 237,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO News Breakdown",
+   "bounds": [
+    19,
+    1257,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 238,
+   "role": "Hyperlink",
+   "label": "English Improvement Plan",
+   "bounds": [
+    7,
+    1318,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 239,
+   "role": "Button",
+   "label": "Pin English Improvement Plan",
+   "bounds": [
+    -16,
+    1302,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 240,
+   "role": "Button",
+   "label": "Open conversation options for English Improvement Plan",
+   "bounds": [
+    19,
+    1302,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 241,
+   "role": "Hyperlink",
+   "label": "Project 90 Overview",
+   "bounds": [
+    7,
+    1363,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 242,
+   "role": "Button",
+   "label": "Pin Project 90 Overview",
+   "bounds": [
+    -16,
+    1347,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 243,
+   "role": "Button",
+   "label": "Open conversation options for Project 90 Overview",
+   "bounds": [
+    19,
+    1347,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 244,
+   "role": "Hyperlink",
+   "label": "SBI PO Exam Strategy",
+   "bounds": [
+    7,
+    1408,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 245,
+   "role": "Button",
+   "label": "Pin SBI PO Exam Strategy",
+   "bounds": [
+    -16,
+    1392,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 246,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Exam Strategy",
+   "bounds": [
+    19,
+    1392,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 247,
+   "role": "Hyperlink",
+   "label": "SBI PO Mentorship Plan",
+   "bounds": [
+    7,
+    1453,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 248,
+   "role": "Button",
+   "label": "Pin SBI PO Mentorship Plan",
+   "bounds": [
+    -16,
+    1437,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 249,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Mentorship Plan",
+   "bounds": [
+    19,
+    1437,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 250,
+   "role": "Hyperlink",
+   "label": "4 Mocks a Day Strategy",
+   "bounds": [
+    7,
+    1498,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 251,
+   "role": "Button",
+   "label": "Pin 4 Mocks a Day Strategy",
+   "bounds": [
+    -16,
+    1482,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 252,
+   "role": "Button",
+   "label": "Open conversation options for 4 Mocks a Day Strategy",
+   "bounds": [
+    19,
+    1482,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 253,
+   "role": "Hyperlink",
+   "label": "SBI PO Exam Strategy",
+   "bounds": [
+    7,
+    1543,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 254,
+   "role": "Button",
+   "label": "Pin SBI PO Exam Strategy",
+   "bounds": [
+    -16,
+    1527,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 255,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Exam Strategy",
+   "bounds": [
+    19,
+    1527,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 256,
+   "role": "Hyperlink",
+   "label": "Elite English Training Plan",
+   "bounds": [
+    7,
+    1588,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 257,
+   "role": "Button",
+   "label": "Pin Elite English Training Plan",
+   "bounds": [
+    -16,
+    1572,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 258,
+   "role": "Button",
+   "label": "Open conversation options for Elite English Training Plan",
+   "bounds": [
+    19,
+    1572,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 259,
+   "role": "Hyperlink",
+   "label": "AI Business Roadmap",
+   "bounds": [
+    7,
+    1633,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 260,
+   "role": "Button",
+   "label": "Pin AI Business Roadmap",
+   "bounds": [
+    -16,
+    1617,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 261,
+   "role": "Button",
+   "label": "Open conversation options for AI Business Roadmap",
+   "bounds": [
+    19,
+    1617,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 262,
+   "role": "Hyperlink",
+   "label": "Vocabulary Revision Strategy",
+   "bounds": [
+    7,
+    1678,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 263,
+   "role": "Button",
+   "label": "Pin Vocabulary Revision Strategy",
+   "bounds": [
+    -16,
+    1662,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 264,
+   "role": "Button",
+   "label": "Open conversation options for Vocabulary Revision Strategy",
+   "bounds": [
+    19,
+    1662,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 265,
+   "role": "Hyperlink",
+   "label": "2026 World Cup Briefing",
+   "bounds": [
+    7,
+    1723,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 266,
+   "role": "Button",
+   "label": "Pin 2026 World Cup Briefing",
+   "bounds": [
+    -16,
+    1707,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 267,
+   "role": "Button",
+   "label": "Open conversation options for 2026 World Cup Briefing",
+   "bounds": [
+    19,
+    1707,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 268,
+   "role": "Hyperlink",
+   "label": "SBI PO English Mastery",
+   "bounds": [
+    7,
+    1768,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 269,
+   "role": "Button",
+   "label": "Pin SBI PO English Mastery",
+   "bounds": [
+    -16,
+    1752,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 270,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO English Mastery",
+   "bounds": [
+    19,
+    1752,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 271,
+   "role": "Hyperlink",
+   "label": "English Exam Analysis Prompt",
+   "bounds": [
+    7,
+    1813,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 272,
+   "role": "Button",
+   "label": "Pin English Exam Analysis Prompt",
+   "bounds": [
+    -16,
+    1797,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 273,
+   "role": "Button",
+   "label": "Open conversation options for English Exam Analysis Prompt",
+   "bounds": [
+    19,
+    1797,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 274,
+   "role": "Hyperlink",
+   "label": "Smartkeeda PDF Exam Revision",
+   "bounds": [
+    7,
+    1858,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 275,
+   "role": "Button",
+   "label": "Pin Smartkeeda PDF Exam Revision",
+   "bounds": [
+    -16,
+    1842,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 276,
+   "role": "Button",
+   "label": "Open conversation options for Smartkeeda PDF Exam Revision",
+   "bounds": [
+    19,
+    1842,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 277,
+   "role": "Hyperlink",
+   "label": "Data Table Extraction Prompt",
+   "bounds": [
+    7,
+    1903,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 278,
+   "role": "Button",
+   "label": "Pin Data Table Extraction Prompt",
+   "bounds": [
+    -16,
+    1887,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 279,
+   "role": "Button",
+   "label": "Open conversation options for Data Table Extraction Prompt",
+   "bounds": [
+    19,
+    1887,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 280,
+   "role": "Hyperlink",
+   "label": "SBI PO Mains Extraction",
+   "bounds": [
+    7,
+    1948,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 281,
+   "role": "Button",
+   "label": "Pin SBI PO Mains Extraction",
+   "bounds": [
+    -16,
+    1932,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 282,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Mains Extraction",
+   "bounds": [
+    19,
+    1932,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 283,
+   "role": "Hyperlink",
+   "label": "Data Extraction Prompt",
+   "bounds": [
+    7,
+    1993,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 284,
+   "role": "Button",
+   "label": "Pin Data Extraction Prompt",
+   "bounds": [
+    -16,
+    1977,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 285,
+   "role": "Button",
+   "label": "Open conversation options for Data Extraction Prompt",
+   "bounds": [
+    19,
+    1977,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 286,
+   "role": "Hyperlink",
+   "label": "SBI PO Preparation Prompt",
+   "bounds": [
+    7,
+    2038,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 287,
+   "role": "Button",
+   "label": "Pin SBI PO Preparation Prompt",
+   "bounds": [
+    -16,
+    2022,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 288,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Preparation Prompt",
+   "bounds": [
+    19,
+    2022,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 289,
+   "role": "Hyperlink",
+   "label": "SBI PO Final Selection",
+   "bounds": [
+    7,
+    2083,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 290,
+   "role": "Button",
+   "label": "Pin SBI PO Final Selection",
+   "bounds": [
+    -16,
+    2067,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 291,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Final Selection",
+   "bounds": [
+    19,
+    2067,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 292,
+   "role": "Hyperlink",
+   "label": "SBI PO Final Selection",
+   "bounds": [
+    7,
+    2128,
+    292,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 293,
+   "role": "Button",
+   "label": "Pin SBI PO Final Selection",
+   "bounds": [
+    -16,
+    2112,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 294,
+   "role": "Button",
+   "label": "Open conversation options for SBI PO Final Selection",
+   "bounds": [
+    19,
+    2112,
+    43,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 295,
+   "role": "Button",
+   "label": "Deepak Sheoran Go, open profile menu",
+   "bounds": [
+    10,
+    947,
+    308,
+    66
+   ],
+   "app": ""
+  },
+  {
+   "index": 296,
+   "role": "Text",
+   "label": "Deepak Sheoran",
+   "bounds": [
+    60,
+    956,
+    127,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 297,
+   "role": "Text",
+   "label": "Go",
+   "bounds": [
+    60,
+    980,
+    20,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 298,
+   "role": "Button",
+   "label": "Download apps",
+   "bounds": [
+    262,
+    957,
+    46,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 299,
+   "role": "Button",
+   "label": "Share",
+   "bounds": [
+    1729,
+    161,
+    107,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 300,
+   "role": "Group",
+   "label": "radix-_r_11u_",
+   "bounds": [
+    1846,
+    161,
+    45,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 301,
+   "role": "Button",
+   "label": "More",
+   "bounds": [
+    1846,
+    161,
+    45,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 302,
+   "role": "Text",
+   "label": "*   **🔥 DATABASE UPDATED! 🔥**\n*   Bhai, aapki 130+ words ki massive list 100% feed ho chuki hai!\n*   Aapne \"Extreme Repetition\" manga hai, wahi milega. Har word itni baar samne aayega ki dimaag usko chah kar bhi bhool nahi payega.\n*   Kyunki words bahut saare hain, System V3.1 isko **Adaptive Chunks** me todega taaki **Brain Load** na ho aur 100% memory retention rahe.\n\n==================================================\n*   **🔥 DAILY TARGET DASHBOARD (DAY 3 - CHUNK 1) 🔥**\n*   **Theme:** Bitterness, Hard Work & Relief (कड़वाहट, कड़ी मेहनत और राहत) 🛠️\n*   **Today's Target:** User List First 10 Words + 5 Idioms + 5 Phrasal Verbs.\n*   **Format:** 100% Bullet Points. Zero Paragraphs.\n==================================================\n\n*   **🎬 MULTI-SENSORY SCENE**\n*   *Color:* गहरा लाल (गस्सा) और हल्का नीला (राहत).\n*   *Sound:* भारी हथौड़े चलने की आवाज़ और फिर एक गहरी चैन की सांस.\n*   *Emotion:* बहुत थकने के बाद अचानक से दर्द कम होने की फीलिंग.\n\n==================================================\n*   **🤬 GROUP 1: THE HARSH FAMILY (कड़वे और आक्रामक)**\n\n*   **1. ACERBIC (Uh-sur-bik)**\n*   **Meaning:** Harsh or bitter in speaking (कड़वा या तीखा स्वभाव).\n*   **Multi-Sensory:** *Taste:* नींबू या एसिड जैसा खट्टा-कड़वा टेस्ट.\n*   **Desi Trick:** ACID + BIK. \"Acid बिक\" रहा है! जो इंसान एसिड पी लेगा, उसकी आवाज़ *acerbic* (कड़वी) हो जाएगी.\n*   **Cross-Link:** Ye इंसान हमेशा दूसरों को **Excoriate** (धज्जियां उड़ाना) करता है.\n*   **Sentence:** The critic wrote an acerbic review of the new movie.\n\n*   **2. AVERSION (Uh-vur-zhun)** [Source: User List / PDF 5]\n*   **Meaning:** A strong dislike or disinclination (सख्त नफरत).\n*   **Desi Trick:** A + VERSION. मुझे इस App का पुराना 'Version' बिल्कुल पसंद नहीं है, मुझे इससे *aversion* है.\n*   **Sentence:** He has a deep aversion to eating green vegetables.\n\n*   **3. AGGRESSIVELY (Uh-gres-iv-lee)**\n*   **Meaning:** In a forceful, determined, or hostile manner (आक्रामक रूप से).\n*   **Desi Trick:** AGREE + GUSA. किसी को गुस्से से डरा कर अपनी बात पर 'Agree' करवाना.\n*   **Sentence:** The company aggressively marketed its new product.\n\n==================================================\n*   **😌 GROUP 2: THE RELIEF & CHANGE FAMILY (बदलाव और राहत)**\n\n*   **4. ALLEVIATE (Uh-lee-vee-ayt)** [Source: PDF 5, User List]\n*   **Meaning:** To make pain or a problem less severe (दर्द या परेशानी कम करना).\n*   **Desi Trick:** ALL + EVIL + ATE. अगर दुनिया के सारे 'Evil' (बुराई) को कोई 'Ate' (खा ले), तो दुनिया का दर्द *alleviate* हो जाएगा.\n*   **Cross-Link:** Ye **Assuage** और **Mitigate** का जुड़वा भाई है.\n*   **Sentence:** The doctor gave her an injection to alleviate the pain.\n\n*   **5. ALTERED (Awl-terd)**\n*   **Meaning:** Changed in character or composition (बदला हुआ).\n*   **Desi Trick:** ALTER (दर्जी/Tailor). दर्जी जैसे कपड़े की फिटिंग 'Alter' (बदल) देता है.\n*   **Sentence:** The city's skyline has altered significantly over the years.\n\n*   **6. AUGMENTED (Awg-men-ted)** [Source: User List]\n*   **Meaning:** Having been made greater in size or value (बढ़ाया हुआ).\n*   **Desi Trick:** AUG (August) + MINT. अगस्त के महीने में मिंट (पुदीना) की डिमांड *augment* (बढ़) जाती है.\n*   **Sentence:** He augmented his income by working a part-time job.\n\n==================================================\n*   **🛠️ GROUP 3: HARD WORK & SKILL (मेहनत और कौशल)**\n\n*   **7. ARDUOUS (Ar-joo-us)** [Source: User List, PDF 5]\n*   **Meaning:** Involving a lot of effort and energy; difficult and tiring (कठिन और थकाऊ).\n*   **Desi Trick:** HARD + DO + US. ये काम 'Hard' है 'Do' (करने) में हमारे (Us) लिए = *Arduous*.\n*   **Cross-Link:** Ye काम इंसान को **Lethargic** (थका हुआ) बना देता है.\n*   **Sentence:** Climbing Mount Everest is an arduous journey.\n\n*   **8. APPRENTICESHIP (Uh-pren-tis-ship)**\n*   **Meaning:** A period of time working for a skilled person to learn a trade (प्रशिक्षुता / काम सीखना).\n*   **Desi Trick:** APPRENTICE (Trainee).\n*   **Sentence:** He served an apprenticeship as a carpenter.\n\n*   **9. ARTICULATING (Ar-tik-yuh-lay-ting)** [Source: PDF 6, User List]\n*   **Meaning:** Expressing ideas clearly and effectively (स्पष्ट रूप से व्यक्त करना).\n*   **Desi Trick:** ART + CALCULATE. जो इंसान अपनी बात को 'Calculate' करके एक 'Art' की तरह बोले.\n*   **Sentence:** She is great at articulating her thoughts during meetings.\n\n*   **10. ASYMMETRY (A-sim-i-tree)**\n*   **Meaning:** Lack of equality or equivalence between parts (असमानता / बेमेल).\n*   **Desi Trick:** A (Not) + SYMMETRY (समानता). जहाँ दोनों साइड बराबर ना हों.\n*   **Sentence:** There is a growing asymmetry in wealth distribution.\n\n==================================================\n*   **🎭 5 IDIOMS (THEME: GOOD vs BAD SITUATIONS)** [Source: PDF 2, 6]\n\n*   **11. Cream of the crop**\n*   **Meaning:** The best of a group (सबमें सर्वश्रेष्ठ).\n*   **Trick:** दूध के ऊपर की मलाई (Cream) सबसे बेस्ट होती है.\n*   **Sentence:** Only the cream of the crop get selected for this job.\n\n*   **12. Out of the frying pan into the fire**\n*   **Meaning:** From one bad situation to a worse one (आसमान से गिरे खजूर में अटके).\n*   **Sentence:** Quitting his job without a backup plan was like jumping out of the frying pan into the fire.\n\n*   **13. Over a barrel**\n*   **Meaning:** In a helpless position (मज़बूरी की हालत में होना).\n*   **Trick:** किसी को बैरल (ड्रम) के ऊपर उल्टा लटका देना, वो हिल भी नहीं पाएगा.\n*   **Sentence:** The supplier has us over a barrel because they are the only ones who make this part.\n\n*   **14. Cry over spilt milk**\n*   **Meaning:** Regret something irreversible (जो हो गया उस पर पछताना).\n*   **Sentence:** You failed the exam, but don't cry over spilt milk. Start studying again.\n\n*   **15. Cup of tea**\n*   **Meaning:** A favorite activity or something one is good at (पसंदीदा काम).\n*   **Sentence:** Solving complex puzzles is not my cup of tea.\n\n==================================================\n*   **⚙️ 5 PHRASAL VERBS (THEME: BUSINESS & ACTION)** [Source: PDF 5]\n\n*   **16. Scaling up**\n*   **Meaning:** To make something larger in size or amount (पैमाना बढ़ाना).\n*   **Sentence:** The startup is scaling up its operations across the country.\n\n*   **17. Map out**\n*   **Meaning:** To decide in detail how something will be done (पूरी प्लानिंग करना).\n*   **Sentence:** We need to map out a clear strategy for the next year.\n\n*   **18. Hush up**\n*   **Meaning:** To keep something a secret / stop a rumor (बात दबाना या छुपाना).\n*   **Sentence:** The company tried to hush up the financial scandal.\n\n*   **19. Roll out**\n*   **Meaning:** To offer a new product or service to the public (लॉन्च करना).\n*   **Sentence:** Apple will roll out its new software next week.\n\n*   **20. Draw flak**\n*   **Meaning:** To receive strong criticism (कड़ी आलोचना झेलना).\n*   **Cross-Link:** Jab koi **Excoriate** karta hai, tab aap flak draw karte ho.\n*   **Sentence:** The politician drew flak for his controversial comments.\n\n==================================================\n*   **⚡ EXTREME REPETITION & HEAT DECAY TEST (1-2 SECONDS) ⚡**\n*   **(Bina translation soche, bas keyword aur image mind me lao!)**\n\n*   **Q1. (User List Word):** दुनिया की 'All Evil' खा कर दर्द को कम करना? (Hint: A________te)\n*   **Q2. (Old Word Recall):** कंपनी के अकाउंट्स (Books) को गैस पर पकाना यानी घोटाला करना? (______ the books)\n*   **Q3. (User List Word):** 'Hard' काम को 'Do' करना जो बहुत थकाऊ हो? (Hint: Ar____s)\n*   **Q4. (User List Word):** 'Acid' जैसी कड़वी आवाज़ या स्वभाव? (Hint: Ac____c)\n*   **Q5.** Phrasal Verb: अपनी नई सर्विस को दुनिया के सामने लाना? (Hint: R___ out)\n*   **Q6. (Old Word Recall):** 'Pande' ji aur 'Muni' ji की लड़ाई से होने वाला भयंकर हंगामा? (Hint: Pan________)\n*   **Q7.** Idiom: आसमान से गिरे और आग में अटके (From bad to worse)? (Hint: Frying pan)\n*   **Q8. (User List Word):** अगस्त (August) के महीने में पुदीने की कीमत का बढ़ जाना? (Hint: Aug______)\n\n.\n.\n.\n.\n.\n.\n*   **(Bhai, check your brain! Did it click instantly?)**\n.\n.\n.\n.\n.\n.\n*   **🔥 ANSWERS 🔥**\n*   1. Alleviate\n*   2. Cook the books\n*   3. Arduous\n*   4. Acerbic\n*   5. Roll out\n*   6. Pandemonium\n*   7. Out of the frying pan into the fire\n*   8. Augmented\n\n*   Bhai, Chunk 1 phod diya! Agar answers 2 seconds me strike hue, toh Extreme Repetition kaam kar rahi hai. \n*   **Agle 10 words (User List Se) + 5 Idioms + 5 PVs ke liye type karo: \"NEXT\"**. Chl bhai suru hoja.  In normal mnumonics ko ultra best bna d d",
+   "bounds": [
+    950,
+    -8925,
+    638,
+    6778
+   ],
+   "app": ""
+  },
+  {
+   "index": 303,
+   "role": "Button",
+   "label": "Show more",
+   "bounds": [
+    950,
+    -8586,
+    116,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 304,
+   "role": "Button",
+   "label": "Copy message",
+   "bounds": [
+    1482,
+    -8538,
+    41,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 305,
+   "role": "Button",
+   "label": "Share prompt",
+   "bounds": [
+    1522,
+    -8538,
+    41,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 306,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    1562,
+    -8538,
+    41,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 307,
+   "role": "Text",
+   "label": "Bhai concept mast hai, but mnemonics aur bhi \"sticky\" ban sakte hain. Dimaag random cheezein nahi, ",
+   "bounds": [
+    642,
+    -8491,
+    901,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 308,
+   "role": "Text",
+   "label": "weird + emotional + visual",
+   "bounds": [
+    642,
+    -8491,
+    951,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 309,
+   "role": "Text",
+   "label": " scenes yaad rakhta hai. Humans will happily forget birthdays but remember a goat riding a scooter for ten years. Biology has questionable priorities. 😑",
+   "bounds": [
+    642,
+    -8459,
+    920,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 310,
+   "role": "Text",
+   "label": "Yeh rahe upgraded versions:",
+   "bounds": [
+    642,
+    -8374,
+    250,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 311,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -8276,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 312,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -8276,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 313,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 314,
+   "role": "Text",
+   "label": "Imagine koi ",
+   "bounds": [
+    642,
+    -8244,
+    110,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 315,
+   "role": "Text",
+   "label": "Acid",
+   "bounds": [
+    751,
+    -8244,
+    41,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 316,
+   "role": "Text",
+   "label": " se ",
+   "bounds": [
+    791,
+    -8244,
+    31,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 317,
+   "role": "Text",
+   "label": "Burger",
+   "bounds": [
+    821,
+    -8244,
+    62,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 318,
+   "role": "Text",
+   "label": " kha raha hai.",
+   "bounds": [
+    882,
+    -8244,
+    118,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 319,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 320,
+   "role": "Text",
+   "label": "Ek bite lete hi woh sabko ",
+   "bounds": [
+    642,
+    -8211,
+    226,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 321,
+   "role": "Text",
+   "label": "gaali dena",
+   "bounds": [
+    867,
+    -8211,
+    95,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 322,
+   "role": "Text",
+   "label": " shuru kar deta hai.",
+   "bounds": [
+    961,
+    -8211,
+    169,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 323,
+   "role": "Text",
+   "label": "ACID + BURGER = ACERBIC = Bitter words",
+   "bounds": [
+    672,
+    -8165,
+    385,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 324,
+   "role": "Text",
+   "label": "🧠 Image: Acid dripping burger + angry face.",
+   "bounds": [
+    642,
+    -8109,
+    403,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 325,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -7960,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 326,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -7960,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 327,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 328,
+   "role": "Text",
+   "label": "TV pe ",
+   "bounds": [
+    642,
+    -7928,
+    57,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 329,
+   "role": "Text",
+   "label": "A Version",
+   "bounds": [
+    699,
+    -7928,
+    87,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 330,
+   "role": "Text",
+   "label": " of karela ice cream ad chal raha hai.",
+   "bounds": [
+    785,
+    -7928,
+    320,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 331,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 332,
+   "role": "Text",
+   "label": "Tum dekhte hi bolte ho:",
+   "bounds": [
+    642,
+    -7895,
+    212,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 333,
+   "role": "Text",
+   "label": "\"Yuck! Mujhe isse lifetime aversion hai.\"",
+   "bounds": [
+    672,
+    -7849,
+    349,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 334,
+   "role": "Text",
+   "label": "A Version I hate = Aversion",
+   "bounds": [
+    672,
+    -7784,
+    247,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 335,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -7622,
+    34,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 336,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -7622,
+    152,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 337,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 338,
+   "role": "Text",
+   "label": "Ek ",
+   "bounds": [
+    642,
+    -7589,
+    27,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 339,
+   "role": "Text",
+   "label": "Aggressive Gorilla",
+   "bounds": [
+    668,
+    -7589,
+    164,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 340,
+   "role": "Text",
+   "label": " football leke sabko dhakka maar raha hai.",
+   "bounds": [
+    831,
+    -7589,
+    372,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 341,
+   "role": "Text",
+   "label": "AGGRESSIVE GORILLA = Aggressively",
+   "bounds": [
+    672,
+    -7543,
+    341,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 342,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -7381,
+    34,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 343,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -7381,
+    152,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 344,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 345,
+   "role": "Text",
+   "label": "Ek monster ne duniya ka ",
+   "bounds": [
+    642,
+    -7348,
+    222,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 346,
+   "role": "Text",
+   "label": "ALL EVIL ATE",
+   "bounds": [
+    863,
+    -7348,
+    118,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 347,
+   "role": "Text",
+   "label": ".",
+   "bounds": [
+    980,
+    -7348,
+    5,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 348,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 349,
+   "role": "Text",
+   "label": "Sab log ekdum relief feel karte hain.",
+   "bounds": [
+    642,
+    -7316,
+    318,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 350,
+   "role": "Text",
+   "label": "ALL EVIL ATE = ALLEVIATE",
+   "bounds": [
+    672,
+    -7269,
+    237,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 351,
+   "role": "Text",
+   "label": "Isko kabhi mat badalna. Ye already top-tier mnemonic hai.",
+   "bounds": [
+    642,
+    -7213,
+    512,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 352,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -7065,
+    34,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 353,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -7065,
+    152,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 354,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 355,
+   "role": "Text",
+   "label": "Tailor ne Superman ki dress alter kar di.",
+   "bounds": [
+    642,
+    -7032,
+    346,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 356,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 357,
+   "role": "Text",
+   "label": "Ab Superman pink frock pehen ke ud raha hai.",
+   "bounds": [
+    642,
+    -7000,
+    409,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 358,
+   "role": "Text",
+   "label": "Tailor = Alter = Changed",
+   "bounds": [
+    672,
+    -6953,
+    218,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 359,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -6791,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 360,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -6791,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 361,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 362,
+   "role": "Text",
+   "label": "August me tumhari salary ke upar rocket lag gaya.",
+   "bounds": [
+    642,
+    -6759,
+    443,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 363,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 364,
+   "role": "Text",
+   "label": "₹20,000 → ₹2,00,000 🚀",
+   "bounds": [
+    642,
+    -6726,
+    215,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 365,
+   "role": "Text",
+   "label": "AUGust = Increase = Augment",
+   "bounds": [
+    672,
+    -6680,
+    278,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 366,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -6518,
+    34,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 367,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -6518,
+    152,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 368,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 369,
+   "role": "Text",
+   "label": "Tum gym me ",
+   "bounds": [
+    642,
+    -6485,
+    123,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 370,
+   "role": "Text",
+   "label": "Hard Do Us",
+   "bounds": [
+    764,
+    -6485,
+    105,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 371,
+   "role": "Text",
+   "label": " challenge karte ho.",
+   "bounds": [
+    868,
+    -6485,
+    174,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 372,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 373,
+   "role": "Text",
+   "label": "1000 push-ups.",
+   "bounds": [
+    642,
+    -6453,
+    136,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 374,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 375,
+   "role": "Text",
+   "label": "500 squats.",
+   "bounds": [
+    642,
+    -6420,
+    100,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 376,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 377,
+   "role": "Text",
+   "label": "Finally zameen pe gir jaate ho.",
+   "bounds": [
+    642,
+    -6388,
+    268,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 378,
+   "role": "Text",
+   "label": "HARD DO US = ARDUOUS",
+   "bounds": [
+    672,
+    -6341,
+    241,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 379,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -6179,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 380,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -6179,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 381,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 382,
+   "role": "Text",
+   "label": "Ek ",
+   "bounds": [
+    642,
+    -6147,
+    27,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 383,
+   "role": "Text",
+   "label": "Apprentice",
+   "bounds": [
+    668,
+    -6147,
+    100,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 384,
+   "role": "Text",
+   "label": " chai gira deta hai.",
+   "bounds": [
+    767,
+    -6147,
+    162,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 385,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 386,
+   "role": "Text",
+   "label": "Master usse bolta hai:",
+   "bounds": [
+    642,
+    -6114,
+    193,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 387,
+   "role": "Text",
+   "label": "\"Pehle 2 saal sirf dekh... phir kaam kar.\"",
+   "bounds": [
+    672,
+    -6068,
+    344,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 388,
+   "role": "Text",
+   "label": "Training period = Apprenticeship.",
+   "bounds": [
+    642,
+    -6012,
+    296,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 389,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -5863,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 390,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -5863,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 391,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 392,
+   "role": "Text",
+   "label": "TED Talk speaker har word ko laser ki tarah clear bol raha hai.",
+   "bounds": [
+    642,
+    -5831,
+    538,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 393,
+   "role": "Text",
+   "label": "ART of TALK = Articulating",
+   "bounds": [
+    672,
+    -5784,
+    234,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 394,
+   "role": "Text",
+   "label": "🔥 ",
+   "bounds": [
+    642,
+    -5622,
+    34,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 395,
+   "role": "Text",
+   "label": "Ultra Mnemonic:",
+   "bounds": [
+    675,
+    -5622,
+    152,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 396,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 397,
+   "role": "Text",
+   "label": "Ek aadmi ki ek mooch 2 meter ki,",
+   "bounds": [
+    642,
+    -5590,
+    292,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 398,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 399,
+   "role": "Text",
+   "label": "Dusri sirf 2 cm.",
+   "bounds": [
+    642,
+    -5557,
+    131,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 400,
+   "role": "Text",
+   "label": "Sab dekh ke has rahe hain.",
+   "bounds": [
+    642,
+    -5505,
+    236,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 401,
+   "role": "Text",
+   "label": "Same nahi = Asymmetry",
+   "bounds": [
+    672,
+    -5443,
+    217,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 402,
+   "role": "Text",
+   "label": "Har mnemonic me ye 5 cheezein honi chahiye:",
+   "bounds": [
+    642,
+    -5281,
+    410,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 403,
+   "role": "Text",
+   "label": "🎨 Bright color",
+   "bounds": [
+    682,
+    -5244,
+    137,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 404,
+   "role": "Text",
+   "label": "😂 Funny scene",
+   "bounds": [
+    682,
+    -5211,
+    143,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 405,
+   "role": "Text",
+   "label": "😨 Strong emotion",
+   "bounds": [
+    682,
+    -5179,
+    172,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 406,
+   "role": "Text",
+   "label": "🎬 Motion/action",
+   "bounds": [
+    682,
+    -5146,
+    160,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 407,
+   "role": "Text",
+   "label": "🤯 Impossible image",
+   "bounds": [
+    682,
+    -5114,
+    189,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 408,
+   "role": "Text",
+   "label": "Example:",
+   "bounds": [
+    642,
+    -5071,
+    79,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 409,
+   "role": "Text",
+   "label": "Acerbic",
+   "bounds": [
+    642,
+    -5019,
+    69,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 410,
+   "role": "Text",
+   "label": " ❌ Acid jaisa taste.",
+   "bounds": [
+    710,
+    -5019,
+    174,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 411,
+   "role": "Text",
+   "label": "Acerbic",
+   "bounds": [
+    642,
+    -4966,
+    69,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 412,
+   "role": "Text",
+   "label": " ✅ Red acid burger khaate hi principal sab bachcho ko gaali dene lagta hai aur muh se dhuan nikal raha hai. 🌋",
+   "bounds": [
+    642,
+    -4966,
+    947,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 413,
+   "role": "Text",
+   "label": "Ye image saalon tak chipak sakti hai.",
+   "bounds": [
+    642,
+    -4881,
+    320,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 414,
+   "role": "Text",
+   "label": "Memory Hack:",
+   "bounds": [
+    642,
+    -4829,
+    134,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 415,
+   "role": "Text",
+   "label": " Har word ko 5 second ke liye aankhen band karke movie ki tarah imagine karo. Sirf padhna retention nahi deta. Visualization + recall deta hai. Isi liye tumhare \"Extreme Repetition\" system me har revision ke time image ko bhi flash karna, sirf meaning ko nahi. That combination hits much harder. 🧠🔥",
+   "bounds": [
+    642,
+    -4829,
+    940,
+    93
+   ],
+   "app": ""
+  },
+  {
+   "index": 416,
+   "role": "Button",
+   "label": "Copy response",
+   "bounds": [
+    635,
+    -4722,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 417,
+   "role": "Button",
+   "label": "Rate response",
+   "bounds": [
+    675,
+    -4722,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 418,
+   "role": "Button",
+   "label": "Share",
+   "bounds": [
+    715,
+    -4722,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 419,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    755,
+    -4721,
+    40,
+    39
+   ],
+   "app": ""
+  },
+  {
+   "index": 420,
+   "role": "Button",
+   "label": "Switch model",
+   "bounds": [
+    755,
+    -4721,
+    40,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 421,
+   "role": "Button",
+   "label": "More actions",
+   "bounds": [
+    795,
+    -4722,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 422,
+   "role": "Text",
+   "label": "Na bhai koi mja nahi aaya. Baki.  Tume vocab bhi km btai h koi explanation nahi",
+   "bounds": [
+    950,
+    -4597,
+    557,
+    57
+   ],
+   "app": ""
+  },
+  {
+   "index": 423,
+   "role": "Button",
+   "label": "Copy message",
+   "bounds": [
+    1482,
+    -4521,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 424,
+   "role": "Button",
+   "label": "Share prompt",
+   "bounds": [
+    1522,
+    -4521,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 425,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    1562,
+    -4521,
+    41,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 426,
+   "role": "Text",
+   "label": "😂 Theek pakda. Ye waale mnemonics YouTube waale \"Acid + Burger = Acerbic\" level ke ho gaye. 2 din baad dimaag bolega, \"Burger tha ya Bander?\" Aur word gaya. Waste of revision.",
+   "bounds": [
+    642,
+    -4474,
+    960,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 427,
+   "role": "Text",
+   "label": "Tumhara prompt dekh ke mujhe ek cheez clear hui:",
+   "bounds": [
+    642,
+    -4389,
+    452,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 428,
+   "role": "Text",
+   "label": "Tum mnemonics nahi chahte. Tum \"teacher + storyteller + memory coach\" chahte ho.",
+   "bounds": [
+    642,
+    -4336,
+    777,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 429,
+   "role": "Text",
+   "label": "Har word me ye hona chahiye:",
+   "bounds": [
+    642,
+    -4284,
+    268,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 430,
+   "role": "Text",
+   "label": "🎯 Exact meaning ka feel",
+   "bounds": [
+    682,
+    -4231,
+    225,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 431,
+   "role": "Text",
+   "label": "🧠 Root/logic (agar possible ho)",
+   "bounds": [
+    682,
+    -4199,
+    289,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 432,
+   "role": "Text",
+   "label": "🎬 Powerful visual story",
+   "bounds": [
+    682,
+    -4166,
+    214,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 433,
+   "role": "Text",
+   "label": "🔗 Similar/Opposite words",
+   "bounds": [
+    682,
+    -4134,
+    241,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 434,
+   "role": "Text",
+   "label": "💼 SBI PO context",
+   "bounds": [
+    682,
+    -4101,
+    164,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 435,
+   "role": "Text",
+   "label": "🗣️ Daily English usage",
+   "bounds": [
+    682,
+    -4069,
+    203,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 436,
+   "role": "Text",
+   "label": "⚠️ Common mistake",
+   "bounds": [
+    682,
+    -4036,
+    189,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 437,
+   "role": "Text",
+   "label": "🔥 2-3 recall triggers",
+   "bounds": [
+    682,
+    -4004,
+    189,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 438,
+   "role": "Text",
+   "label": "Example dekho.",
+   "bounds": [
+    642,
+    -3961,
+    140,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 439,
+   "role": "Text",
+   "label": "Acerbic = Bitter in speech or writing.",
+   "bounds": [
+    642,
+    -3753,
+    333,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 440,
+   "role": "Text",
+   "label": "Ye physical taste ke liye normally use nahi hota.",
+   "bounds": [
+    642,
+    -3701,
+    417,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 441,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 442,
+   "role": "Text",
+   "label": "Ye ",
+   "bounds": [
+    642,
+    -3668,
+    26,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 443,
+   "role": "Text",
+   "label": "words",
+   "bounds": [
+    667,
+    -3668,
+    56,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 444,
+   "role": "Text",
+   "label": " ke liye use hota hai.",
+   "bounds": [
+    722,
+    -3668,
+    180,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 445,
+   "role": "Text",
+   "label": "Bitter tongue.",
+   "bounds": [
+    672,
+    -3607,
+    121,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 446,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 447,
+   "role": "Text",
+   "label": "Sharp criticism.",
+   "bounds": [
+    672,
+    -3577,
+    134,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 448,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 449,
+   "role": "Text",
+   "label": "Cutting remarks.",
+   "bounds": [
+    672,
+    -3547,
+    146,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 450,
+   "role": "Text",
+   "label": "Imagine karo...",
+   "bounds": [
+    642,
+    -3491,
+    129,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 451,
+   "role": "Text",
+   "label": "Office me ek senior manager hai.",
+   "bounds": [
+    642,
+    -3438,
+    291,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 452,
+   "role": "Text",
+   "label": "Har employee me koi na koi kami nikalta hai.",
+   "bounds": [
+    642,
+    -3386,
+    396,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 453,
+   "role": "Text",
+   "label": "\"Kya bakwas report banayi hai.\"",
+   "bounds": [
+    642,
+    -3333,
+    277,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 454,
+   "role": "Text",
+   "label": "\"Tumse kuch nahi hoga.\"",
+   "bounds": [
+    642,
+    -3281,
+    220,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 455,
+   "role": "Text",
+   "label": "\"Tumhari English bahut weak hai.\"",
+   "bounds": [
+    642,
+    -3228,
+    301,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 456,
+   "role": "Text",
+   "label": "Uski awaaz sunte hi sab employees ka mood kharab ho jata hai.",
+   "bounds": [
+    642,
+    -3176,
+    561,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 457,
+   "role": "Text",
+   "label": "Uske words chaku ki tarah nahi...",
+   "bounds": [
+    642,
+    -3123,
+    287,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 458,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 459,
+   "role": "Text",
+   "label": "Acid ki tarah jalte hain.",
+   "bounds": [
+    642,
+    -3091,
+    208,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 460,
+   "role": "Text",
+   "label": "👉 Ye hai ",
+   "bounds": [
+    642,
+    -3038,
+    91,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 461,
+   "role": "Text",
+   "label": "acerbic remarks",
+   "bounds": [
+    732,
+    -3038,
+    144,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 462,
+   "role": "Text",
+   "label": ".",
+   "bounds": [
+    875,
+    -3038,
+    5,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 463,
+   "role": "Text",
+   "label": "Ek aadmi ke muh me ",
+   "bounds": [
+    642,
+    -2941,
+    191,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 464,
+   "role": "Text",
+   "label": "acid",
+   "bounds": [
+    832,
+    -2941,
+    38,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 465,
+   "role": "Text",
+   "label": " bhara hua hai.",
+   "bounds": [
+    869,
+    -2941,
+    131,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 466,
+   "role": "Text",
+   "label": "Jab bhi bolta hai...",
+   "bounds": [
+    642,
+    -2888,
+    159,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 467,
+   "role": "Text",
+   "label": "Words nahi...",
+   "bounds": [
+    642,
+    -2836,
+    114,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 468,
+   "role": "Text",
+   "label": "Acid ke droplets nikalte hain.",
+   "bounds": [
+    642,
+    -2783,
+    255,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 469,
+   "role": "Text",
+   "label": "Jis par girte hain uska confidence dissolve ho jata hai.",
+   "bounds": [
+    642,
+    -2731,
+    471,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 470,
+   "role": "Text",
+   "label": "Acid Mouth = Acerbic Speech",
+   "bounds": [
+    642,
+    -2678,
+    271,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 471,
+   "role": "Text",
+   "label": "Ab word kabhi nahi bhulega.",
+   "bounds": [
+    642,
+    -2626,
+    254,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 472,
+   "role": "Text",
+   "label": "The opposition leader delivered an ",
+   "bounds": [
+    642,
+    -2477,
+    313,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 473,
+   "role": "Text",
+   "label": "acerbic",
+   "bounds": [
+    954,
+    -2477,
+    65,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 474,
+   "role": "Text",
+   "label": " speech against the government.",
+   "bounds": [
+    1018,
+    -2477,
+    289,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 475,
+   "role": "Text",
+   "label": "Editorials me bahut aata hai.",
+   "bounds": [
+    642,
+    -2425,
+    250,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 476,
+   "role": "Text",
+   "label": "acerbic criticism",
+   "bounds": [
+    642,
+    -2372,
+    142,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 477,
+   "role": "Text",
+   "label": "acerbic remarks",
+   "bounds": [
+    642,
+    -2320,
+    139,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 478,
+   "role": "Text",
+   "label": "acerbic tone",
+   "bounds": [
+    642,
+    -2267,
+    109,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 479,
+   "role": "Text",
+   "label": "Caustic",
+   "bounds": [
+    682,
+    -2124,
+    64,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 480,
+   "role": "Text",
+   "label": "Bitter",
+   "bounds": [
+    682,
+    -2091,
+    48,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 481,
+   "role": "Text",
+   "label": "Harsh",
+   "bounds": [
+    682,
+    -2059,
+    52,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 482,
+   "role": "Text",
+   "label": "Cutting",
+   "bounds": [
+    682,
+    -2026,
+    66,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 483,
+   "role": "Text",
+   "label": "Scathing",
+   "bounds": [
+    682,
+    -1994,
+    77,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 484,
+   "role": "Text",
+   "label": "Gentle",
+   "bounds": [
+    682,
+    -1850,
+    59,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 485,
+   "role": "Text",
+   "label": "Mild",
+   "bounds": [
+    682,
+    -1818,
+    40,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 486,
+   "role": "Text",
+   "label": "Polite",
+   "bounds": [
+    682,
+    -1785,
+    50,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 487,
+   "role": "Text",
+   "label": "Courteous",
+   "bounds": [
+    682,
+    -1753,
+    92,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 488,
+   "role": "Text",
+   "label": "❌ Acerbic person means angry.",
+   "bounds": [
+    642,
+    -1604,
+    288,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 489,
+   "role": "Text",
+   "label": "Not exactly.",
+   "bounds": [
+    642,
+    -1552,
+    105,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 490,
+   "role": "Text",
+   "label": "✅ Means someone whose ",
+   "bounds": [
+    642,
+    -1499,
+    247,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 491,
+   "role": "Text",
+   "label": "language",
+   "bounds": [
+    888,
+    -1499,
+    85,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 492,
+   "role": "Text",
+   "label": " is harsh.",
+   "bounds": [
+    972,
+    -1499,
+    78,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 493,
+   "role": "Text",
+   "label": "Acid → Mouth → Bitter Words → Acerbic.",
+   "bounds": [
+    642,
+    -1351,
+    363,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 494,
+   "role": "Text",
+   "label": "Ye aur interesting hai.",
+   "bounds": [
+    642,
+    -1202,
+    190,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 495,
+   "role": "Text",
+   "label": "Alleviate = To reduce pain, suffering or difficulty.",
+   "bounds": [
+    642,
+    -1105,
+    442,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 496,
+   "role": "Text",
+   "label": "Dhyan do.",
+   "bounds": [
+    642,
+    -1052,
+    91,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 497,
+   "role": "Text",
+   "label": "Reduce.",
+   "bounds": [
+    642,
+    -1000,
+    70,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 498,
+   "role": "Text",
+   "label": "Not remove completely.",
+   "bounds": [
+    642,
+    -947,
+    213,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 499,
+   "role": "Text",
+   "label": "Doctor injection deta hai.",
+   "bounds": [
+    642,
+    -895,
+    223,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 500,
+   "role": "Text",
+   "label": "Pain 100% gayab nahi hota.",
+   "bounds": [
+    642,
+    -842,
+    244,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 501,
+   "role": "Text",
+   "label": "10 se 4 ho jata hai.",
+   "bounds": [
+    642,
+    -790,
+    165,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 502,
+   "role": "Text",
+   "label": "That is ",
+   "bounds": [
+    642,
+    -737,
+    64,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 503,
+   "role": "Text",
+   "label": "alleviate",
+   "bounds": [
+    705,
+    -737,
+    76,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 504,
+   "role": "Text",
+   "label": ".",
+   "bounds": [
+    780,
+    -737,
+    5,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 505,
+   "role": "Text",
+   "label": "Hospital.",
+   "bounds": [
+    642,
+    -589,
+    78,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 506,
+   "role": "Text",
+   "label": "Patient pain se chillaa raha hai.",
+   "bounds": [
+    642,
+    -536,
+    271,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 507,
+   "role": "Text",
+   "label": "Doctor ek blue injection lagata hai.",
+   "bounds": [
+    642,
+    -484,
+    308,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 508,
+   "role": "Text",
+   "label": "Pain Monster dheere dheere chhota hone lagta hai.",
+   "bounds": [
+    642,
+    -431,
+    453,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 509,
+   "role": "Text",
+   "label": "Wo mar nahi raha.",
+   "bounds": [
+    642,
+    -379,
+    162,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 510,
+   "role": "Text",
+   "label": "Sirf weak ho raha hai.",
+   "bounds": [
+    642,
+    -326,
+    189,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 511,
+   "role": "Text",
+   "label": "Exactly...",
+   "bounds": [
+    642,
+    -274,
+    74,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 512,
+   "role": "Text",
+   "label": "Pain reduced.",
+   "bounds": [
+    642,
+    -221,
+    123,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 513,
+   "role": "Text",
+   "label": "Not eliminated.",
+   "bounds": [
+    642,
+    -169,
+    137,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 514,
+   "role": "Text",
+   "label": "That's alleviate.",
+   "bounds": [
+    642,
+    -116,
+    135,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 515,
+   "role": "Text",
+   "label": "Government announced measures to alleviate poverty.",
+   "bounds": [
+    642,
+    32,
+    482,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 516,
+   "role": "Text",
+   "label": "Medicine alleviated the pain.",
+   "bounds": [
+    642,
+    85,
+    253,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 517,
+   "role": "Text",
+   "label": "Rain alleviated the heat.",
+   "bounds": [
+    642,
+    137,
+    211,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 518,
+   "role": "Text",
+   "label": "Alleviate = reduce.",
+   "bounds": [
+    642,
+    286,
+    165,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 519,
+   "role": "Text",
+   "label": "Eliminate = finish completely.",
+   "bounds": [
+    642,
+    338,
+    260,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 520,
+   "role": "Text",
+   "label": "Ye exam me favourite trap hai.",
+   "bounds": [
+    642,
+    391,
+    267,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 521,
+   "role": "Text",
+   "label": "Har word par 250-400 words ki explanation, story, editorial usage, synonym family, traps, collocations aur recall test.",
+   "bounds": [
+    642,
+    539,
+    926,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 522,
+   "role": "Text",
+   "label": "Tab 130 words bhi 6-8 revisions me permanent ho sakte hain.",
+   "bounds": [
+    642,
+    624,
+    541,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 523,
+   "role": "Text",
+   "label": "Tumhara original prompt achha hai, lekin usme ",
+   "bounds": [
+    642,
+    677,
+    421,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 524,
+   "role": "Text",
+   "label": "depth kam aur quantity zyada",
+   "bounds": [
+    1062,
+    677,
+    273,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 525,
+   "role": "Text",
+   "label": " hai. SBI PO vocabulary ratne se nahi, ",
+   "bounds": [
+    642,
+    677,
+    946,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 526,
+   "role": "Text",
+   "label": "context me baar baar milne",
+   "bounds": [
+    714,
+    709,
+    250,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 527,
+   "role": "Text",
+   "label": " se pakki hoti hai. Isliye har word ko ek character ki tarah treat karo, sirf dictionary entry ki tarah nahi. 🧠📚",
+   "bounds": [
+    642,
+    709,
+    946,
+    61
+   ],
+   "app": ""
+  },
+  {
+   "index": 528,
+   "role": "Button",
+   "label": "Copy response",
+   "bounds": [
+    635,
+    784,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 529,
+   "role": "Button",
+   "label": "Rate response",
+   "bounds": [
+    675,
+    784,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 530,
+   "role": "Button",
+   "label": "Share",
+   "bounds": [
+    715,
+    784,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 531,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    755,
+    785,
+    40,
+    39
+   ],
+   "app": ""
+  },
+  {
+   "index": 532,
+   "role": "Button",
+   "label": "Switch model",
+   "bounds": [
+    755,
+    785,
+    40,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 533,
+   "role": "Button",
+   "label": "More actions",
+   "bounds": [
+    795,
+    784,
+    40,
+    41
+   ],
+   "app": ""
+  },
+  {
+   "index": 534,
+   "role": "Text",
+   "label": "ChatGPT can make mistakes. Check important info.",
+   "bounds": [
+    954,
+    885,
+    337,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 535,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    642,
+    925,
+    961,
+    65
+   ],
+   "app": ""
+  },
+  {
+   "index": 536,
+   "role": "Button",
+   "label": "Add files and more",
+   "bounds": [
+    652,
+    934,
+    46,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 537,
+   "role": "Edit",
+   "label": "Chat with ChatGPT",
+   "bounds": [
+    706,
+    940,
+    657,
+    54
+   ],
+   "app": ""
+  },
+  {
+   "index": 538,
+   "role": "Text",
+   "label": "Ask anything",
+   "bounds": [
+    707,
+    942,
+    115,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 539,
+   "role": "Button",
+   "label": "Think",
+   "bounds": [
+    1374,
+    934,
+    114,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 540,
+   "role": "Button",
+   "label": "Start dictation",
+   "bounds": [
+    1492,
+    934,
+    46,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 541,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1547,
+    934,
+    46,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 542,
+   "role": "Button",
+   "label": "Start Voice",
+   "bounds": [
+    1547,
+    934,
+    46,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 543,
+   "role": "Button",
+   "label": "settings-manager-toggle-button",
+   "bounds": [
+    1865,
+    708,
+    85,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 544,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 545,
+   "role": "Button",
+   "label": "logo icon",
+   "bounds": [
+    1920,
+    937,
+    50,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 546,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1915,
+    967,
+    20,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 547,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    1982,
+    957,
+    51,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 548,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 549,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 550,
+   "role": "Button",
+   "label": "Tab search",
+   "bounds": [
+    8,
+    8,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 551,
+   "role": "TabItem",
+   "label": "YouTube",
+   "bounds": [
+    35,
+    0,
+    228,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 552,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    213,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 553,
+   "role": "TabItem",
+   "label": "Download Odysseus AI Safely - Official GitHub & Setup Paths",
+   "bounds": [
+    240,
+    0,
+    228,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 554,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    418,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 555,
+   "role": "TabItem",
+   "label": "Gemini Notebook - Memory usage - 291 MB",
+   "bounds": [
+    445,
+    0,
+    228,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 556,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    623,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 557,
+   "role": "TabItem",
+   "label": "Notifications | LinkedIn",
+   "bounds": [
+    650,
+    0,
+    228,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 558,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    828,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 559,
+   "role": "TabItem",
+   "label": "Get Started - PentAGI",
+   "bounds": [
+    855,
+    0,
+    227,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 560,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1031,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 561,
+   "role": "TabItem",
+   "label": "Deepak Sheoran | LinkedIn",
+   "bounds": [
+    1059,
+    0,
+    227,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 562,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1235,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 563,
+   "role": "TabItem",
+   "label": "Memory Retention Mnemonics - Memory usage - 713 MB",
+   "bounds": [
+    1263,
+    0,
+    227,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 564,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1439,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 565,
+   "role": "Button",
+   "label": "New Tab",
+   "bounds": [
+    1481,
+    0,
+    36,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 566,
+   "role": "Button",
+   "label": "Ask Gemini",
+   "bounds": [
+    1584,
+    0,
+    151,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 567,
+   "role": "Text",
+   "label": "https://chatgpt.com/c/6a4e8a56-80dc-83e8-ab77-23406586d96e",
+   "bounds": [
+    6,
+    994,
+    436,
+    29
+   ],
+   "app": ""
+  }
+ ]
+}

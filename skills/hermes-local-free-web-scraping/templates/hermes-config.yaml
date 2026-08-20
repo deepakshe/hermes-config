@@ -1,0 +1,25 @@
+# Hermes Local Free Web Scraping Configuration
+
+## Default configuration template
+
+model:
+  api_key: ollama
+  base_url: http://localhost:11434/v1
+  default: hermes3:3b
+  provider: ollama
+
+agent:
+  max_turns: 500
+  personalities: {}
+  reasoning_effort: none  # Critical: disable thinking for local GGUF models
+  verbose: false
+
+display:
+  skin: default
+  streaming: true
+  tool_progress: all
+
+memory:
+  enabled: true
+  flush_min_turns: 6
+  user_char_limit: 1375

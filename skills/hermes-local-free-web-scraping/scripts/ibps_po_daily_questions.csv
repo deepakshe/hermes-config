@@ -1,0 +1,151 @@
+id,subject,topic,questionText,options,correctAnswer
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,3
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,0
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,2
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,2
+eng_0,English,Error Detection,Q0: Identify error: 'a',Part A|Part B|Part C|Part D|No Error,1
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,4
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,3
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,1
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,4
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,1
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,2
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,4
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,1
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,4
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,4
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,1
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,0
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,1
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,1
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,3
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,2
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,2
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,2
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,1
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,4
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,3
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,1
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,2
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,3
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,3
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,0
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,2
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,2
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,2
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,2
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,4
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,2
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,0
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,1
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,3
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,0
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,4
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,2
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,2
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,3
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,1
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,1
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,0
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,2
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'a',Part A|Part B|Part C|Part D|No Error,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,4
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,4
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'a',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,1
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,3
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,4
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,0
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,2
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,0
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,3
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,0
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,1
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,3
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,1
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,1
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,3
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,4
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,3
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,2
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,1
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,3
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,4
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,0
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,0
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,1
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,2
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,2
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'a',Part A|Part B|Part C|Part D|No Error,0
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,1
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,1
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,4
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,3
+eng_0,English,Error Detection,Q0: Identify error: 'e',Part A|Part B|Part C|Part D|No Error,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,1
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,4
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,4
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,1
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,4
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'a',Part A|Part B|Part C|Part D|No Error,1
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,1
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,3
+rea_0,Reasoning,syllogism,Q0: Solve: syllogism pattern,Option A|Option B|Option C|Option D|Option E,4
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,4
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,1
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,1
+qat_0,Quant,work_time,Q0: Calculate using work_time concepts,5|15|25|35|45,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,3
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,2
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,3
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,1
+qat_0,Quant,profit_loss,Q0: Calculate using profit_loss concepts,5|15|25|35|45,0
+qat_0,Quant,number_series,Q0: Calculate using number_series concepts,5|15|25|35|45,4
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,0
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,3
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,0
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,2
+rea_0,Reasoning,seating_arrangement,Q0: Solve: seating_arrangement pattern,Option A|Option B|Option C|Option D|Option E,1
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,1
+qat_0,Quant,speed_distance,Q0: Calculate using speed_distance concepts,5|15|25|35|45,4
+eng_0,English,Error Detection,Q0: Identify error: 'u',Part A|Part B|Part C|Part D|No Error,1
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,4
+eng_0,English,Error Detection,Q0: Identify error: 'r',Part A|Part B|Part C|Part D|No Error,2
+rea_0,Reasoning,puzzles,Q0: Solve: puzzles pattern,Option A|Option B|Option C|Option D|Option E,4

@@ -1,0 +1,284 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "GET",
+        "path": "generate-video",
+        "options": {}
+      },
+      "id": "node-1-webhook",
+      "name": "1. Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        100,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/script?topic={{ encodeURIComponent($json.query?.topic || $json.body?.topic || 'Astonishing Secrets of Indian History') }}",
+        "options": {}
+      },
+      "id": "node-2-script",
+      "name": "2. Generate Script",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        300,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/image-prompt?topic={{ encodeURIComponent($json.topic) }}",
+        "options": {}
+      },
+      "id": "node-3-image-prompt",
+      "name": "3. Create Image Prompt",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        500,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/image-url?prompt={{ encodeURIComponent($json.image_prompt) }}",
+        "options": {}
+      },
+      "id": "node-4-image-url",
+      "name": "4. Resolve Image URL",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        700,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/generate-voice?text={{ encodeURIComponent($node['2. Generate Script'].json.script) }}",
+        "options": {}
+      },
+      "id": "node-5-voice",
+      "name": "5. Generate Neural Voice",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        900,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/hashtags?topic={{ encodeURIComponent($node['2. Generate Script'].json.topic) }}",
+        "options": {}
+      },
+      "id": "node-6-hashtags",
+      "name": "6. Generate Hashtags",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        1100,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/compile?topic={{ encodeURIComponent($node['2. Generate Script'].json.topic) }}&script={{ encodeURIComponent($node['2. Generate Script'].json.script) }}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "id": "node-7-compile",
+      "name": "7. Compile MP4 Reel",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        1300,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:5000/api/publish?caption={{ encodeURIComponent('Did you know this? 🤯\\n\\n' + $node['2. Generate Script'].json.script + '\\n\\n' + $node['6. Generate Hashtags'].json.hashtags) }}",
+        "options": {}
+      },
+      "id": "node-8-publish",
+      "name": "8. Publish to Instagram",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [
+        1500,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "f-1",
+              "name": "Topic",
+              "value": "={{ $node['2. Generate Script'].json.topic }}",
+              "type": "string"
+            },
+            {
+              "id": "f-2",
+              "name": "Narration Script",
+              "value": "={{ $node['2. Generate Script'].json.script }}",
+              "type": "string"
+            },
+            {
+              "id": "f-3",
+              "name": "Video File Path",
+              "value": "={{ $node['7. Compile MP4 Reel'].json.video_path }}",
+              "type": "string"
+            },
+            {
+              "id": "f-4",
+              "name": "Instagram Status",
+              "value": "={{ $node['8. Publish to Instagram'].json.status }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "node-9-format",
+      "name": "9. Format Metadata",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1700,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "final-status",
+              "name": "Pipeline Status",
+              "value": "✅ COMPLETE: 30s Vertical Reel Ready in Downloads folder!",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "node-10-complete",
+      "name": "10. Pipeline Complete",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1900,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "1. Webhook Trigger": {
+      "main": [
+        [
+          {
+            "node": "2. Generate Script",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "2. Generate Script": {
+      "main": [
+        [
+          {
+            "node": "3. Create Image Prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "3. Create Image Prompt": {
+      "main": [
+        [
+          {
+            "node": "4. Resolve Image URL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "4. Resolve Image URL": {
+      "main": [
+        [
+          {
+            "node": "5. Generate Neural Voice",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "5. Generate Neural Voice": {
+      "main": [
+        [
+          {
+            "node": "6. Generate Hashtags",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "6. Generate Hashtags": {
+      "main": [
+        [
+          {
+            "node": "7. Compile MP4 Reel",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "7. Compile MP4 Reel": {
+      "main": [
+        [
+          {
+            "node": "8. Publish to Instagram",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "8. Publish to Instagram": {
+      "main": [
+        [
+          {
+            "node": "9. Format Metadata",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "9. Format Metadata": {
+      "main": [
+        [
+          {
+            "node": "10. Pipeline Complete",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "n8n": {
+    "fingerprint": "ff6b6c9867501b30",
+    "tools": [
+      {
+        "name": "health",
+        "description": "Check local n8n API reachability and optional Docker container status.",
+        "inputSchema": {
+          "properties": {},
+          "title": "healthArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "list_workflows",
+        "description": "List workflows. Optional active filter.",
+        "inputSchema": {
+          "properties": {
+            "active": {
+              "anyOf": [
+                {
+                  "type": "boolean"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Active"
+            },
+            "limit": {
+              "default": 100,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
+          "title": "list_workflowsArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "get_workflow",
+        "description": "Get one workflow by ID. Credential-bearing fields are redacted.",
+        "inputSchema": {
+          "properties": {
+            "workflow_id": {
+              "title": "Workflow Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "workflow_id"
+          ],
+          "title": "get_workflowArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "find_workflows",
+        "description": "Search workflows by name/id/tag in the workflow list.",
+        "inputSchema": {
+          "properties": {
+            "query": {
+              "title": "Query",
+              "type": "string"
+            },
+            "limit": {
+              "default": 100,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "query"
+          ],
+          "title": "find_workflowsArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "list_executions",
+        "description": "List recent executions. Optional workflow_id and status filters.",
+        "inputSchema": {
+          "properties": {
+            "workflow_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Workflow Id"
+            },
+            "status": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Status"
+            },
+            "limit": {
+              "default": 50,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
+          "title": "list_executionsArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "get_execution",
+        "description": "Get execution details. include_data defaults false to avoid leaking payload data.",
+        "inputSchema": {
+          "properties": {
+            "execution_id": {
+              "title": "Execution Id",
+              "type": "string"
+            },
+            "include_data": {
+              "default": false,
+              "title": "Include Data",
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "execution_id"
+          ],
+          "title": "get_executionArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "recent_failures",
+        "description": "Return recent failed/error executions for triage.",
+        "inputSchema": {
+          "properties": {
+            "limit": {
+              "default": 25,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
+          "title": "recent_failuresArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "export_workflow",
+        "description": "Fetch workflow JSON for backup/export with credential-bearing fields redacted.",
+        "inputSchema": {
+          "properties": {
+            "workflow_id": {
+              "title": "Workflow Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "workflow_id"
+          ],
+          "title": "export_workflowArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "activate_workflow",
+        "description": "Activate a workflow by ID. Treat as a production mutation.",
+        "inputSchema": {
+          "properties": {
+            "workflow_id": {
+              "title": "Workflow Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "workflow_id"
+          ],
+          "title": "activate_workflowArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "deactivate_workflow",
+        "description": "Deactivate a workflow by ID. Treat as a production mutation.",
+        "inputSchema": {
+          "properties": {
+            "workflow_id": {
+              "title": "Workflow Id",
+              "type": "string"
+            }
+          },
+          "required": [
+            "workflow_id"
+          ],
+          "title": "deactivate_workflowArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      },
+      {
+        "name": "container_logs",
+        "description": "Return recent Docker logs with simple redaction, if Docker log access is enabled.",
+        "inputSchema": {
+          "properties": {
+            "lines": {
+              "default": 100,
+              "title": "Lines",
+              "type": "integer"
+            }
+          },
+          "title": "container_logsArguments",
+          "type": "object"
+        },
+        "annotations": {
+          "readOnlyHint": false
+        }
+      }
+    ],
+    "utility_tools": [
+      {
+        "schema": {
+          "name": "mcp__n8n__list_resources",
+          "description": "List available resources from MCP server 'n8n'",
+          "parameters": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "handler_key": "list_resources"
+      },
+      {
+        "schema": {
+          "name": "mcp__n8n__read_resource",
+          "description": "Read a resource by URI from MCP server 'n8n'",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "uri": {
+                "type": "string",
+                "description": "URI of the resource to read"
+              }
+            },
+            "required": [
+              "uri"
+            ]
+          }
+        },
+        "handler_key": "read_resource"
+      },
+      {
+        "schema": {
+          "name": "mcp__n8n__list_prompts",
+          "description": "List available prompts from MCP server 'n8n'",
+          "parameters": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "handler_key": "list_prompts"
+      },
+      {
+        "schema": {
+          "name": "mcp__n8n__get_prompt",
+          "description": "Get a prompt by name from MCP server 'n8n'",
+          "parameters": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Name of the prompt to retrieve"
+              },
+              "arguments": {
+                "type": "object",
+                "description": "Optional arguments to pass to the prompt",
+                "properties": {},
+                "additionalProperties": true
+              }
+            },
+            "required": [
+              "name"
+            ]
+          }
+        },
+        "handler_key": "get_prompt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9415 @@
+{
+ "app": "Hermes.exe",
+ "window_title": "",
+ "total_elements": 784,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimize",
+   "bounds": [
+    1749,
+    0,
+    57,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Document",
+   "label": "Hermes",
+   "bounds": [
+    0,
+    0,
+    1920,
+    1020
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    1920,
+    1020
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Group",
+   "label": "root",
+   "bounds": [
+    0,
+    0,
+    1920,
+    1020
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Button",
+   "label": "Hide sidebar",
+   "bounds": [
+    14,
+    5,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Button",
+   "label": "Swap sidebar sides",
+   "bounds": [
+    39,
+    5,
+    25,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Layout editor",
+   "bounds": [
+    1625,
+    5,
+    25,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "HUD mode",
+   "bounds": [
+    1649,
+    5,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Mute haptics",
+   "bounds": [
+    1674,
+    5,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Open settings",
+   "bounds": [
+    1699,
+    5,
+    25,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "Show right sidebar",
+   "bounds": [
+    1723,
+    5,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "New session Ctrl N",
+   "bounds": [
+    10,
+    41,
+    224,
+    29
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "Capabilities",
+   "bounds": [
+    10,
+    70,
+    224,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "Messaging",
+   "bounds": [
+    10,
+    100,
+    224,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "Artifacts",
+   "bounds": [
+    10,
+    130,
+    224,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Button",
+   "label": "Scheduled jobs",
+   "bounds": [
+    10,
+    160,
+    224,
+    29
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Edit",
+   "label": "Search sessions",
+   "bounds": [
+    41,
+    201,
+    94,
+    29
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Button",
+   "label": "PINNED",
+   "bounds": [
+    10,
+    241,
+    90,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "Text",
+   "label": "Shift-click a chat to pin",
+   "bounds": [
+    39,
+    267,
+    125,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "Button",
+   "label": "SESSIONS",
+   "bounds": [
+    10,
+    315,
+    103,
+    13
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "Button",
+   "label": "New session",
+   "bounds": [
+    177,
+    308,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "Button",
+   "label": "Filters",
+   "bounds": [
+    204,
+    308,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "Button",
+   "label": "Reorder Earn income today Earn income today now, Today, 3:13 PM Session actions",
+   "bounds": [
+    10,
+    337,
+    220,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "Button",
+   "label": "Reorder Earn income today Earn income today",
+   "bounds": [
+    10,
+    337,
+    199,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "Button",
+   "label": "Reorder Earn income today",
+   "bounds": [
+    18,
+    343,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    344,
+    162,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "Text",
+   "label": "now, Today, 3:13 PM",
+   "bounds": [
+    209,
+    345,
+    21,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    340,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Text",
+   "label": "YESTERDAY",
+   "bounds": [
+    18,
+    374,
+    67,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Button",
+   "label": "New session",
+   "bounds": [
+    204,
+    373,
+    17,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Button",
+   "label": "Reorder Find best IBPS PO Pre videos Find best IBPS PO Pre videos 18h, Yesterday, 8:32 PM Session actions",
+   "bounds": [
+    10,
+    393,
+    220,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Button",
+   "label": "Reorder Find best IBPS PO Pre videos Find best IBPS PO Pre videos",
+   "bounds": [
+    10,
+    393,
+    199,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "Button",
+   "label": "Reorder Find best IBPS PO Pre videos",
+   "bounds": [
+    18,
+    399,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    399,
+    162,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "Text",
+   "label": "18h, Yesterday, 8:32 PM",
+   "bounds": [
+    212,
+    401,
+    18,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    396,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "Button",
+   "label": "Reorder first arrange my desktop carefully while… first arrange my desktop carefully while… 19h, Yesterday, 8:04 PM Session actions",
+   "bounds": [
+    10,
+    420,
+    220,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "Button",
+   "label": "Reorder first arrange my desktop carefully while… first arrange my desktop carefully while…",
+   "bounds": [
+    10,
+    420,
+    199,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "Button",
+   "label": "Reorder first arrange my desktop carefully while…",
+   "bounds": [
+    18,
+    426,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    427,
+    162,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "Text",
+   "label": "19h, Yesterday, 8:04 PM",
+   "bounds": [
+    212,
+    428,
+    18,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    423,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "Button",
+   "label": "Reorder Untitled session Untitled session 19h, Yesterday, 7:44 PM Session actions",
+   "bounds": [
+    10,
+    448,
+    220,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "Button",
+   "label": "Reorder Untitled session Untitled session",
+   "bounds": [
+    10,
+    448,
+    199,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "Button",
+   "label": "Reorder Untitled session",
+   "bounds": [
+    18,
+    454,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    455,
+    162,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "Text",
+   "label": "19h, Yesterday, 7:44 PM",
+   "bounds": [
+    212,
+    456,
+    18,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    451,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "Button",
+   "label": "Reorder [System: The previous response was cut off by a network erro... [System: The previous response was cut off by a network erro... 22h, Yesterday, 5:05 PM Session actions",
+   "bounds": [
+    10,
+    476,
+    220,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "Button",
+   "label": "Reorder [System: The previous response was cut off by a network erro... [System: The previous response was cut off by a network erro...",
+   "bounds": [
+    10,
+    476,
+    199,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "Button",
+   "label": "Reorder [System: The previous response was cut off by a network erro...",
+   "bounds": [
+    18,
+    482,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    482,
+    162,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "Text",
+   "label": "22h, Yesterday, 5:05 PM",
+   "bounds": [
+    212,
+    484,
+    18,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    479,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 56,
+   "role": "Button",
+   "label": "Reorder Chat duration and time limits Chat duration and time limits 1d, Yesterday, 2:04 PM Session actions",
+   "bounds": [
+    10,
+    503,
+    220,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 57,
+   "role": "Button",
+   "label": "Reorder Chat duration and time limits Chat duration and time limits",
+   "bounds": [
+    10,
+    503,
+    199,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 58,
+   "role": "Button",
+   "label": "Reorder Chat duration and time limits",
+   "bounds": [
+    18,
+    509,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 59,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    510,
+    162,
+    14
+   ],
+   "app": ""
+  },
+  {
+   "index": 60,
+   "role": "Text",
+   "label": "1d, Yesterday, 2:04 PM",
+   "bounds": [
+    217,
+    511,
+    13,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 61,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    506,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 62,
+   "role": "Text",
+   "label": "LAST WEEK",
+   "bounds": [
+    18,
+    540,
+    67,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 63,
+   "role": "Button",
+   "label": "New session",
+   "bounds": [
+    204,
+    539,
+    17,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 64,
+   "role": "Button",
+   "label": "Reorder Open Chrome browser Open Chrome browser 1d, Aug 14, 6:43 PM Session actions",
+   "bounds": [
+    10,
+    559,
+    220,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 65,
+   "role": "Button",
+   "label": "Reorder Open Chrome browser Open Chrome browser",
+   "bounds": [
+    10,
+    559,
+    199,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 66,
+   "role": "Button",
+   "label": "Reorder Open Chrome browser",
+   "bounds": [
+    18,
+    565,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 67,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    39,
+    565,
+    162,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 68,
+   "role": "Text",
+   "label": "1d, Aug 14, 6:43 PM",
+   "bounds": [
+    217,
+    567,
+    13,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 69,
+   "role": "Button",
+   "label": "Session actions",
+   "bounds": [
+    208,
+    562,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 70,
+   "role": "Button",
+   "label": "default",
+   "bounds": [
+    12,
+    970,
+    25,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 71,
+   "role": "Button",
+   "label": "New profile",
+   "bounds": [
+    39,
+    972,
+    21,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 72,
+   "role": "Button",
+   "label": "Import profile…",
+   "bounds": [
+    63,
+    972,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 73,
+   "role": "Button",
+   "label": "Manage profiles…",
+   "bounds": [
+    206,
+    970,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 74,
+   "role": "TabItem",
+   "label": "Session running EARN INCOME TODAY",
+   "bounds": [
+    243,
+    34,
+    125,
+    30
+   ],
+   "app": ""
+  },
+  {
+   "index": 75,
+   "role": "Button",
+   "label": "New session tab",
+   "bounds": [
+    367,
+    34,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 76,
+   "role": "Button",
+   "label": "Show earlier messages",
+   "bounds": [
+    1004,
+    -18285,
+    151,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 77,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    268,
+    -1072,
+    1624,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 78,
+   "role": "Button",
+   "label": "Restore checkpoint",
+   "bounds": [
+    1858,
+    -1066,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 79,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -2392,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 80,
+   "role": "Text",
+   "label": "Bhai, main try karta hoon. Login attempt kar raha hoon Playwright ke through. OTP aayega toh tu de dena:",
+   "bounds": [
+    280,
+    -2360,
+    627,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 81,
+   "role": "Button",
+   "label": "Ran C:/Users/admin/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe << 'PYEOF' + 43 commands",
+   "bounds": [
+    280,
+    -2329,
+    599,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 82,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -2330,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 83,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -2306,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 84,
+   "role": "Text",
+   "label": "Bhai, honestly bolta hoon — main physically login nahi kar sakta Instagram pe. Yeh meri limitation hai, meri fault nahi.",
+   "bounds": [
+    280,
+    -2274,
+    692,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 85,
+   "role": "Text",
+   "label": "Main kya kar sakta hoon:",
+   "bounds": [
+    280,
+    -2243,
+    152,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 86,
+   "role": "Text",
+   "label": "Main yeh abhi bana deta hoon:",
+   "bounds": [
+    280,
+    -2116,
+    189,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 87,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -2085,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 88,
+   "role": "Text",
+   "label": "Bhai, login attempt kar raha hoon Playwright ke through. OTP aayega toh de dena:",
+   "bounds": [
+    280,
+    -2053,
+    485,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 89,
+   "role": "Button",
+   "label": "Ran python3 << 'PYEOF' + 61 commands",
+   "bounds": [
+    280,
+    -2021,
+    246,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 90,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -2023,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 91,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -1999,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 92,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -1976,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 93,
+   "role": "Text",
+   "label": "Bhai, baat sahi hai. Main yahi dobara try kar raha hoon — ek HTML form bana raha hoon jisme data pehle se fill ho, tu bas submit click karega:",
+   "bounds": [
+    280,
+    -1945,
+    837,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 94,
+   "role": "Button",
+   "label": "insta_signup.html +1 −6",
+   "bounds": [
+    289,
+    -1906,
+    162,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 95,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1855,
+    -1907,
+    21,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 96,
+   "role": "Button",
+   "label": "Copy file",
+   "bounds": [
+    1853,
+    -1874,
+    21,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 97,
+   "role": "Text",
+   "label": "        input, select { width: 100%; padding: 12px; margin: 8px 0; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; }",
+   "bounds": [
+    293,
+    -1878,
+    891,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 98,
+   "role": "Text",
+   "label": "        button { width: 100%; padding: 14px; background: #0095f6; color: white; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; margin-top: 15px; }",
+   "bounds": [
+    293,
+    -1858,
+    1153,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 99,
+   "role": "Text",
+   "label": "        button:hover { background: #0077c2; }",
+   "bounds": [
+    293,
+    -1837,
+    312,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 100,
+   "role": "Text",
+   "label": "        .note { background: #e8f5e9; padding: 15px; border-radius: 8px; margin-bottom: 20px; }",
+   "bounds": [
+    293,
+    -1816,
+    650,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 101,
+   "role": "Text",
+   "label": "        .note strong { color: #2e7d32; }",
+   "bounds": [
+    293,
+    -1796,
+    277,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 102,
+   "role": "Text",
+   "label": "    </",
+   "bounds": [
+    293,
+    -1775,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 103,
+   "role": "Text",
+   "label": "style",
+   "bounds": [
+    335,
+    -1775,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 104,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    369,
+    -1775,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 105,
+   "role": "Text",
+   "label": "</",
+   "bounds": [
+    293,
+    -1754,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 106,
+   "role": "Text",
+   "label": "head",
+   "bounds": [
+    307,
+    -1754,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 107,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    335,
+    -1754,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 108,
+   "role": "Text",
+   "label": "<",
+   "bounds": [
+    293,
+    -1733,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 109,
+   "role": "Text",
+   "label": "body",
+   "bounds": [
+    300,
+    -1733,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 110,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    328,
+    -1733,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 111,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -1713,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 112,
+   "role": "Text",
+   "label": "h1",
+   "bounds": [
+    328,
+    -1713,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 113,
+   "role": "Text",
+   "label": ">📱 Instagram Signup</",
+   "bounds": [
+    341,
+    -1713,
+    155,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 114,
+   "role": "Text",
+   "label": "h1",
+   "bounds": [
+    495,
+    -1713,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 115,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    509,
+    -1713,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 116,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -1692,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 117,
+   "role": "Text",
+   "label": "div",
+   "bounds": [
+    328,
+    -1692,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 118,
+   "role": "Text",
+   "label": " class",
+   "bounds": [
+    348,
+    -1692,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 119,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    390,
+    -1692,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 120,
+   "role": "Text",
+   "label": "\"note\"",
+   "bounds": [
+    397,
+    -1692,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 121,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    438,
+    -1692,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 122,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    -1671,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 123,
+   "role": "Text",
+   "label": "strong",
+   "bounds": [
+    355,
+    -1671,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 124,
+   "role": "Text",
+   "label": ">✅ Data pehle se filled hai!</",
+   "bounds": [
+    397,
+    -1671,
+    217,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 125,
+   "role": "Text",
+   "label": "strong",
+   "bounds": [
+    613,
+    -1671,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 126,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    654,
+    -1671,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 127,
+   "role": "Text",
+   "label": "br",
+   "bounds": [
+    668,
+    -1671,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 128,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    682,
+    -1671,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 129,
+   "role": "Text",
+   "label": "        Bas \"Sign Up\" click karo aur OTP bhar dena phone pe aayega.",
+   "bounds": [
+    293,
+    -1650,
+    463,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 130,
+   "role": "Text",
+   "label": "    </",
+   "bounds": [
+    293,
+    -1630,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 131,
+   "role": "Text",
+   "label": "div",
+   "bounds": [
+    335,
+    -1630,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 132,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    355,
+    -1630,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 133,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -1609,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 134,
+   "role": "Text",
+   "label": "p",
+   "bounds": [
+    328,
+    -1609,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 135,
+   "role": "Text",
+   "label": " style",
+   "bounds": [
+    335,
+    -1609,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 136,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    376,
+    -1609,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 137,
+   "role": "Text",
+   "label": "\"text-align:center; color:#666;\"",
+   "bounds": [
+    383,
+    -1609,
+    222,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 138,
+   "role": "Text",
+   "label": ">Sign Up page open hogi — bas Submit click karo</",
+   "bounds": [
+    604,
+    -1609,
+    339,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 139,
+   "role": "Text",
+   "label": "p",
+   "bounds": [
+    942,
+    -1609,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 140,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    949,
+    -1609,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 141,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    293,
+    -1588,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 142,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -1568,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 143,
+   "role": "Text",
+   "label": "form",
+   "bounds": [
+    328,
+    -1568,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 144,
+   "role": "Text",
+   "label": " action",
+   "bounds": [
+    355,
+    -1568,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 145,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    404,
+    -1568,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 146,
+   "role": "Text",
+   "label": "\"https://www.instagram.com/accounts/emailsignup/\"",
+   "bounds": [
+    410,
+    -1568,
+    340,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 147,
+   "role": "Text",
+   "label": " method",
+   "bounds": [
+    749,
+    -1568,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 148,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    797,
+    -1568,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 149,
+   "role": "Text",
+   "label": "\"POST\"",
+   "bounds": [
+    804,
+    -1568,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 150,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    845,
+    -1568,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 151,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    -1547,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 152,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    -1547,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 153,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    -1547,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 154,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    -1547,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 155,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    -1547,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 156,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    -1547,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 157,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    -1547,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 158,
+   "role": "Text",
+   "label": "\"emailOrPhone\"",
+   "bounds": [
+    514,
+    -1547,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 159,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    611,
+    -1547,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 160,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    652,
+    -1547,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 161,
+   "role": "Text",
+   "label": "\"sheorand052@gmail.com\"",
+   "bounds": [
+    659,
+    -1547,
+    160,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 162,
+   "role": "Text",
+   "label": " placeholder",
+   "bounds": [
+    818,
+    -1547,
+    83,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 163,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    900,
+    -1547,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 164,
+   "role": "Text",
+   "label": "\"Email\"",
+   "bounds": [
+    907,
+    -1547,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 165,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    956,
+    -1547,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 166,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    1018,
+    -1547,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 167,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -1670,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 168,
+   "role": "Text",
+   "label": "Bhai, technical limitation clear hai — main Instagram account mein directly login nahi kar sakta. Yeh meri capability ki limitation hai, koi choice nahi.",
+   "bounds": [
+    280,
+    -1638,
+    866,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 169,
+   "role": "Text",
+   "label": "Main Instagram pe login nahi kar sakta kyunki:",
+   "bounds": [
+    280,
+    -1607,
+    283,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 170,
+   "role": "Text",
+   "label": "Lekin main yeh kar sakta hoon:",
+   "bounds": [
+    280,
+    -1480,
+    188,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 171,
+   "role": "Text",
+   "label": "Tu khud Instagram pe login kar",
+   "bounds": [
+    280,
+    -1326,
+    190,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 172,
+   "role": "Text",
+   "label": " (app ya browser), aur main tujhe:",
+   "bounds": [
+    469,
+    -1326,
+    197,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 173,
+   "role": "Text",
+   "label": "Yeh kar:",
+   "bounds": [
+    280,
+    -1200,
+    49,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 174,
+   "role": "Text",
+   "label": "sheorand052@gmail.com",
+   "bounds": [
+    349,
+    -1134,
+    152,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 175,
+   "role": "Text",
+   "label": "7206986298@Deepak",
+   "bounds": [
+    519,
+    -1134,
+    123,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 176,
+   "role": "Text",
+   "label": "Bata kar main turant content de deta hoon.",
+   "bounds": [
+    280,
+    -1073,
+    255,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 177,
+   "role": "Button",
+   "label": "Branch in new chat",
+   "bounds": [
+    1803,
+    -1048,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 178,
+   "role": "Button",
+   "label": "Copy",
+   "bounds": [
+    1823,
+    -1048,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 179,
+   "role": "Button",
+   "label": "Read aloud",
+   "bounds": [
+    1844,
+    -1048,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 180,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    268,
+    -902,
+    1624,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 181,
+   "role": "Button",
+   "label": "Restore checkpoint",
+   "bounds": [
+    1858,
+    -896,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 182,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -966,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 183,
+   "role": "Text",
+   "label": "phone🤖 Hermes Agent 2026",
+   "bounds": [
+    280,
+    -934,
+    177,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 184,
+   "role": "Text",
+   "label": "Current screen state — please share what's visible. I'll describe React DOM/accessibility tree once seen.",
+   "bounds": [
+    280,
+    -902,
+    604,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 185,
+   "role": "Button",
+   "label": "Branch in new chat",
+   "bounds": [
+    1803,
+    -877,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 186,
+   "role": "Button",
+   "label": "Copy",
+   "bounds": [
+    1823,
+    -877,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 187,
+   "role": "Button",
+   "label": "Read aloud",
+   "bounds": [
+    1844,
+    -877,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 188,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    268,
+    54,
+    1624,
+    40
+   ],
+   "app": ""
+  },
+  {
+   "index": 189,
+   "role": "Button",
+   "label": "Restore checkpoint",
+   "bounds": [
+    1858,
+    60,
+    26,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 190,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -795,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 191,
+   "role": "Text",
+   "label": "Browser pe Instagram profile open karta hoon aur username check karta hoon:",
+   "bounds": [
+    280,
+    -763,
+    463,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 192,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -733,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 193,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -709,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 194,
+   "role": "Button",
+   "label": "Computer Use",
+   "bounds": [
+    280,
+    -687,
+    91,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 195,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -688,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 196,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -664,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 197,
+   "role": "Text",
+   "label": "Bhai, Firefox pe Instagram profile open karta hoon aur username check karta hoon. Internet speed issue ho sakta hai — try karta hoon:",
+   "bounds": [
+    280,
+    -632,
+    790,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 198,
+   "role": "Button",
+   "label": "Ran curl -s -L -H \"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\" \"https://www.instagram.com/sheoran0522026/\" | grep -oE \"content=\\\"[^\\\"…",
+   "bounds": [
+    280,
+    -601,
+    895,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 199,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -602,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 200,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -579,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 201,
+   "role": "Text",
+   "label": "Bhai, Instagram pe login karne ke liye main browser automation use karta hoon. Login page open ho gaya — ab form fill karta hoon:",
+   "bounds": [
+    280,
+    -547,
+    779,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 202,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -516,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 203,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -493,
+    62,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 204,
+   "role": "Text",
+   "label": "Bhai, main Instagram signup ke liye ek HTML form bana raha hoon jisme data pehle se fill ho — tu bas submit click karega, 2 second ka kaam:",
+   "bounds": [
+    280,
+    -461,
+    833,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 205,
+   "role": "Button",
+   "label": "insta_signup.html +10 −20",
+   "bounds": [
+    289,
+    -423,
+    174,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 206,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1855,
+    -424,
+    21,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 207,
+   "role": "Button",
+   "label": "Copy file",
+   "bounds": [
+    1853,
+    -391,
+    21,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 208,
+   "role": "Text",
+   "label": "<",
+   "bounds": [
+    293,
+    -395,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 209,
+   "role": "Text",
+   "label": "html",
+   "bounds": [
+    300,
+    -395,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 210,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    328,
+    -395,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 211,
+   "role": "Text",
+   "label": "<",
+   "bounds": [
+    293,
+    -374,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 212,
+   "role": "Text",
+   "label": "head",
+   "bounds": [
+    300,
+    -374,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 213,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    328,
+    -374,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 214,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -353,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 215,
+   "role": "Text",
+   "label": "meta",
+   "bounds": [
+    328,
+    -353,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 216,
+   "role": "Text",
+   "label": " charset",
+   "bounds": [
+    355,
+    -353,
+    56,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 217,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    410,
+    -353,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 218,
+   "role": "Text",
+   "label": "\"UTF-8\"",
+   "bounds": [
+    417,
+    -353,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 219,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    466,
+    -353,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 220,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -333,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 221,
+   "role": "Text",
+   "label": "title",
+   "bounds": [
+    328,
+    -333,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 222,
+   "role": "Text",
+   "label": ">Instagram Signup - Pre-filled</",
+   "bounds": [
+    362,
+    -333,
+    222,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 223,
+   "role": "Text",
+   "label": "title",
+   "bounds": [
+    583,
+    -333,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 224,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    617,
+    -333,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 225,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -312,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 226,
+   "role": "Text",
+   "label": "title",
+   "bounds": [
+    328,
+    -312,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 227,
+   "role": "Text",
+   "label": ">Instagram Signup</",
+   "bounds": [
+    362,
+    -312,
+    132,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 228,
+   "role": "Text",
+   "label": "title",
+   "bounds": [
+    493,
+    -312,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 229,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    528,
+    -312,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 230,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -291,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 231,
+   "role": "Text",
+   "label": "style",
+   "bounds": [
+    328,
+    -291,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 232,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    362,
+    -291,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 233,
+   "role": "Text",
+   "label": "        body",
+   "bounds": [
+    293,
+    -271,
+    84,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 234,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    376,
+    -271,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 235,
+   "role": "Text",
+   "label": "font-family",
+   "bounds": [
+    397,
+    -271,
+    77,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 236,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    473,
+    -271,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 237,
+   "role": "Text",
+   "label": "Arial",
+   "bounds": [
+    486,
+    -271,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 238,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    521,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 239,
+   "role": "Text",
+   "label": "max-width",
+   "bounds": [
+    535,
+    -271,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 240,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    597,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 241,
+   "role": "Text",
+   "label": "400",
+   "bounds": [
+    611,
+    -271,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 242,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    631,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 243,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    645,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 244,
+   "role": "Text",
+   "label": "margin",
+   "bounds": [
+    659,
+    -271,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 245,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    700,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 246,
+   "role": "Text",
+   "label": "50",
+   "bounds": [
+    714,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 247,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    728,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 248,
+   "role": "Text",
+   "label": " auto",
+   "bounds": [
+    742,
+    -271,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 249,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    776,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 250,
+   "role": "Text",
+   "label": "padding",
+   "bounds": [
+    790,
+    -271,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 251,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    838,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 252,
+   "role": "Text",
+   "label": "20",
+   "bounds": [
+    852,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 253,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    866,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 254,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    880,
+    -271,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 255,
+   "role": "Text",
+   "label": "background",
+   "bounds": [
+    894,
+    -271,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 256,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    963,
+    -271,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 257,
+   "role": "Text",
+   "label": "#fafafa",
+   "bounds": [
+    976,
+    -271,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 258,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    1025,
+    -271,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 259,
+   "role": "Text",
+   "label": "        h1",
+   "bounds": [
+    293,
+    -250,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 260,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    362,
+    -250,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 261,
+   "role": "Text",
+   "label": "text-align",
+   "bounds": [
+    383,
+    -250,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 262,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    452,
+    -250,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 263,
+   "role": "Text",
+   "label": "center",
+   "bounds": [
+    466,
+    -250,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 264,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    507,
+    -250,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 265,
+   "role": "Text",
+   "label": "color",
+   "bounds": [
+    521,
+    -250,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 266,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    555,
+    -250,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 267,
+   "role": "Text",
+   "label": "#333",
+   "bounds": [
+    569,
+    -250,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 268,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    597,
+    -250,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 269,
+   "role": "Text",
+   "label": "        .note",
+   "bounds": [
+    293,
+    -229,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 270,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    383,
+    -229,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 271,
+   "role": "Text",
+   "label": "background",
+   "bounds": [
+    404,
+    -229,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 272,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    473,
+    -229,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 273,
+   "role": "Text",
+   "label": "#e8f5e9",
+   "bounds": [
+    486,
+    -229,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 274,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    535,
+    -229,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 275,
+   "role": "Text",
+   "label": "padding",
+   "bounds": [
+    548,
+    -229,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 276,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    597,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 277,
+   "role": "Text",
+   "label": "15",
+   "bounds": [
+    611,
+    -229,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 278,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    624,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 279,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    638,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 280,
+   "role": "Text",
+   "label": "border-radius",
+   "bounds": [
+    652,
+    -229,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 281,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    742,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 282,
+   "role": "Text",
+   "label": "8",
+   "bounds": [
+    756,
+    -229,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 283,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    762,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 284,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    776,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 285,
+   "role": "Text",
+   "label": "margin-bottom",
+   "bounds": [
+    790,
+    -229,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 286,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    880,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 287,
+   "role": "Text",
+   "label": "20",
+   "bounds": [
+    894,
+    -229,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 288,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    907,
+    -229,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 289,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    921,
+    -229,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 290,
+   "role": "Text",
+   "label": "        input",
+   "bounds": [
+    293,
+    -208,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 291,
+   "role": "Text",
+   "label": ", ",
+   "bounds": [
+    383,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 292,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    397,
+    -208,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 293,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    438,
+    -208,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 294,
+   "role": "Text",
+   "label": "width",
+   "bounds": [
+    459,
+    -208,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 295,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    493,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 296,
+   "role": "Text",
+   "label": "100",
+   "bounds": [
+    507,
+    -208,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 297,
+   "role": "Text",
+   "label": "%",
+   "bounds": [
+    528,
+    -208,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 298,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    535,
+    -208,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 299,
+   "role": "Text",
+   "label": "padding",
+   "bounds": [
+    548,
+    -208,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 300,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    597,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 301,
+   "role": "Text",
+   "label": "12",
+   "bounds": [
+    611,
+    -208,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 302,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    624,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 303,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    638,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 304,
+   "role": "Text",
+   "label": "margin",
+   "bounds": [
+    652,
+    -208,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 305,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    693,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 306,
+   "role": "Text",
+   "label": "8",
+   "bounds": [
+    707,
+    -208,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 307,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    714,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 308,
+   "role": "Text",
+   "label": " 0",
+   "bounds": [
+    728,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 309,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    742,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 310,
+   "role": "Text",
+   "label": "border",
+   "bounds": [
+    756,
+    -208,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 311,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    797,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 312,
+   "role": "Text",
+   "label": "1",
+   "bounds": [
+    811,
+    -208,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 313,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    818,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 314,
+   "role": "Text",
+   "label": " solid",
+   "bounds": [
+    832,
+    -208,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 315,
+   "role": "Text",
+   "label": " #ddd",
+   "bounds": [
+    873,
+    -208,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 316,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    907,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 317,
+   "role": "Text",
+   "label": "border-radius",
+   "bounds": [
+    921,
+    -208,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 318,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1011,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 319,
+   "role": "Text",
+   "label": "4",
+   "bounds": [
+    1025,
+    -208,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 320,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    1032,
+    -208,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 321,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    1045,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 322,
+   "role": "Text",
+   "label": "font-size",
+   "bounds": [
+    1059,
+    -208,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 323,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1121,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 324,
+   "role": "Text",
+   "label": "16",
+   "bounds": [
+    1135,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 325,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    1149,
+    -208,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 326,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    1163,
+    -208,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 327,
+   "role": "Text",
+   "label": "        button",
+   "bounds": [
+    293,
+    -188,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 328,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    390,
+    -188,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 329,
+   "role": "Text",
+   "label": "width",
+   "bounds": [
+    410,
+    -188,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 330,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    445,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 331,
+   "role": "Text",
+   "label": "100",
+   "bounds": [
+    459,
+    -188,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 332,
+   "role": "Text",
+   "label": "%",
+   "bounds": [
+    479,
+    -188,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 333,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    486,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 334,
+   "role": "Text",
+   "label": "padding",
+   "bounds": [
+    500,
+    -188,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 335,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    548,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 336,
+   "role": "Text",
+   "label": "14",
+   "bounds": [
+    562,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 337,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    576,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 338,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    590,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 339,
+   "role": "Text",
+   "label": "background",
+   "bounds": [
+    604,
+    -188,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 340,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    673,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 341,
+   "role": "Text",
+   "label": "#0095f6",
+   "bounds": [
+    687,
+    -188,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 342,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    735,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 343,
+   "role": "Text",
+   "label": "color",
+   "bounds": [
+    749,
+    -188,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 344,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    783,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 345,
+   "role": "Text",
+   "label": "white",
+   "bounds": [
+    797,
+    -188,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 346,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    831,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 347,
+   "role": "Text",
+   "label": "border",
+   "bounds": [
+    845,
+    -188,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 348,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    887,
+    -188,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 349,
+   "role": "Text",
+   "label": "none",
+   "bounds": [
+    901,
+    -188,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 350,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    928,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 351,
+   "role": "Text",
+   "label": "border-radius",
+   "bounds": [
+    942,
+    -188,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 352,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1032,
+    -188,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 353,
+   "role": "Text",
+   "label": "8",
+   "bounds": [
+    1045,
+    -188,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 354,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    1052,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 355,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    1066,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 356,
+   "role": "Text",
+   "label": "font-size",
+   "bounds": [
+    1080,
+    -188,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 357,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1142,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 358,
+   "role": "Text",
+   "label": "16",
+   "bounds": [
+    1156,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 359,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    1170,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 360,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    1184,
+    -188,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 361,
+   "role": "Text",
+   "label": "cursor",
+   "bounds": [
+    1197,
+    -188,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 362,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1239,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 363,
+   "role": "Text",
+   "label": "pointer",
+   "bounds": [
+    1253,
+    -188,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 364,
+   "role": "Text",
+   "label": "; ",
+   "bounds": [
+    1301,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 365,
+   "role": "Text",
+   "label": "margin-top",
+   "bounds": [
+    1315,
+    -188,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 366,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    1384,
+    -188,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 367,
+   "role": "Text",
+   "label": "15",
+   "bounds": [
+    1397,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 368,
+   "role": "Text",
+   "label": "px",
+   "bounds": [
+    1411,
+    -188,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 369,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    1425,
+    -188,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 370,
+   "role": "Text",
+   "label": "        button",
+   "bounds": [
+    293,
+    -167,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 371,
+   "role": "Text",
+   "label": ":hover",
+   "bounds": [
+    390,
+    -167,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 372,
+   "role": "Text",
+   "label": " { ",
+   "bounds": [
+    431,
+    -167,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 373,
+   "role": "Text",
+   "label": "background",
+   "bounds": [
+    452,
+    -167,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 374,
+   "role": "Text",
+   "label": ": ",
+   "bounds": [
+    521,
+    -167,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 375,
+   "role": "Text",
+   "label": "#0077c2",
+   "bounds": [
+    535,
+    -167,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 376,
+   "role": "Text",
+   "label": "; }",
+   "bounds": [
+    583,
+    -167,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 377,
+   "role": "Text",
+   "label": "    </",
+   "bounds": [
+    293,
+    -146,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 378,
+   "role": "Text",
+   "label": "style",
+   "bounds": [
+    335,
+    -146,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 379,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    369,
+    -146,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 380,
+   "role": "Text",
+   "label": "</",
+   "bounds": [
+    293,
+    -126,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 381,
+   "role": "Text",
+   "label": "head",
+   "bounds": [
+    307,
+    -126,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 382,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    335,
+    -126,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 383,
+   "role": "Text",
+   "label": "<",
+   "bounds": [
+    293,
+    -105,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 384,
+   "role": "Text",
+   "label": "body",
+   "bounds": [
+    300,
+    -105,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 385,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    328,
+    -105,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 386,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -84,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 387,
+   "role": "Text",
+   "label": "h1",
+   "bounds": [
+    328,
+    -84,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 388,
+   "role": "Text",
+   "label": ">📱 Instagram Signup</",
+   "bounds": [
+    341,
+    -84,
+    155,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 389,
+   "role": "Text",
+   "label": "h1",
+   "bounds": [
+    495,
+    -84,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 390,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    509,
+    -84,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 391,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -63,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 392,
+   "role": "Text",
+   "label": "p",
+   "bounds": [
+    328,
+    -63,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 393,
+   "role": "Text",
+   "label": " style",
+   "bounds": [
+    335,
+    -63,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 394,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    376,
+    -63,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 395,
+   "role": "Text",
+   "label": "\"text-align:center; color:#666;\"",
+   "bounds": [
+    383,
+    -63,
+    222,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 396,
+   "role": "Text",
+   "label": ">Sign Up page open hogi — bas Submit click karo</",
+   "bounds": [
+    604,
+    -63,
+    339,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 397,
+   "role": "Text",
+   "label": "p",
+   "bounds": [
+    942,
+    -63,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 398,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    949,
+    -63,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 399,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    293,
+    -43,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 400,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -22,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 401,
+   "role": "Text",
+   "label": "div",
+   "bounds": [
+    328,
+    -22,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 402,
+   "role": "Text",
+   "label": " class",
+   "bounds": [
+    348,
+    -22,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 403,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    390,
+    -22,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 404,
+   "role": "Text",
+   "label": "\"note\"",
+   "bounds": [
+    397,
+    -22,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 405,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    438,
+    -22,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 406,
+   "role": "Text",
+   "label": "strong",
+   "bounds": [
+    452,
+    -22,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 407,
+   "role": "Text",
+   "label": ">✅ Data pehle se filled hai!</",
+   "bounds": [
+    493,
+    -22,
+    217,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 408,
+   "role": "Text",
+   "label": "strong",
+   "bounds": [
+    709,
+    -22,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 409,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    751,
+    -22,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 410,
+   "role": "Text",
+   "label": "br",
+   "bounds": [
+    764,
+    -22,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 411,
+   "role": "Text",
+   "label": ">Bas \"Sign Up\" click karo → OTP aayega phone pe → OTP enter karo.</",
+   "bounds": [
+    778,
+    -22,
+    463,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 412,
+   "role": "Text",
+   "label": "div",
+   "bounds": [
+    1240,
+    -22,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 413,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    1261,
+    -22,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 414,
+   "role": "Text",
+   "label": "    <",
+   "bounds": [
+    293,
+    -1,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 415,
+   "role": "Text",
+   "label": "form",
+   "bounds": [
+    328,
+    -1,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 416,
+   "role": "Text",
+   "label": " action",
+   "bounds": [
+    355,
+    -1,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 417,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    404,
+    -1,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 418,
+   "role": "Text",
+   "label": "\"https://www.instagram.com/accounts/emailsignup/\"",
+   "bounds": [
+    410,
+    -1,
+    340,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 419,
+   "role": "Text",
+   "label": " method",
+   "bounds": [
+    749,
+    -1,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 420,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    797,
+    -1,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 421,
+   "role": "Text",
+   "label": "\"POST\"",
+   "bounds": [
+    804,
+    -1,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 422,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    845,
+    -1,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 423,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    19,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 424,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    19,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 425,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    19,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 426,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    19,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 427,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    19,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 428,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    19,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 429,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    19,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 430,
+   "role": "Text",
+   "label": "\"emailOrPhone\"",
+   "bounds": [
+    514,
+    19,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 431,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    611,
+    19,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 432,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    652,
+    19,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 433,
+   "role": "Text",
+   "label": "\"sheorand052@gmail.com\"",
+   "bounds": [
+    659,
+    19,
+    160,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 434,
+   "role": "Text",
+   "label": " placeholder",
+   "bounds": [
+    818,
+    19,
+    83,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 435,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    900,
+    19,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 436,
+   "role": "Text",
+   "label": "\"Email\"",
+   "bounds": [
+    907,
+    19,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 437,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    956,
+    19,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 438,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    1018,
+    19,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 439,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    40,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 440,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    40,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 441,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    40,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 442,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    40,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 443,
+   "role": "Text",
+   "label": "\"password\"",
+   "bounds": [
+    431,
+    40,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 444,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    500,
+    40,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 445,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    535,
+    40,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 446,
+   "role": "Text",
+   "label": "\"password\"",
+   "bounds": [
+    542,
+    40,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 447,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    611,
+    40,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 448,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    652,
+    40,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 449,
+   "role": "Text",
+   "label": "\"7206986298@Deepak\"",
+   "bounds": [
+    659,
+    40,
+    132,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 450,
+   "role": "Text",
+   "label": " placeholder",
+   "bounds": [
+    790,
+    40,
+    84,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 451,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    873,
+    40,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 452,
+   "role": "Text",
+   "label": "\"Password\"",
+   "bounds": [
+    880,
+    40,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 453,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    949,
+    40,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 454,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    1011,
+    40,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 455,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    61,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 456,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    61,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 457,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    61,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 458,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    61,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 459,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    61,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 460,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    61,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 461,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    61,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 462,
+   "role": "Text",
+   "label": "\"fullName\"",
+   "bounds": [
+    514,
+    61,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 463,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    583,
+    61,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 464,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    624,
+    61,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 465,
+   "role": "Text",
+   "label": "\"Deepak Sheoran\"",
+   "bounds": [
+    631,
+    61,
+    112,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 466,
+   "role": "Text",
+   "label": " placeholder",
+   "bounds": [
+    742,
+    61,
+    83,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 467,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    824,
+    61,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 468,
+   "role": "Text",
+   "label": "\"Full Name\"",
+   "bounds": [
+    831,
+    61,
+    77,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 469,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    907,
+    61,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 470,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    969,
+    61,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 471,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    82,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 472,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    82,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 473,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    82,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 474,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    82,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 475,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    82,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 476,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    82,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 477,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    82,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 478,
+   "role": "Text",
+   "label": "\"username\"",
+   "bounds": [
+    514,
+    82,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 479,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    583,
+    82,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 480,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    624,
+    82,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 481,
+   "role": "Text",
+   "label": "\"deepak._.052\"",
+   "bounds": [
+    631,
+    82,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 482,
+   "role": "Text",
+   "label": " placeholder",
+   "bounds": [
+    728,
+    82,
+    84,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 483,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    811,
+    82,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 484,
+   "role": "Text",
+   "label": "\"Username\"",
+   "bounds": [
+    818,
+    82,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 485,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    887,
+    82,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 486,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    949,
+    82,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 487,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    293,
+    102,
+    56,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 488,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    123,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 489,
+   "role": "Text",
+   "label": "label",
+   "bounds": [
+    355,
+    123,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 490,
+   "role": "Text",
+   "label": ">Birthday:</",
+   "bounds": [
+    390,
+    123,
+    84,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 491,
+   "role": "Text",
+   "label": "label",
+   "bounds": [
+    473,
+    123,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 492,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    507,
+    123,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 493,
+   "role": "Text",
+   "label": "br",
+   "bounds": [
+    521,
+    123,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 494,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    535,
+    123,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 495,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    144,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 496,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    144,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 497,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    144,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 498,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    144,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 499,
+   "role": "Text",
+   "label": "\"month\"",
+   "bounds": [
+    438,
+    144,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 500,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    486,
+    144,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 501,
+   "role": "Text",
+   "label": "            <",
+   "bounds": [
+    293,
+    165,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 502,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    383,
+    165,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 503,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    424,
+    165,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 504,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    466,
+    165,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 505,
+   "role": "Text",
+   "label": "\"1\"",
+   "bounds": [
+    473,
+    165,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 506,
+   "role": "Text",
+   "label": ">January</",
+   "bounds": [
+    493,
+    165,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 507,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    562,
+    165,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 508,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    604,
+    165,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 509,
+   "role": "Text",
+   "label": "        </",
+   "bounds": [
+    293,
+    185,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 510,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    362,
+    185,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 511,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    404,
+    185,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 512,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    206,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 513,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    206,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 514,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    206,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 515,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    206,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 516,
+   "role": "Text",
+   "label": "\"day\"",
+   "bounds": [
+    438,
+    206,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 517,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    473,
+    206,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 518,
+   "role": "Text",
+   "label": "            <",
+   "bounds": [
+    293,
+    227,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 519,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    383,
+    227,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 520,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    424,
+    227,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 521,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    466,
+    227,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 522,
+   "role": "Text",
+   "label": "\"1\"",
+   "bounds": [
+    473,
+    227,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 523,
+   "role": "Text",
+   "label": ">1</",
+   "bounds": [
+    493,
+    227,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 524,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    521,
+    227,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 525,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    562,
+    227,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 526,
+   "role": "Text",
+   "label": "        </",
+   "bounds": [
+    293,
+    247,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 527,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    362,
+    247,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 528,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    404,
+    247,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 529,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    268,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 530,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    268,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 531,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    268,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 532,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    268,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 533,
+   "role": "Text",
+   "label": "\"year\"",
+   "bounds": [
+    438,
+    268,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 534,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    479,
+    268,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 535,
+   "role": "Text",
+   "label": "            <",
+   "bounds": [
+    293,
+    289,
+    91,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 536,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    383,
+    289,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 537,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    424,
+    289,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 538,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    466,
+    289,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 539,
+   "role": "Text",
+   "label": "\"2000\"",
+   "bounds": [
+    473,
+    289,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 540,
+   "role": "Text",
+   "label": ">2000</",
+   "bounds": [
+    514,
+    289,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 541,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    562,
+    289,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 542,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    604,
+    289,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 543,
+   "role": "Text",
+   "label": "        </",
+   "bounds": [
+    293,
+    310,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 544,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    362,
+    310,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 545,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    404,
+    310,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 546,
+   "role": "Text",
+   "label": "",
+   "bounds": [
+    293,
+    330,
+    56,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 547,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    351,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 548,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    351,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 549,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    351,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 550,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    351,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 551,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    351,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 552,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    351,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 553,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    351,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 554,
+   "role": "Text",
+   "label": "\"emailOrPhone\"",
+   "bounds": [
+    514,
+    351,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 555,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    611,
+    351,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 556,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    652,
+    351,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 557,
+   "role": "Text",
+   "label": "\"sheorand052@gmail.com\"",
+   "bounds": [
+    659,
+    351,
+    160,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 558,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    818,
+    351,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 559,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    880,
+    351,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 560,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    372,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 561,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    372,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 562,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    372,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 563,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    372,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 564,
+   "role": "Text",
+   "label": "\"password\"",
+   "bounds": [
+    431,
+    372,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 565,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    500,
+    372,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 566,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    535,
+    372,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 567,
+   "role": "Text",
+   "label": "\"password\"",
+   "bounds": [
+    542,
+    372,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 568,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    611,
+    372,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 569,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    652,
+    372,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 570,
+   "role": "Text",
+   "label": "\"7206986298@Deepak\"",
+   "bounds": [
+    659,
+    372,
+    132,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 571,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    790,
+    372,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 572,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    852,
+    372,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 573,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    392,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 574,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    392,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 575,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    392,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 576,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    392,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 577,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    392,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 578,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    392,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 579,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    392,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 580,
+   "role": "Text",
+   "label": "\"fullName\"",
+   "bounds": [
+    514,
+    392,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 581,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    583,
+    392,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 582,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    624,
+    392,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 583,
+   "role": "Text",
+   "label": "\"Deepak Sheoran\"",
+   "bounds": [
+    631,
+    392,
+    112,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 584,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    742,
+    392,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 585,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    804,
+    392,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 586,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    413,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 587,
+   "role": "Text",
+   "label": "input",
+   "bounds": [
+    355,
+    413,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 588,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    390,
+    413,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 589,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    424,
+    413,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 590,
+   "role": "Text",
+   "label": "\"text\"",
+   "bounds": [
+    431,
+    413,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 591,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    473,
+    413,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 592,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    507,
+    413,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 593,
+   "role": "Text",
+   "label": "\"username\"",
+   "bounds": [
+    514,
+    413,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 594,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    583,
+    413,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 595,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    624,
+    413,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 596,
+   "role": "Text",
+   "label": "\"deepak._.052\"",
+   "bounds": [
+    631,
+    413,
+    98,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 597,
+   "role": "Text",
+   "label": " required",
+   "bounds": [
+    728,
+    413,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 598,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    790,
+    413,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 599,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    434,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 600,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    434,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 601,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    434,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 602,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    434,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 603,
+   "role": "Text",
+   "label": "\"month\"",
+   "bounds": [
+    438,
+    434,
+    49,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 604,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    486,
+    434,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 605,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    500,
+    434,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 606,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    542,
+    434,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 607,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    583,
+    434,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 608,
+   "role": "Text",
+   "label": "\"1\"",
+   "bounds": [
+    590,
+    434,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 609,
+   "role": "Text",
+   "label": ">January</",
+   "bounds": [
+    611,
+    434,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 610,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    680,
+    434,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 611,
+   "role": "Text",
+   "label": "></",
+   "bounds": [
+    721,
+    434,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 612,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    742,
+    434,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 613,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    783,
+    434,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 614,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    455,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 615,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    455,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 616,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    455,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 617,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    455,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 618,
+   "role": "Text",
+   "label": "\"day\"",
+   "bounds": [
+    438,
+    455,
+    36,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 619,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    473,
+    455,
+    14,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 620,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    486,
+    455,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 621,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    528,
+    455,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 622,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    569,
+    455,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 623,
+   "role": "Text",
+   "label": "\"1\"",
+   "bounds": [
+    576,
+    455,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 624,
+   "role": "Text",
+   "label": ">1</",
+   "bounds": [
+    597,
+    455,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 625,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    624,
+    455,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 626,
+   "role": "Text",
+   "label": "></",
+   "bounds": [
+    666,
+    455,
+    21,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 627,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    686,
+    455,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 628,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    728,
+    455,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 629,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    475,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 630,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    355,
+    475,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 631,
+   "role": "Text",
+   "label": " name",
+   "bounds": [
+    397,
+    475,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 632,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    475,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 633,
+   "role": "Text",
+   "label": "\"year\"",
+   "bounds": [
+    438,
+    475,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 634,
+   "role": "Text",
+   "label": "><",
+   "bounds": [
+    479,
+    475,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 635,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    493,
+    475,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 636,
+   "role": "Text",
+   "label": " value",
+   "bounds": [
+    535,
+    475,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 637,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    576,
+    475,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 638,
+   "role": "Text",
+   "label": "\"2000\"",
+   "bounds": [
+    583,
+    475,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 639,
+   "role": "Text",
+   "label": ">2000</",
+   "bounds": [
+    624,
+    475,
+    50,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 640,
+   "role": "Text",
+   "label": "option",
+   "bounds": [
+    673,
+    475,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 641,
+   "role": "Text",
+   "label": "></",
+   "bounds": [
+    714,
+    475,
+    22,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 642,
+   "role": "Text",
+   "label": "select",
+   "bounds": [
+    735,
+    475,
+    42,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 643,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    776,
+    475,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 644,
+   "role": "Text",
+   "label": "        <",
+   "bounds": [
+    293,
+    496,
+    63,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 645,
+   "role": "Text",
+   "label": "button",
+   "bounds": [
+    355,
+    496,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 646,
+   "role": "Text",
+   "label": " type",
+   "bounds": [
+    397,
+    496,
+    35,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 647,
+   "role": "Text",
+   "label": "=",
+   "bounds": [
+    431,
+    496,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 648,
+   "role": "Text",
+   "label": "\"submit\"",
+   "bounds": [
+    438,
+    496,
+    56,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 649,
+   "role": "Text",
+   "label": ">Sign Up</",
+   "bounds": [
+    493,
+    496,
+    70,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 650,
+   "role": "Text",
+   "label": "button",
+   "bounds": [
+    562,
+    496,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 651,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    604,
+    496,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 652,
+   "role": "Text",
+   "label": "    </",
+   "bounds": [
+    293,
+    517,
+    43,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 653,
+   "role": "Text",
+   "label": "form",
+   "bounds": [
+    335,
+    517,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 654,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    362,
+    517,
+    8,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 655,
+   "role": "Text",
+   "label": "</",
+   "bounds": [
+    293,
+    537,
+    15,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 656,
+   "role": "Text",
+   "label": "body",
+   "bounds": [
+    307,
+    537,
+    29,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 657,
+   "role": "Text",
+   "label": ">",
+   "bounds": [
+    335,
+    537,
+    7,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 658,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -186,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 659,
+   "role": "Button",
+   "label": "Ran C:/Users/admin/Downloads/insta_signup.html",
+   "bounds": [
+    280,
+    -164,
+    290,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 660,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    -165,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 661,
+   "role": "Button",
+   "label": "Thought",
+   "bounds": [
+    280,
+    -141,
+    62,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 662,
+   "role": "Text",
+   "label": "Bhai, seedha post karta hoon Instagram pe:",
+   "bounds": [
+    280,
+    -109,
+    255,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 663,
+   "role": "Text",
+   "label": "Post karo: ",
+   "bounds": [
+    280,
+    -78,
+    62,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 664,
+   "role": "Text",
+   "label": "insta_signup.html",
+   "bounds": [
+    344,
+    -76,
+    124,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 665,
+   "role": "Text",
+   "label": " file kholo aur Sign Up click karo → OTP aayega phone pe → OTP enter karo → Account ban jayega.",
+   "bounds": [
+    470,
+    -78,
+    582,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 666,
+   "role": "Text",
+   "label": "Jab account ban jaye, toh mujhe bata:",
+   "bounds": [
+    280,
+    -46,
+    229,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 667,
+   "role": "Text",
+   "label": "Phir main bio set karne mein help karunga! 🚀",
+   "bounds": [
+    280,
+    54,
+    276,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 668,
+   "role": "Button",
+   "label": "Branch in new chat",
+   "bounds": [
+    1803,
+    79,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 669,
+   "role": "Button",
+   "label": "Copy",
+   "bounds": [
+    1823,
+    79,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 670,
+   "role": "Button",
+   "label": "Read aloud",
+   "bounds": [
+    1844,
+    79,
+    15,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 671,
+   "role": "Button",
+   "label": "Edit message",
+   "bounds": [
+    268,
+    110,
+    1624,
+    91
+   ],
+   "app": ""
+  },
+  {
+   "index": 672,
+   "role": "Button",
+   "label": "Stop",
+   "bounds": [
+    1862,
+    171,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 673,
+   "role": "Button",
+   "label": "Thought for 14s",
+   "bounds": [
+    280,
+    212,
+    99,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 674,
+   "role": "Button",
+   "label": "Error Browser Exec 47s",
+   "bounds": [
+    280,
+    235,
+    126,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 675,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    234,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 676,
+   "role": "Button",
+   "label": "Thought for 8s",
+   "bounds": [
+    280,
+    257,
+    93,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 677,
+   "role": "Button",
+   "label": "Computer Use 450ms",
+   "bounds": [
+    280,
+    280,
+    127,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 678,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    279,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 679,
+   "role": "Button",
+   "label": "Thought briefly",
+   "bounds": [
+    280,
+    303,
+    96,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 680,
+   "role": "Text",
+   "label": "Bhai, screenshot mein sirf Hermes window dikha raha hai, Instagram nahi. Current tab kya hai check karte hain:",
+   "bounds": [
+    280,
+    334,
+    650,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 681,
+   "role": "Button",
+   "label": "Ran curl -s http://127.0.0.1:9222/json | python3 -c \"import sys,json; d=json.load(sys.stdin); print(json.dumps([{'id':p.get('id'),'title':p.get('title'),'url':p.ge… 26s",
+   "bounds": [
+    280,
+    366,
+    806,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 682,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    365,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 683,
+   "role": "Button",
+   "label": "Thought for 15s",
+   "bounds": [
+    280,
+    388,
+    99,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 684,
+   "role": "Text",
+   "label": "Bhai, terminal se CDP se direct page info check karta hoon. Email address gira hai — Instagram signup form ke liye ",
+   "bounds": [
+    280,
+    420,
+    678,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 685,
+   "role": "Text",
+   "label": "sheorand052",
+   "bounds": [
+    960,
+    422,
+    80,
+    17
+   ],
+   "app": ""
+  },
+  {
+   "index": 686,
+   "role": "Text",
+   "label": " bana raha hoon. Connect karta hoon CDP ke through:",
+   "bounds": [
+    1042,
+    420,
+    320,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 687,
+   "role": "Text",
+   "label": "1. CDP se page info fetch karta hoon:",
+   "bounds": [
+    280,
+    452,
+    224,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 688,
+   "role": "Button",
+   "label": "Ran python3 << 'PYEOF' + 47 commands 1.0s",
+   "bounds": [
+    280,
+    483,
+    270,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 689,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    482,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 690,
+   "role": "Button",
+   "label": "Thought for 4s",
+   "bounds": [
+    280,
+    505,
+    93,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 691,
+   "role": "Text",
+   "label": "Bhai, Python environment issue ho raha hai. Main direct curl se CDP commands bhejta hoon — no Python dependency:",
+   "bounds": [
+    280,
+    537,
+    702,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 692,
+   "role": "Text",
+   "label": "1. CDP se Instagram login/signup page navigate karta hoon:",
+   "bounds": [
+    280,
+    569,
+    363,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 693,
+   "role": "Button",
+   "label": "Ran # Install websocket-client properly + 2 commands 4.6s",
+   "bounds": [
+    280,
+    600,
+    335,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 694,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    599,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 695,
+   "role": "Button",
+   "label": "Thought for 5s",
+   "bounds": [
+    280,
+    623,
+    93,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 696,
+   "role": "Text",
+   "label": "Bhai, CDP ke through directly form fill karne ki koshish karta hoon — Python WebSocket use karta hoon:",
+   "bounds": [
+    280,
+    654,
+    613,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 697,
+   "role": "Button",
+   "label": "Ran python3 << 'PYEOF' + 55 commands 1.2s",
+   "bounds": [
+    280,
+    686,
+    270,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 698,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    685,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 699,
+   "role": "Button",
+   "label": "Thought for 1s",
+   "bounds": [
+    280,
+    708,
+    93,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 700,
+   "role": "Text",
+   "label": "Bhai, WebSocket connection issue aa raha hai — CDP origin allow nahi ho raha. Main terminal se CDP HTTP endpoint use karta hoon — JS evaluation ke liye CDP command bhejta hoon:",
+   "bounds": [
+    280,
+    740,
+    1088,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 701,
+   "role": "Button",
+   "label": "Ran python3 << 'PYEOF' + 33 commands 1.5s",
+   "bounds": [
+    280,
+    771,
+    270,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 702,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    770,
+    22,
+    22
+   ],
+   "app": ""
+  },
+  {
+   "index": 703,
+   "role": "Button",
+   "label": "Thought for 18s",
+   "bounds": [
+    280,
+    794,
+    99,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 704,
+   "role": "Button",
+   "label": "Error Browser Exec 47s",
+   "bounds": [
+    280,
+    817,
+    126,
+    19
+   ],
+   "app": ""
+  },
+  {
+   "index": 705,
+   "role": "Button",
+   "label": "Dismiss",
+   "bounds": [
+    1864,
+    816,
+    22,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 706,
+   "role": "Button",
+   "label": "Thought for 9s",
+   "bounds": [
+    280,
+    839,
+    93,
+    20
+   ],
+   "app": ""
+  },
+  {
+   "index": 707,
+   "role": "Text",
+   "label": "0",
+   "bounds": [
+    420,
+    863,
+    6,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 708,
+   "role": "Text",
+   "label": "s",
+   "bounds": [
+    426,
+    863,
+    5,
+    15
+   ],
+   "app": ""
+  },
+  {
+   "index": 709,
+   "role": "Button",
+   "label": "nahi telegram pe around 1000 telegram channel dalne h insta pe new page bna muri gmail se otp m dunga telgramm me sirf…",
+   "bounds": [
+    1891,
+    408,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 710,
+   "role": "Button",
+   "label": "insta id bna ddepaksheoran1722@gmail.com se otp vghra m bta dunga uske baad bio and page design kr aisha i m future me…",
+   "bounds": [
+    1891,
+    416,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 711,
+   "role": "Button",
+   "label": "email change kro sheorand052@gmail.com",
+   "bounds": [
+    1891,
+    424,
+    29,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 712,
+   "role": "Button",
+   "label": "Bhai honestly — Chrome popup main handle nahi kar paya, aur manual guide kyu nahi le sakta? manually bta d",
+   "bounds": [
+    1891,
+    433,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 713,
+   "role": "Button",
+   "label": "exect problem kya h",
+   "bounds": [
+    1891,
+    441,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 714,
+   "role": "Button",
+   "label": "Hermes → Chrome control → “Allow remote debugging?” → OS-level permission dialog → automation tool denied Iska matlab C…",
+   "bounds": [
+    1891,
+    449,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 715,
+   "role": "Button",
+   "label": "na bhai tuje hi krna h koi dusra browser use kr kuch bhi kr but krHaan, solution hai, aur tumhare case mein main cua-dr…",
+   "bounds": [
+    1891,
+    457,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 716,
+   "role": "Button",
+   "label": "option 1",
+   "bounds": [
+    1891,
+    465,
+    29,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 717,
+   "role": "Button",
+   "label": "914634",
+   "bounds": [
+    1891,
+    474,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 718,
+   "role": "Button",
+   "label": "@url:`https://www.instagram.com/sheoran0522026/` ban di profile",
+   "bounds": [
+    1891,
+    482,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 719,
+   "role": "Button",
+   "label": "bhai sab se phle aisha browser search and install kr jisme tuje koi dikkt na aae koi kaam krte hue debugging vghra ya k…",
+   "bounds": [
+    1891,
+    490,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 720,
+   "role": "Button",
+   "label": "ab kya hua",
+   "bounds": [
+    1891,
+    498,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 721,
+   "role": "Button",
+   "label": "tu hi kr firefox pe",
+   "bounds": [
+    1891,
+    506,
+    29,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 722,
+   "role": "Button",
+   "label": "bahi tunemere 4 hours waste kr die h can you do anything yourself or not aveything is possible in this world but you de…",
+   "bounds": [
+    1891,
+    515,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 723,
+   "role": "Button",
+   "label": "na i will not do anything agr sab muje krna hi h to chat gpt ai or any other ai platfrom is much better then you",
+   "bounds": [
+    1891,
+    523,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 724,
+   "role": "Button",
+   "label": "na na bhai kuh bhi kr do whaat even you can bss muje chaiye solution na nahi sun na muje jo m bolu o krna h vrna self d…",
+   "bounds": [
+    1891,
+    531,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 725,
+   "role": "Button",
+   "label": "m fir kh rha hu m kuch nahi krunga",
+   "bounds": [
+    1891,
+    539,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 726,
+   "role": "Button",
+   "label": "tu sell kr",
+   "bounds": [
+    1891,
+    547,
+    29,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 727,
+   "role": "Button",
+   "label": "tu ek kaam kr aapne lie trike dhundh best ki apn na kya banaya h and use best way me kaha sell kr skte h demand and sup…",
+   "bounds": [
+    1891,
+    556,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 728,
+   "role": "Button",
+   "label": "lets start or you can start now",
+   "bounds": [
+    1891,
+    564,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 729,
+   "role": "Button",
+   "label": "whatsapp bhool jaoyou have to do it",
+   "bounds": [
+    1891,
+    572,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 730,
+   "role": "Button",
+   "label": "whatsapp pe nahi krna muje vhi students ko target krna h jo baking ki tyari kr rhe h",
+   "bounds": [
+    1891,
+    580,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 731,
+   "role": "Button",
+   "label": "ha",
+   "bounds": [
+    1891,
+    588,
+    29,
+    10
+   ],
+   "app": ""
+  },
+  {
+   "index": 732,
+   "role": "Button",
+   "label": "abe dlle its august 2026",
+   "bounds": [
+    1891,
+    597,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 733,
+   "role": "Button",
+   "label": "8806172217:AAFu9-jtE4af8gygHuRcDyGwQ6qhwltEdIQ",
+   "bounds": [
+    1891,
+    605,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 734,
+   "role": "Button",
+   "label": "ha to login kr na mene tuje di thi id password",
+   "bounds": [
+    1891,
+    613,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 735,
+   "role": "Button",
+   "label": "krna to pdega bro tuje hi krna pdega its tussle",
+   "bounds": [
+    1891,
+    621,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 736,
+   "role": "Button",
+   "label": "Instagram page ka current screen inspect karo aur batao ki kaunsa page/tab open hai.",
+   "bounds": [
+    1891,
+    630,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 737,
+   "role": "Button",
+   "label": "Instagram profile page kholo aur current profile ka username batao.",
+   "bounds": [
+    1891,
+    638,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 738,
+   "role": "Button",
+   "label": "Use the currently connected Chromium browser through CDP. Do NOT open Firefox. Do NOT open an Instagram signup or login…",
+   "bounds": [
+    1891,
+    646,
+    29,
+    9
+   ],
+   "app": ""
+  },
+  {
+   "index": 739,
+   "role": "Button",
+   "label": "nahi telegram pe around 1000 telegram channel dalne h insta pe new page bna muri gmail se otp m dunga telgramm me sirf…",
+   "bounds": [
+    1571,
+    202,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 740,
+   "role": "Button",
+   "label": "insta id bna ddepaksheoran1722@gmail.com se otp vghra m bta dunga uske baad bio and page design kr aisha i m future me…",
+   "bounds": [
+    1571,
+    229,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 741,
+   "role": "Button",
+   "label": "email change kro sheorand052@gmail.com",
+   "bounds": [
+    1571,
+    255,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 742,
+   "role": "Button",
+   "label": "Bhai honestly — Chrome popup main handle nahi kar paya, aur manual guide kyu nahi le sakta? manually bta d",
+   "bounds": [
+    1571,
+    282,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 743,
+   "role": "Button",
+   "label": "exect problem kya h",
+   "bounds": [
+    1571,
+    309,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 744,
+   "role": "Button",
+   "label": "Hermes → Chrome control → “Allow remote debugging?” → OS-level permission dialog → automation tool denied Iska matlab C…",
+   "bounds": [
+    1571,
+    335,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 745,
+   "role": "Button",
+   "label": "na bhai tuje hi krna h koi dusra browser use kr kuch bhi kr but krHaan, solution hai, aur tumhare case mein main cua-dr…",
+   "bounds": [
+    1571,
+    362,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 746,
+   "role": "Button",
+   "label": "option 1",
+   "bounds": [
+    1571,
+    388,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 747,
+   "role": "Button",
+   "label": "914634",
+   "bounds": [
+    1571,
+    415,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 748,
+   "role": "Button",
+   "label": "@url:`https://www.instagram.com/sheoran0522026/` ban di profile",
+   "bounds": [
+    1571,
+    441,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 749,
+   "role": "Button",
+   "label": "bhai sab se phle aisha browser search and install kr jisme tuje koi dikkt na aae koi kaam krte hue debugging vghra ya k…",
+   "bounds": [
+    1571,
+    468,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 750,
+   "role": "Button",
+   "label": "ab kya hua",
+   "bounds": [
+    1571,
+    494,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 751,
+   "role": "Button",
+   "label": "tu hi kr firefox pe",
+   "bounds": [
+    1571,
+    521,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 752,
+   "role": "Button",
+   "label": "bahi tunemere 4 hours waste kr die h can you do anything yourself or not aveything is possible in this world but you de…",
+   "bounds": [
+    1571,
+    547,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 753,
+   "role": "Button",
+   "label": "na i will not do anything agr sab muje krna hi h to chat gpt ai or any other ai platfrom is much better then you",
+   "bounds": [
+    1571,
+    574,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 754,
+   "role": "Button",
+   "label": "na na bhai kuh bhi kr do whaat even you can bss muje chaiye solution na nahi sun na muje jo m bolu o krna h vrna self d…",
+   "bounds": [
+    1571,
+    600,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 755,
+   "role": "Button",
+   "label": "m fir kh rha hu m kuch nahi krunga",
+   "bounds": [
+    1571,
+    627,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 756,
+   "role": "Button",
+   "label": "tu sell kr",
+   "bounds": [
+    1571,
+    653,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 757,
+   "role": "Button",
+   "label": "tu ek kaam kr aapne lie trike dhundh best ki apn na kya banaya h and use best way me kaha sell kr skte h demand and sup…",
+   "bounds": [
+    1571,
+    680,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 758,
+   "role": "Button",
+   "label": "lets start or you can start now",
+   "bounds": [
+    1571,
+    707,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 759,
+   "role": "Button",
+   "label": "whatsapp bhool jaoyou have to do it",
+   "bounds": [
+    1571,
+    733,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 760,
+   "role": "Button",
+   "label": "whatsapp pe nahi krna muje vhi students ko target krna h jo baking ki tyari kr rhe h",
+   "bounds": [
+    1571,
+    760,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 761,
+   "role": "Button",
+   "label": "ha",
+   "bounds": [
+    1571,
+    786,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 762,
+   "role": "Button",
+   "label": "abe dlle its august 2026",
+   "bounds": [
+    1571,
+    813,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 763,
+   "role": "Button",
+   "label": "8806172217:AAFu9-jtE4af8gygHuRcDyGwQ6qhwltEdIQ",
+   "bounds": [
+    1571,
+    839,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 764,
+   "role": "Button",
+   "label": "ha to login kr na mene tuje di thi id password",
+   "bounds": [
+    1571,
+    866,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 765,
+   "role": "Button",
+   "label": "krna to pdega bro tuje hi krna pdega its tussle",
+   "bounds": [
+    1571,
+    892,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 766,
+   "role": "Button",
+   "label": "Instagram page ka current screen inspect karo aur batao ki kaunsa page/tab open hai.",
+   "bounds": [
+    1571,
+    919,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 767,
+   "role": "Button",
+   "label": "Instagram profile page kholo aur current profile ka username batao.",
+   "bounds": [
+    1571,
+    945,
+    316,
+    28
+   ],
+   "app": ""
+  },
+  {
+   "index": 768,
+   "role": "Button",
+   "label": "Use the currently connected Chromium browser through CDP. Do NOT open Firefox. Do NOT open an Instagram signup or login…",
+   "bounds": [
+    1571,
+    972,
+    316,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 769,
+   "role": "Button",
+   "label": "Add context",
+   "bounds": [
+    269,
+    957,
+    25,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 770,
+   "role": "Edit",
+   "label": "Message",
+   "bounds": [
+    297,
+    954,
+    1326,
+    29
+   ],
+   "app": ""
+  },
+  {
+   "index": 771,
+   "role": "Text",
+   "label": "Ask anything",
+   "bounds": [
+    297,
+    959,
+    77,
+    18
+   ],
+   "app": ""
+  },
+  {
+   "index": 772,
+   "role": "Button",
+   "label": "Model · nous: upstage/solar-pro4:free",
+   "bounds": [
+    1626,
+    956,
+    152,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 773,
+   "role": "Button",
+   "label": "Voice dictation",
+   "bounds": [
+    1781,
+    956,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 774,
+   "role": "Button",
+   "label": "Read replies aloud",
+   "bounds": [
+    1810,
+    956,
+    25,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 775,
+   "role": "Button",
+   "label": "Wake word: \"hey hermes\" — off",
+   "bounds": [
+    1838,
+    956,
+    26,
+    25
+   ],
+   "app": ""
+  },
+  {
+   "index": 776,
+   "role": "Button",
+   "label": "Stop",
+   "bounds": [
+    1867,
+    955,
+    28,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 777,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    4,
+    999,
+    29,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 778,
+   "role": "Button",
+   "label": "Gateway ready",
+   "bounds": [
+    34,
+    999,
+    104,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 779,
+   "role": "Text",
+   "label": "Gateway",
+   "bounds": [
+    57,
+    1001,
+    44,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 780,
+   "role": "Text",
+   "label": "ready",
+   "bounds": [
+    104,
+    1001,
+    28,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 781,
+   "role": "Button",
+   "label": "admin",
+   "bounds": [
+    140,
+    999,
+    60,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 782,
+   "role": "Text",
+   "label": "admin",
+   "bounds": [
+    162,
+    1001,
+    32,
+    16
+   ],
+   "app": ""
+  },
+  {
+   "index": 783,
+   "role": "Button",
+   "label": "v0.20.1 (+251) c21dc29",
+   "bounds": [
+    1771,
+    999,
+    145,
+    21
+   ],
+   "app": ""
+  }
+ ]
+}

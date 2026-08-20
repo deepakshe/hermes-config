@@ -1,0 +1,1339 @@
+{
+ "app": "chrome.exe",
+ "window_title": "",
+ "total_elements": 111,
+ "elements": [
+  {
+   "index": 0,
+   "role": "Button",
+   "label": "Minimise",
+   "bounds": [
+    1749,
+    0,
+    57,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 1,
+   "role": "Button",
+   "label": "Restore",
+   "bounds": [
+    1805,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 2,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1863,
+    0,
+    58,
+    50
+   ],
+   "app": ""
+  },
+  {
+   "index": 3,
+   "role": "Button",
+   "label": "Back",
+   "bounds": [
+    0,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 4,
+   "role": "Button",
+   "label": "Reload",
+   "bounds": [
+    98,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 5,
+   "role": "Button",
+   "label": "View site information",
+   "bounds": [
+    158,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 6,
+   "role": "Edit",
+   "label": "Address and search bar",
+   "bounds": [
+    198,
+    64,
+    1410,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 7,
+   "role": "Button",
+   "label": "Third-party cookies blocked",
+   "bounds": [
+    1616,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 8,
+   "role": "Button",
+   "label": "Bookmark this tab",
+   "bounds": [
+    1656,
+    64,
+    31,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 9,
+   "role": "Button",
+   "label": "Extensions",
+   "bounds": [
+    1713,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 10,
+   "role": "Button",
+   "label": "Downloads",
+   "bounds": [
+    1780,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 11,
+   "role": "Button",
+   "label": "Deepak (Your Chrome)",
+   "bounds": [
+    1825,
+    58,
+    43,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 12,
+   "role": "Button",
+   "label": "Chrome",
+   "bounds": [
+    1870,
+    58,
+    50,
+    43
+   ],
+   "app": ""
+  },
+  {
+   "index": 13,
+   "role": "Button",
+   "label": "Tab groups",
+   "bounds": [
+    8,
+    108,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 14,
+   "role": "Button",
+   "label": "Settings",
+   "bounds": [
+    65,
+    108,
+    97,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 15,
+   "role": "Button",
+   "label": "History",
+   "bounds": [
+    166,
+    108,
+    91,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 16,
+   "role": "Button",
+   "label": "Gmail",
+   "bounds": [
+    261,
+    108,
+    82,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 17,
+   "role": "Button",
+   "label": "YouTube",
+   "bounds": [
+    348,
+    108,
+    101,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 18,
+   "role": "Button",
+   "label": "Maps",
+   "bounds": [
+    453,
+    108,
+    81,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 19,
+   "role": "Button",
+   "label": "All Bookmarks",
+   "bounds": [
+    1768,
+    108,
+    143,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 20,
+   "role": "Document",
+   "label": "Google Antigravity - Download",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 21,
+   "role": "Group",
+   "label": "plasmo-shadow-container",
+   "bounds": [
+    0,
+    -888,
+    1901,
+    3785
+   ],
+   "app": ""
+  },
+  {
+   "index": 22,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    -888,
+    1901,
+    3785
+   ],
+   "app": ""
+  },
+  {
+   "index": 23,
+   "role": "Hyperlink",
+   "label": "Google Antigravity",
+   "bounds": [
+    90,
+    101,
+    202,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 24,
+   "role": "Button",
+   "label": "Products",
+   "bounds": [
+    336,
+    96,
+    145,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 25,
+   "role": "Button",
+   "label": "Use Cases",
+   "bounds": [
+    480,
+    96,
+    155,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 26,
+   "role": "Hyperlink",
+   "label": "Pricing",
+   "bounds": [
+    634,
+    96,
+    104,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 27,
+   "role": "Hyperlink",
+   "label": "Enterprise",
+   "bounds": [
+    737,
+    96,
+    134,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 28,
+   "role": "Button",
+   "label": "Resources",
+   "bounds": [
+    870,
+    96,
+    157,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 29,
+   "role": "Hyperlink",
+   "label": "Download download",
+   "bounds": [
+    1658,
+    96,
+    153,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 30,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    151,
+    1920,
+    869
+   ],
+   "app": ""
+  },
+  {
+   "index": 31,
+   "role": "Text",
+   "label": "Download Google Antigravity for Windows",
+   "bounds": [
+    88,
+    -747,
+    1235,
+    85
+   ],
+   "app": ""
+  },
+  {
+   "index": 32,
+   "role": "Hyperlink",
+   "label": "View previous releases",
+   "bounds": [
+    1515,
+    -738,
+    296,
+    59
+   ],
+   "app": ""
+  },
+  {
+   "index": 33,
+   "role": "Button",
+   "label": "Antigravity 2.0 Antigravity 2.0",
+   "bounds": [
+    90,
+    -498,
+    202,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 34,
+   "role": "Button",
+   "label": "terminal Antigravity CLI",
+   "bounds": [
+    311,
+    -498,
+    204,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 35,
+   "role": "Button",
+   "label": "code Antigravity IDE",
+   "bounds": [
+    534,
+    -498,
+    205,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 36,
+   "role": "Button",
+   "label": "extension Antigravity SDK",
+   "bounds": [
+    758,
+    -498,
+    212,
+    45
+   ],
+   "app": ""
+  },
+  {
+   "index": 37,
+   "role": "Hyperlink",
+   "label": "v2.8.1",
+   "bounds": [
+    364,
+    -364,
+    72,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 38,
+   "role": "Hyperlink",
+   "label": "Download for Apple Silicon",
+   "bounds": [
+    90,
+    -236,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 39,
+   "role": "Hyperlink",
+   "label": "Download for Intel",
+   "bounds": [
+    90,
+    -162,
+    534,
+    59
+   ],
+   "app": ""
+  },
+  {
+   "index": 40,
+   "role": "Text",
+   "label": "Minimum Requirements",
+   "bounds": [
+    90,
+    24,
+    210,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 41,
+   "role": "Text",
+   "label": "macOS versions with Apple security update support. This is typically the current and two previous versions. Min Version 12 (Monterey), X86 is not supported",
+   "bounds": [
+    90,
+    52,
+    515,
+    77
+   ],
+   "app": ""
+  },
+  {
+   "index": 42,
+   "role": "Hyperlink",
+   "label": "Download for x64",
+   "bounds": [
+    683,
+    -236,
+    535,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 43,
+   "role": "Hyperlink",
+   "label": "Download for ARM64",
+   "bounds": [
+    683,
+    -162,
+    535,
+    59
+   ],
+   "app": ""
+  },
+  {
+   "index": 44,
+   "role": "Text",
+   "label": "Minimum Requirements",
+   "bounds": [
+    683,
+    24,
+    210,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 45,
+   "role": "Text",
+   "label": "Windows 10 (64 bit)",
+   "bounds": [
+    683,
+    52,
+    171,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 46,
+   "role": "Hyperlink",
+   "label": "Download for x64",
+   "bounds": [
+    1277,
+    -236,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 47,
+   "role": "Hyperlink",
+   "label": "Download for ARM64",
+   "bounds": [
+    1277,
+    -162,
+    534,
+    59
+   ],
+   "app": ""
+  },
+  {
+   "index": 48,
+   "role": "Text",
+   "label": "Minimum Requirements",
+   "bounds": [
+    1277,
+    24,
+    210,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 49,
+   "role": "Text",
+   "label": "glibc >= 2.28, glibcxx >= 3.4.25 (e.g. Ubuntu 20. Debian 10, Fedora 36, RHEL 8)",
+   "bounds": [
+    1277,
+    52,
+    495,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 50,
+   "role": "Hyperlink",
+   "label": "v1.1.12",
+   "bounds": [
+    368,
+    265,
+    80,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 51,
+   "role": "Text",
+   "label": "Work with Antigravity directly in your codebase. Build, debug, and ship from your terminal. Describe what you need, and Antigravity handles the rest.",
+   "bounds": [
+    90,
+    346,
+    554,
+    91
+   ],
+   "app": ""
+  },
+  {
+   "index": 52,
+   "role": "Button",
+   "label": "content_copy",
+   "bounds": [
+    932,
+    549,
+    38,
+    39
+   ],
+   "app": ""
+  },
+  {
+   "index": 53,
+   "role": "Text",
+   "label": "curl -fsSL https://antigravity.google/cli/install.sh | bash",
+   "bounds": [
+    110,
+    550,
+    654,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 54,
+   "role": "Button",
+   "label": "content_copy",
+   "bounds": [
+    932,
+    760,
+    38,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 55,
+   "role": "Text",
+   "label": "irm https://antigravity.google/cli/install.ps1 | iex",
+   "bounds": [
+    110,
+    761,
+    576,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 56,
+   "role": "Button",
+   "label": "content_copy",
+   "bounds": [
+    932,
+    970,
+    38,
+    39
+   ],
+   "app": ""
+  },
+  {
+   "index": 57,
+   "role": "Text",
+   "label": "curl -fsSL https://antigravity.google/cli/install.cmd -o install.cmd && install.cmd && del install.cmd",
+   "bounds": [
+    110,
+    971,
+    798,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 58,
+   "role": "Hyperlink",
+   "label": "v2.5.5",
+   "bounds": [
+    368,
+    1196,
+    73,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 59,
+   "role": "Hyperlink",
+   "label": "Download for Apple Silicon",
+   "bounds": [
+    90,
+    1324,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 60,
+   "role": "Hyperlink",
+   "label": "Download for Intel",
+   "bounds": [
+    90,
+    1398,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 61,
+   "role": "Hyperlink",
+   "label": "Download for x64",
+   "bounds": [
+    683,
+    1324,
+    535,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 62,
+   "role": "Hyperlink",
+   "label": "Download for ARM64",
+   "bounds": [
+    683,
+    1398,
+    535,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 63,
+   "role": "Hyperlink",
+   "label": "Download for x64",
+   "bounds": [
+    1277,
+    1324,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 64,
+   "role": "Hyperlink",
+   "label": "Download for ARM64",
+   "bounds": [
+    1277,
+    1398,
+    534,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 65,
+   "role": "Hyperlink",
+   "label": "v0.1.10",
+   "bounds": [
+    384,
+    1586,
+    80,
+    26
+   ],
+   "app": ""
+  },
+  {
+   "index": 66,
+   "role": "Text",
+   "label": "Work with Antigravity directly in your codebase. Build, debug, and ship from your terminal. Describe what you need, and Antigravity handles the rest.",
+   "bounds": [
+    90,
+    1667,
+    554,
+    92
+   ],
+   "app": ""
+  },
+  {
+   "index": 67,
+   "role": "Hyperlink",
+   "label": "Download",
+   "bounds": [
+    90,
+    1805,
+    166,
+    60
+   ],
+   "app": ""
+  },
+  {
+   "index": 68,
+   "role": "Text",
+   "label": "Experience liftoff",
+   "bounds": [
+    90,
+    2051,
+    308,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 69,
+   "role": "Text",
+   "label": "Product",
+   "bounds": [
+    980,
+    2056,
+    72,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 70,
+   "role": "Hyperlink",
+   "label": "Download",
+   "bounds": [
+    980,
+    2101,
+    91,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 71,
+   "role": "Hyperlink",
+   "label": "Product",
+   "bounds": [
+    980,
+    2138,
+    72,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 72,
+   "role": "Hyperlink",
+   "label": "Docs",
+   "bounds": [
+    980,
+    2174,
+    46,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 73,
+   "role": "Hyperlink",
+   "label": "Changelog",
+   "bounds": [
+    980,
+    2210,
+    98,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 74,
+   "role": "Hyperlink",
+   "label": "Press",
+   "bounds": [
+    980,
+    2246,
+    49,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 75,
+   "role": "Hyperlink",
+   "label": "Releases",
+   "bounds": [
+    980,
+    2283,
+    79,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 76,
+   "role": "Text",
+   "label": "Resources",
+   "bounds": [
+    1425,
+    2056,
+    93,
+    24
+   ],
+   "app": ""
+  },
+  {
+   "index": 77,
+   "role": "Hyperlink",
+   "label": "Blog",
+   "bounds": [
+    1425,
+    2101,
+    41,
+    38
+   ],
+   "app": ""
+  },
+  {
+   "index": 78,
+   "role": "Hyperlink",
+   "label": "Pricing",
+   "bounds": [
+    1425,
+    2138,
+    63,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 79,
+   "role": "Hyperlink",
+   "label": "Use Cases",
+   "bounds": [
+    1425,
+    2174,
+    92,
+    37
+   ],
+   "app": ""
+  },
+  {
+   "index": 80,
+   "role": "Hyperlink",
+   "label": "Google",
+   "bounds": [
+    90,
+    2817,
+    94,
+    31
+   ],
+   "app": ""
+  },
+  {
+   "index": 81,
+   "role": "Hyperlink",
+   "label": "About Google",
+   "bounds": [
+    980,
+    2817,
+    126,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 82,
+   "role": "Hyperlink",
+   "label": "Google Products",
+   "bounds": [
+    1125,
+    2817,
+    151,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 83,
+   "role": "Hyperlink",
+   "label": "Privacy",
+   "bounds": [
+    1295,
+    2817,
+    66,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 84,
+   "role": "Hyperlink",
+   "label": "Terms",
+   "bounds": [
+    1380,
+    2817,
+    55,
+    27
+   ],
+   "app": ""
+  },
+  {
+   "index": 85,
+   "role": "Button",
+   "label": "settings-manager-toggle-button",
+   "bounds": [
+    1846,
+    708,
+    86,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 86,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 87,
+   "role": "Button",
+   "label": "logo icon",
+   "bounds": [
+    1901,
+    937,
+    50,
+    46
+   ],
+   "app": ""
+  },
+  {
+   "index": 88,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    1896,
+    967,
+    20,
+    21
+   ],
+   "app": ""
+  },
+  {
+   "index": 89,
+   "role": "Button",
+   "label": "",
+   "bounds": [
+    1963,
+    957,
+    51,
+    51
+   ],
+   "app": ""
+  },
+  {
+   "index": 90,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    151,
+    1901,
+    2746
+   ],
+   "app": ""
+  },
+  {
+   "index": 91,
+   "role": "Group",
+   "label": "",
+   "bounds": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "app": ""
+  },
+  {
+   "index": 92,
+   "role": "Button",
+   "label": "Tab search",
+   "bounds": [
+    8,
+    8,
+    36,
+    36
+   ],
+   "app": ""
+  },
+  {
+   "index": 93,
+   "role": "TabItem",
+   "label": "YouTube",
+   "bounds": [
+    35,
+    0,
+    203,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 94,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    188,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 95,
+   "role": "TabItem",
+   "label": "Download Odysseus AI Safely - Official GitHub & Setup Paths",
+   "bounds": [
+    215,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 96,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    366,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 97,
+   "role": "TabItem",
+   "label": "Gemini Notebook - Memory usage - 291 MB",
+   "bounds": [
+    394,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 98,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    545,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 99,
+   "role": "TabItem",
+   "label": "Data Research Analyst | Flexiple | LinkedIn",
+   "bounds": [
+    573,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 100,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    724,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 101,
+   "role": "TabItem",
+   "label": "Get Started - PentAGI",
+   "bounds": [
+    751,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 102,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    903,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 103,
+   "role": "TabItem",
+   "label": "Deepak Sheoran | LinkedIn - High memory usage - 1.9 GB",
+   "bounds": [
+    930,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 104,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1081,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 105,
+   "role": "TabItem",
+   "label": "AI-Assisted Remote Roles - Memory usage - 654 MB",
+   "bounds": [
+    1109,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 106,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1260,
+    9,
+    33,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 107,
+   "role": "TabItem",
+   "label": "Google Antigravity - Download",
+   "bounds": [
+    1288,
+    0,
+    202,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 108,
+   "role": "Button",
+   "label": "Close",
+   "bounds": [
+    1439,
+    9,
+    34,
+    34
+   ],
+   "app": ""
+  },
+  {
+   "index": 109,
+   "role": "Button",
+   "label": "New Tab",
+   "bounds": [
+    1481,
+    0,
+    36,
+    52
+   ],
+   "app": ""
+  },
+  {
+   "index": 110,
+   "role": "Button",
+   "label": "Ask Gemini",
+   "bounds": [
+    1584,
+    0,
+    151,
+    50
+   ],
+   "app": ""
+  }
+ ]
+}

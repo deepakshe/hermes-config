@@ -1,0 +1,16 @@
+context_lengths:
+  poolside/laguna-xs-2.1:free@https://inference-api.nousresearch.com/v1: 262144
+  upstage/solar-pro4:free@https://inference-api.nousresearch.com/v1: 524288
+  deepseek-v4-flash:0731@https://ollama.com/v1: 1048576
+  stepfun/step-3.7-flash:free@https://inference-api.nousresearch.com/v1: 262144
+  google/gemini-3.7-flash@https://inference-api.nousresearch.com/v1: 1048576
+  minimax-m3:cloud@http://127.0.0.1:11434/v1: 524288
+  hermes3:3b@http://localhost:11434: 131072
+  hermes3:3b@http://localhost:11434/v1: 131072
+  deepseek-v4-flash:0731@https://inference-api.nousresearch.com/v1: 1048576
+  minimax-m3:cloud@https://inference-api.nousresearch.com/v1: 1048576
+  mistral-large-3:675b@https://ollama.com/v1: 262144
+  meituan/longcat-2.0:free@https://inference-api.nousresearch.com/v1: 1048576
+  nvidia/nemotron-3-super-120b-a12b@https://inference-api.nousresearch.com/v1: 1000000
+  tencent/hy3:free@https://inference-api.nousresearch.com/v1: 262144
+  anthropic/claude-fable-5@https://inference-api.nousresearch.com/v1: 1048576
