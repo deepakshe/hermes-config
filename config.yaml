@@ -15,6 +15,7 @@ code_execution:
   timeout: 300
 command_allowlist:
 - script execution via heredoc
+- access to Hermes secrets (Windows path)
 compression:
   codex_app_server_auto: native
   codex_gpt55_autoraise: true
@@ -47,6 +48,14 @@ custom_providers:
   - openai/gpt-oss-20b
   - groq/compound
   name: Groq Cloud
+- api_mode: chat_completions
+  base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
+  key_env: CLOUDFLARE_API_TOKEN
+  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+  models:
+  - '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+  - '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b'
+  name: Cloudflare AI
 - api_mode: chat_completions
   base_url: http://localhost:11434/v1
   key_env: OLLAMA_API_KEY
@@ -106,6 +115,9 @@ fallbacks:
 - base_url: https://inference-api.nousresearch.com/v1
   model: upstage/solar-pro4:free
   provider: nous
+- base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
+  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+  provider: custom
 - base_url: http://localhost:11434/v1
   model: hermes3:3b
   provider: custom
@@ -193,6 +205,19 @@ memory:
   user_char_limit: 1375
   user_profile_enabled: true
 model:
+  aliases:
+    aion-3: aion-labs/aion-3.0
+    cf-llama: cloudflare-workers-ai/@cf/meta/llama-3.3-70b-instruct-fp8-fast
+    cohere-command: cohere/command-a-plus-05-2026
+    gemini-flash: gemini/gemini-2.5-flash
+    gemini-pro: gemini/gemini-2.5-pro
+    groq-gptoss: groq/openai/gpt-oss-120b
+    groq-llama: groq/llama-3.3-70b-versatile
+    huggingface-llama: huggingface/meta-llama/llama-3.1-8b-instruct
+    kilo-nemotron: kilo-ai/nvidia/nemotron-3-ultra-550b-a55b:free
+    llm7-gptoss: llm7/gpt-oss:20b
+    mistral-large: mistralai/mistral-large-3
+    ollama-mistral: custom/mistral:latest
   base_url: https://api.groq.com/openai/v1
   default: openai/gpt-oss-120b
   provider: custom
@@ -330,6 +355,9 @@ plugins:
   - image_gen/openrouter
   - image_gen/xai
   - model-providers/custom
+  - model-providers/gemini
+  - model-providers/huggingface
+  - model-providers/kilocode
   - observability/langfuse
   - observability/nemo_relay
   - platforms/a2a
@@ -341,12 +369,42 @@ plugins:
   - web/firecrawl
   - web/parallel
   - web/searxng
+reasoning:
+  auto: true
+  enabled: true
+  level: ultra
+  max_tokens: 8000
+  provider: openrouter
 session_reset:
   mode: skills
-  toolsets: '[bfl, browser, clarify, code_execution, computer_use, cronjob, delegation,
-    file, image_gen, memory, session_search, skills, terminal, todo, tts, vision,
-    web, x_search, yuanbao, spotify, stt, video, video_gen, context_engine, discord,
-    discord_admin, homeassistant]'
+  toolsets:
+  - bfl
+  - browser
+  - clarify
+  - code_execution
+  - computer_use
+  - cronjob
+  - delegation
+  - file
+  - image_gen
+  - memory
+  - session_search
+  - skills
+  - terminal
+  - todo
+  - tts
+  - vision
+  - web
+  - x_search
+  - yuanbao
+  - spotify
+  - stt
+  - video
+  - video_gen
+  - context_engine
+  - discord
+  - discord_admin
+  - homeassistant
 terminal:
   backend: local
 timezone: ''

@@ -1,6 +1,14 @@
 {
   "version": 2,
   "manifest": {
+    "agent-reach\\SKILL.md": [
+      1787214202635048900,
+      1148
+    ],
+    "ai-video-studio\\SKILL.md": [
+      1787207953694019100,
+      2019
+    ],
     "apple\\DESCRIPTION.md": [
       1786681812426703700,
       139
@@ -181,6 +189,10 @@
       1786681812883308700,
       14243
     ],
+    "github-auto-runner\\SKILL.md": [
+      1787210542565560700,
+      1250
+    ],
     "hermes-gateway-and-platforms\\SKILL.md": [
       1786849924746568900,
       4301
@@ -252,6 +264,10 @@
     "note-taking\\obsidian\\SKILL.md": [
       1786681812931858500,
       3160
+    ],
+    "pc-automation\\SKILL.md": [
+      1787201337400370900,
+      3030
     ],
     "productivity\\DESCRIPTION.md": [
       1786681812932846700,
@@ -435,6 +451,32 @@
     ]
   },
   "skills": [
+    {
+      "skill_name": "agent-reach",
+      "category": "agent-reach",
+      "frontmatter_name": "agent-reach",
+      "description": "Read and search external sources through the channels ins...",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
+      "skill_name": "ai-video-studio",
+      "category": "ai-video-studio",
+      "frontmatter_name": "ai-video-studio",
+      "description": "Autonomous AI Video & Audio Production Studio. Generates ...",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
     {
       "skill_name": "apple-notes",
       "category": "apple",
@@ -985,6 +1027,19 @@
       }
     },
     {
+      "skill_name": "github-auto-runner",
+      "category": "github-auto-runner",
+      "frontmatter_name": "github-auto-runner",
+      "description": "Autonomous GitHub Trending Scout & Runner. Discovers",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
       "skill_name": "codebase-inspection",
       "category": "github",
       "frontmatter_name": "codebase-inspection",
@@ -1294,6 +1349,19 @@
         "macos",
         "windows"
       ],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
+      "skill_name": "pc-automation",
+      "category": "pc-automation",
+      "frontmatter_name": "pc-automation",
+      "description": "Use this skill to automate Windows OS tasks, run system-l...",
+      "platforms": [],
       "conditions": {
         "fallback_for_toolsets": [],
         "requires_toolsets": [],
