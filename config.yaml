@@ -61,7 +61,7 @@ display:
   pet:
     enabled: true
     slug: nukey
-  show_reasoning: false
+  show_reasoning: true
   skin: default
   streaming: true
   tool_progress: all
@@ -165,9 +165,9 @@ memory:
   user_profile_enabled: true
 model:
   api_mode: chat_completions
-  base_url: https://inference-api.nousresearch.com/v1
-  default: stepfun/step-3.7-flash:free
-  provider: nous
+  base_url: https://openrouter.ai/api/v1
+  default: meta-llama/llama-3.3-70b-instruct:free
+  provider: openrouter
 onboarding:
   seen:
     busy_input_prompt: true
@@ -259,6 +259,7 @@ session_reset:
     discord_admin, homeassistant]'
 terminal:
   backend: local
+timezone: ''
 voice:
   auto_tts: false
 wake_word:
