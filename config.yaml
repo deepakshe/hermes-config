@@ -1,344 +1,366 @@
-_config_version: 37
+model:
+  default: gemini/gemini-2.5-flash
+  provider: gemini
+  base_url: https://generativelanguage.googleapis.com/v1beta/openai
+  aliases:
+    gemini-flash: gemini/gemini-2.5-flash
+    gemini-pro: gemini/gemini-2.5-pro
+    groq-llama: groq/llama-3.3-70b-versatile
+    groq-gptoss: groq/openai/gpt-oss-120b
+    hf-llama: huggingface/meta-llama/llama-3.1-8b-instruct
+    hf-qwen: huggingface/qwen/qwen2.5-72b-instruct
+    or-llama: openrouter/meta-llama/llama-3.3-70b-instruct
+    or-gptoss: openrouter/openai/gpt-oss-120b
+    kilo-nemotron: kilo-ai/nvidia/nemotron-3-ultra-550b-a55b:free
+    fw-llama: fireworks/meta-llama/llama-3.1-8b-instruct
+    local-mistral: custom/mistral:latest
+fallback_providers:
+  - provider: custom
+    model: mistral:latest
+    base_url: http://localhost:11434
+    key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
+    trigger_on:
+      - 429
+      - 529
+      - 503
+      - connection_error
+    max_retries: 3
+database:
+  journal_mode: wal
 agent:
   max_turns: 150
   personalities: {}
   reasoning_effort: low
   verbose: false
+terminal:
+  backend: local
+web:
+  backend: ddgs
+  use_gateway: false
 browser:
   backend: browser-use
+  inactivity_timeout: 120
   cloud_provider: local
   executable_path: C:\Program Files\Mozilla Firefox\firefox.exe
-  inactivity_timeout: 120
   use_gateway: false
-code_execution:
-  max_tool_calls: 50
-  timeout: 300
-command_allowlist:
-- script execution via heredoc
-- access to Hermes secrets (Windows path)
 compression:
-  codex_app_server_auto: native
-  codex_gpt55_autoraise: true
-  codex_responses_compact_threshold: 200000
-  codex_responses_native: false
   enabled: true
-  idle_compact_after_seconds: 0
-  max_attempts: 3
-  min_tail_user_messages: 1
-  proactive_prune_min_reclaim_tokens: 4096
-  proactive_prune_min_result_chars: 8000
-  proactive_prune_tokens: 0
   progress_notices: false
-  protect_first_n: 3
-  protect_last_n: 20
-  target_ratio: 0.2
   threshold: 0.5
-computer_use:
-  backend: cua-driver
-  delivery_mode: background
-  enabled: true
-custom_providers:
-- api_mode: chat_completions
-  base_url: https://api.groq.com/openai/v1
-  key_env: GROQ_API_KEY
-  model: openai/gpt-oss-120b
-  models:
-  - openai/gpt-oss-120b
-  - qwen/qwen3.6-27b
-  - openai/gpt-oss-20b
-  - groq/compound
-  name: Groq Cloud
-- api_mode: chat_completions
-  base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
-  key_env: CLOUDFLARE_API_TOKEN
-  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
-  models:
-  - '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
-  - '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b'
-  name: Cloudflare AI
-- api_mode: chat_completions
-  base_url: http://localhost:11434/v1
-  key_env: OLLAMA_API_KEY
-  model: hermes3:3b
-  models:
-  - hermes3:3b
-  - mistral:latest
-  name: Ollama Local
-database:
-  journal_mode: wal
-delegation:
-  max_iterations: 250
+  target_ratio: 0.2
+  protect_last_n: 20
+  min_tail_user_messages: 1
+  max_attempts: 3
+  proactive_prune_tokens: 0
+  proactive_prune_min_result_chars: 8000
+  proactive_prune_min_reclaim_tokens: 4096
+  protect_first_n: 3
+  codex_gpt55_autoraise: true
+  codex_app_server_auto: native
+  codex_responses_native: false
+  codex_responses_compact_threshold: 200000
+  idle_compact_after_seconds: 0
 display:
-  background_process_notifications: concise
-  bell_on_complete: false
-  busy_ack_detail: true
-  busy_input_mode: interrupt
-  cleanup_progress: false
   compact: false
+  busy_input_mode: interrupt
+  bell_on_complete: false
+  show_reasoning: true
+  background_process_notifications: concise
+  streaming: true
+  skin: default
   interim_assistant_messages: true
-  long_running_notifications: true
   pet:
     enabled: true
     slug: nukey
-  show_reasoning: true
-  skin: default
-  streaming: true
+  busy_ack_detail: true
+  cleanup_progress: false
+  long_running_notifications: true
   tool_progress: all
-fallback_chain:
-- label: Groq Free - Fast
-  model: llama-3.3-70b-versatile
-  provider: groq
-- label: Gemini Free - 1M context
-  model: gemini-2.5-flash
-  provider: googleai-studio
-- label: Mistral Free - $10/mo
-  model: mistral-large-3
-  provider: mistralai
-- label: Ollama Local
-  model: mistral:latest
-  provider: custom-provider
-fallback_providers:
-- base_url: http://localhost:11434
-  key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
-  max_retries: 3
-  model: mistral:latest
-  provider: Mistral Local
-  trigger_on:
-  - 429
-  - 529
-  - 503
-  - connection_error
-fallbacks:
-- base_url: https://api.groq.com/openai/v1
-  model: qwen/qwen3.6-27b
-  provider: custom
-- base_url: https://inference-api.nousresearch.com/v1
-  model: upstage/solar-pro4:free
-  provider: nous
-- base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
-  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
-  provider: custom
-- base_url: http://localhost:11434/v1
-  model: hermes3:3b
-  provider: custom
-- base_url: http://localhost:11434/v1
-  model: mistral:latest
-  provider: custom
-group_sessions_per_user: true
-known_builtin_toolsets:
-  cli:
-  - bfl
-  - browser
-  - clarify
-  - code_execution
-  - computer_use
-  - context_engine
-  - cronjob
-  - delegation
-  - discord
-  - discord_admin
-  - file
-  - homeassistant
-  - image_gen
-  - memory
-  - session_search
-  - skills
-  - spotify
-  - stt
-  - terminal
-  - todo
-  - tts
-  - video
-  - video_gen
-  - vision
-  - web
-  - x_search
-  - yuanbao
-  telegram:
-  - bfl
-  - browser
-  - clarify
-  - code_execution
-  - computer_use
-  - context_engine
-  - cronjob
-  - delegation
-  - discord
-  - discord_admin
-  - file
-  - homeassistant
-  - image_gen
-  - memory
-  - session_search
-  - skills
-  - spotify
-  - stt
-  - terminal
-  - todo
-  - tts
-  - video
-  - video_gen
-  - vision
-  - web
-  - x_search
-  - yuanbao
-known_plugin_toolsets:
-  cli:
-  - a2a
-  - spotify
-  telegram:
-  - a2a
-  - spotify
-mcp_servers:
-  n8n:
-    args:
-    - C:/Users/admin/AppData/Local/hermes/mcp-installs/n8n/server.py
-    - --env
-    - N8N_MCP_ENV=C:/Users/admin/.config/n8n-mcp/env
-    command: C:/Users/admin/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe
-    enabled: true
+voice:
+  auto_tts: false
+wake_word:
+  enabled: true
 memory:
-  flush_min_turns: 6
-  memory_char_limit: 2200
   memory_enabled: true
-  nudge_interval: 10
-  user_char_limit: 1375
   user_profile_enabled: true
-model:
-  aliases:
-    aion-3: aion-labs/aion-3.0
-    cf-llama: cloudflare-workers-ai/@cf/meta/llama-3.3-70b-instruct-fp8-fast
-    cohere-command: cohere/command-a-plus-05-2026
-    gemini-flash: gemini/gemini-2.5-flash
-    gemini-pro: gemini/gemini-2.5-pro
-    groq-gptoss: groq/openai/gpt-oss-120b
-    groq-llama: groq/llama-3.3-70b-versatile
-    huggingface-llama: huggingface/meta-llama/llama-3.1-8b-instruct
-    kilo-nemotron: kilo-ai/nvidia/nemotron-3-ultra-550b-a55b:free
-    llm7-gptoss: llm7/gpt-oss:20b
-    mistral-large: mistralai/mistral-large-3
-    ollama-mistral: custom/mistral:latest
-  base_url: https://api.groq.com/openai/v1
-  default: openai/gpt-oss-120b
-  provider: custom
-model_providers:
-- base_url: https://generativelanguage.googleapis.com/v1beta/openai
-  description: 'Free tier: 1M context, 15 RPM, 1500 RPD. No credit card.'
-  key_env: GOOGLE_API_KEY
-  model: gemini-2.5-flash
-  name: Google Gemini Free
-  provider: googleai-studio
-- base_url: https://api.groq.com/openai/v1
-  description: 'Free tier: 30 RPM, 1000 RPD. Ultra-fast LPU. gpt-oss-120b also available.'
-  key_env: GROQ_API_KEY
-  model: llama-3.3-70b-versatile
-  name: Groq Free
-  provider: groq
-- base_url: https://api.groq.com/openai/v1
-  description: 'Free tier: 30 RPM. OpenAI GPT-OSS 120B on Groq LPU.'
-  key_env: GROQ_API_KEY
-  model: openai/gpt-oss-120b
-  name: Groq GPT-OSS 120B
-  provider: groq
-- base_url: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run
-  description: 10K neurons/day free. 75+ models. No credit card.
-  key_env: CLOUDFLARE_API_TOKEN
-  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
-  name: Cloudflare Workers AI
-  provider: cloudflare-workers-ai
-- base_url: https://api.kilo.ai/api/gateway
-  description: Free, no credit card. Auto-routes to free pool. ~200 req/hr.
-  key_env: KILO_API_KEY
-  model: nvidia/nemotron-3-ultra-550b-a55b:free
-  name: Kilo AI Free
-  provider: kilo-ai
-- base_url: https://api.aionlabs.ai/v1
-  description: 'Permanent free: 15 RPM, 20K tokens/day. Roleplay + reasoning.'
-  key_env: AION_LABS_API_KEY
-  model: aion-labs/aion-3.0
-  name: Aion Labs Free
-  provider: aion-labs
-- base_url: https://api.mistral.ai/v1
-  description: 'Free mode: $10/month credits. Mistral Large 3, Medium 3.5, Small 4.'
-  key_env: MISTRAL_API_KEY
-  model: mistral-large-3
-  name: Mistral AI Free
-  provider: mistralai
-- base_url: https://api.cohere.com/v2
-  description: 'Free trial: 1000 calls/month. Command A+ (218B). Non-commercial.'
-  key_env: COHERE_API_KEY
-  model: command-a-plus-05-2026
-  name: Cohere Free
-  provider: cohere
-- base_url: https://router.huggingface.co/v1
-  description: $0.10/month free credits. Routes to Fireworks, Together, Hyperbolic,
-    etc.
-  key_env: HF_TOKEN
-  model: meta-llama/llama-3.1-8b-instruct
-  name: HuggingFace Free
-  provider: huggingface
-- base_url: https://api.llm7.io/v1
-  description: Free tier. GPT-OSS 20B reasoning model. 30 RPM (120 with token).
-  key_env: LLM7_API_KEY
-  model: gpt-oss:20b
-  name: LLM7 Free
-  provider: llm7
+  memory_char_limit: 2200
+  user_char_limit: 1375
+  flush_min_turns: 6
+  nudge_interval: 10
+delegation:
+  max_iterations: 250
+timezone: ''
+command_allowlist:
+  - script execution via heredoc
+  - access to Hermes secrets (Windows path)
+code_execution:
+  max_tool_calls: 50
+  timeout: 300
 onboarding:
   seen:
     busy_input_prompt: true
     openclaw_residue_cleanup: true
+computer_use:
+  backend: cua-driver
+  delivery_mode: background
+  enabled: true
+_config_version: 37
+custom_providers:
+  - api_mode: chat_completions
+    base_url: https://api.groq.com/openai/v1
+    key_env: GROQ_API_KEY
+    model: openai/gpt-oss-120b
+    models:
+      - openai/gpt-oss-120b
+      - qwen/qwen3.6-27b
+      - openai/gpt-oss-20b
+      - groq/compound
+    name: Groq Cloud
+  - api_mode: chat_completions
+    base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
+    key_env: CLOUDFLARE_API_TOKEN
+    model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+    models:
+      - '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+      - '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b'
+    name: Cloudflare AI
+  - api_mode: chat_completions
+    base_url: http://localhost:11434/v1
+    key_env: OLLAMA_API_KEY
+    model: hermes3:3b
+    models:
+      - mistral:latest
+      - hermes3:3b
+    name: Ollama Local
+fallback_chain:
+  - provider: gemini
+    model: gemini-2.5-flash
+    label: Google AI Studio - 1M ctx
+    priority: 1
+  - provider: groq
+    model: llama-3.3-70b-versatile
+    label: Groq - Ultra Fast LPU
+    priority: 2
+  - provider: huggingface
+    model: meta-llama/llama-3.1-8b-instruct
+    label: HuggingFace - Free Credits
+    priority: 3
+  - provider: kilo-ai
+    model: nvidia/nemotron-3-ultra-550b-a55b:free
+    label: Kilo AI - Free No CC
+    priority: 4
+  - provider: openrouter
+    model: meta-llama/llama-3.3-70b-instruct
+    label: OpenRouter - Has Key
+    priority: 5
+  - provider: custom
+    model: mistral:latest
+    label: Ollama Local - No Limit
+    priority: 6
+fallbacks:
+  - base_url: https://api.groq.com/openai/v1
+    model: qwen/qwen3.6-27b
+    provider: custom
+  - base_url: https://inference-api.nousresearch.com/v1
+    model: upstage/solar-pro4:free
+    provider: nous
+  - base_url: https://api.cloudflare.com/client/v4/accounts/0e7abc95ba8de4bd3251dd919362a383/ai/v1
+    model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+    provider: custom
+  - base_url: http://localhost:11434/v1
+    model: hermes3:3b
+    provider: custom
+  - base_url: http://localhost:11434/v1
+    model: mistral:latest
+    provider: custom
+group_sessions_per_user: true
+known_builtin_toolsets:
+  cli:
+    - bfl
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - context_engine
+    - cronjob
+    - delegation
+    - discord
+    - discord_admin
+    - file
+    - homeassistant
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - spotify
+    - stt
+    - terminal
+    - todo
+    - tts
+    - video
+    - video_gen
+    - vision
+    - web
+    - x_search
+    - yuanbao
+  telegram:
+    - bfl
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - context_engine
+    - cronjob
+    - delegation
+    - discord
+    - discord_admin
+    - file
+    - homeassistant
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - spotify
+    - stt
+    - terminal
+    - todo
+    - tts
+    - video
+    - video_gen
+    - vision
+    - web
+    - x_search
+    - yuanbao
+known_plugin_toolsets:
+  cli:
+    - a2a
+    - spotify
+  telegram:
+    - a2a
+    - spotify
+mcp_servers:
+  n8n:
+    args:
+      - C:/Users/admin/AppData/Local/hermes/mcp-installs/n8n/server.py
+      - --env
+      - N8N_MCP_ENV=C:/Users/admin/.config/n8n-mcp/env
+    command: C:/Users/admin/AppData/Local/hermes/hermes-agent/venv/Scripts/python.exe
+    enabled: true
+model_providers:
+  - base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    description: 'Free tier: 1M context, 15 RPM, 1500 RPD. No credit card.'
+    key_env: GOOGLE_API_KEY
+    model: gemini-2.5-flash
+    name: Google Gemini Free
+    provider: googleai-studio
+  - base_url: https://api.groq.com/openai/v1
+    description: 'Free tier: 30 RPM, 1000 RPD. Ultra-fast LPU. gpt-oss-120b also available.'
+    key_env: GROQ_API_KEY
+    model: llama-3.3-70b-versatile
+    name: Groq Free
+    provider: groq
+  - base_url: https://api.groq.com/openai/v1
+    description: 'Free tier: 30 RPM. OpenAI GPT-OSS 120B on Groq LPU.'
+    key_env: GROQ_API_KEY
+    model: openai/gpt-oss-120b
+    name: Groq GPT-OSS 120B
+    provider: groq
+  - base_url: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run
+    description: 10K neurons/day free. 75+ models. No credit card.
+    key_env: CLOUDFLARE_API_TOKEN
+    model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+    name: Cloudflare Workers AI
+    provider: cloudflare-workers-ai
+  - base_url: https://api.kilo.ai/api/gateway
+    description: Free, no credit card. Auto-routes to free pool. ~200 req/hr.
+    key_env: KILO_API_KEY
+    model: nvidia/nemotron-3-ultra-550b-a55b:free
+    name: Kilo AI Free
+    provider: kilo-ai
+  - base_url: https://api.aionlabs.ai/v1
+    description: 'Permanent free: 15 RPM, 20K tokens/day. Roleplay + reasoning.'
+    key_env: AION_LABS_API_KEY
+    model: aion-labs/aion-3.0
+    name: Aion Labs Free
+    provider: aion-labs
+  - base_url: https://api.mistral.ai/v1
+    description: 'Free mode: $10/month credits. Mistral Large 3, Medium 3.5, Small
+      4.'
+    key_env: MISTRAL_API_KEY
+    model: mistral-large-3
+    name: Mistral AI Free
+    provider: mistralai
+  - base_url: https://api.cohere.com/v2
+    description: 'Free trial: 1000 calls/month. Command A+ (218B). Non-commercial.'
+    key_env: COHERE_API_KEY
+    model: command-a-plus-05-2026
+    name: Cohere Free
+    provider: cohere
+  - base_url: https://router.huggingface.co/v1
+    description: $0.10/month free credits. Routes to Fireworks, Together, Hyperbolic,
+      etc.
+    key_env: HF_TOKEN
+    model: meta-llama/llama-3.1-8b-instruct
+    name: HuggingFace Free
+    provider: huggingface
+  - base_url: https://api.llm7.io/v1
+    description: Free tier. GPT-OSS 20B reasoning model. 30 RPM (120 with token).
+    key_env: LLM7_API_KEY
+    model: gpt-oss:20b
+    name: LLM7 Free
+    provider: llm7
 platform_toolsets:
   cli:
-  - bfl
-  - browser
-  - clarify
-  - code_execution
-  - computer_use
-  - cronjob
-  - delegation
-  - file
-  - image_gen
-  - kanban
-  - memory
-  - session_search
-  - skills
-  - terminal
-  - todo
-  - tts
-  - vision
-  - web
+    - bfl
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - cronjob
+    - delegation
+    - file
+    - image_gen
+    - kanban
+    - memory
+    - session_search
+    - skills
+    - terminal
+    - todo
+    - tts
+    - vision
+    - web
   discord:
-  - hermes-discord
+    - hermes-discord
   google_chat:
-  - hermes-google_chat
+    - hermes-google_chat
   homeassistant:
-  - hermes-homeassistant
+    - hermes-homeassistant
   qqbot:
-  - hermes-qqbot
+    - hermes-qqbot
   signal:
-  - hermes-signal
+    - hermes-signal
   slack:
-  - hermes-slack
+    - hermes-slack
   teams:
-  - hermes-teams
+    - hermes-teams
   telegram:
-  - bfl
-  - browser
-  - clarify
-  - code_execution
-  - computer_use
-  - cronjob
-  - delegation
-  - file
-  - image_gen
-  - memory
-  - session_search
-  - skills
-  - terminal
-  - todo
-  - tts
-  - vision
-  - web
+    - bfl
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - cronjob
+    - delegation
+    - file
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - terminal
+    - todo
+    - tts
+    - vision
+    - web
 platforms:
   telegram:
     bot_token: 8927696890:AAH1wt18GE_56EzNR_5XzywLCh2IalPml58
@@ -346,72 +368,110 @@ platforms:
 plugins:
   disabled: []
   enabled:
-  - browser/browser-use
-  - cron_providers/chronos
-  - google_meet
-  - image_gen/deepinfra
-  - image_gen/fal
-  - image_gen/openai
-  - image_gen/openrouter
-  - image_gen/xai
-  - model-providers/custom
-  - model-providers/gemini
-  - model-providers/huggingface
-  - model-providers/kilocode
-  - observability/langfuse
-  - observability/nemo_relay
-  - platforms/a2a
-  - security-guidance
-  - teams_pipeline
-  - web/brave_free
-  - web/ddgs
-  - web/exa
-  - web/firecrawl
-  - web/parallel
-  - web/searxng
+    - browser/browser-use
+    - cron_providers/chronos
+    - google_meet
+    - image_gen/deepinfra
+    - image_gen/fal
+    - image_gen/openai
+    - image_gen/openrouter
+    - image_gen/xai
+    - model-providers/custom
+    - model-providers/gemini
+    - model-providers/huggingface
+    - model-providers/kilocode
+    - observability/langfuse
+    - observability/nemo_relay
+    - platforms/a2a
+    - security-guidance
+    - teams_pipeline
+    - web/brave_free
+    - web/ddgs
+    - web/exa
+    - web/firecrawl
+    - web/parallel
+    - web/searxng
 reasoning:
-  auto: true
   enabled: true
   level: ultra
-  max_tokens: 8000
-  provider: openrouter
+  auto: true
+  max_tokens: 8192
 session_reset:
   mode: skills
   toolsets:
-  - bfl
-  - browser
-  - clarify
-  - code_execution
-  - computer_use
-  - cronjob
-  - delegation
-  - file
-  - image_gen
-  - memory
-  - session_search
-  - skills
-  - terminal
-  - todo
-  - tts
-  - vision
-  - web
-  - x_search
-  - yuanbao
-  - spotify
-  - stt
-  - video
-  - video_gen
-  - context_engine
-  - discord
-  - discord_admin
-  - homeassistant
-terminal:
-  backend: local
-timezone: ''
-voice:
-  auto_tts: false
-wake_word:
+    - bfl
+    - browser
+    - clarify
+    - code_execution
+    - computer_use
+    - cronjob
+    - delegation
+    - file
+    - image_gen
+    - memory
+    - session_search
+    - skills
+    - terminal
+    - todo
+    - tts
+    - vision
+    - web
+    - x_search
+    - yuanbao
+    - spotify
+    - stt
+    - video
+    - video_gen
+    - context_engine
+    - discord
+    - discord_admin
+    - homeassistant
+auto_switch:
   enabled: true
-web:
-  backend: ddgs
-  use_gateway: false
+  trigger_on:
+    - 429
+    - 529
+    - 503
+    - rate_limit
+    - connection_error
+  max_retries: 3
+  cooldown_seconds: 30
+  rotate_after_success: false
+
+# ── Security ──────────────────────────────────────────────────────────
+# Secret redaction is ON by default — strings that look like API keys,
+# tokens, and passwords are masked in tool output, logs, and chat
+# responses before the model or user ever sees them. Set redact_secrets
+# to false to disable (e.g. when developing the redactor itself).
+# tirith pre-exec scanning is enabled by default when the tirith binary
+# is available. Configure via security.tirith_* keys or env vars
+# (TIRITH_ENABLED, TIRITH_BIN, TIRITH_TIMEOUT, TIRITH_FAIL_OPEN).
+#
+# security:
+#   redact_secrets: true
+#   tirith_enabled: true
+#   tirith_path: "tirith"
+#   tirith_timeout: 5
+#   tirith_fail_open: true
+
+# ── Fallback Model ────────────────────────────────────────────────────
+# Automatic provider failover when primary is unavailable.
+# Uncomment and configure to enable. Triggers on rate limits (429),
+# overload (529), service errors (503), or connection failures.
+#
+# Supported providers:
+#   openrouter   (OPENROUTER_API_KEY)  — routes to any model
+#   openai-codex (OAuth — hermes auth) — OpenAI Codex
+#   nous         (OAuth — hermes auth) — Nous Portal
+#   zai          (ZAI_API_KEY)         — Z.AI / GLM
+#   kimi-coding  (KIMI_API_KEY)        — Kimi / Moonshot
+#   kimi-coding-cn (KIMI_CN_API_KEY)   — Kimi / Moonshot (China)
+#   minimax      (MINIMAX_API_KEY)     — MiniMax
+#   minimax-cn   (MINIMAX_CN_API_KEY)  — MiniMax (China)
+#   bedrock      (AWS IAM / boto3)     — AWS Bedrock (Converse API)
+#
+# For custom OpenAI-compatible endpoints, add base_url and key_env.
+#
+# fallback_model:
+#   provider: openrouter
+#   model: anthropic/claude-sonnet-4
