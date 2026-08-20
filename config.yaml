@@ -38,6 +38,16 @@ computer_use:
   enabled: true
 custom_providers:
 - api_mode: chat_completions
+  base_url: https://api.groq.com/openai/v1
+  key_env: GROQ_API_KEY
+  model: openai/gpt-oss-120b
+  models:
+  - openai/gpt-oss-120b
+  - qwen/qwen3.6-27b
+  - openai/gpt-oss-20b
+  - groq/compound
+  name: Groq Cloud
+- api_mode: chat_completions
   base_url: http://localhost:11434/v1
   key_env: OLLAMA_API_KEY
   model: hermes3:3b
@@ -65,6 +75,19 @@ display:
   skin: default
   streaming: true
   tool_progress: all
+fallback_chain:
+- label: Groq Free - Fast
+  model: llama-3.3-70b-versatile
+  provider: groq
+- label: Gemini Free - 1M context
+  model: gemini-2.5-flash
+  provider: googleai-studio
+- label: Mistral Free - $10/mo
+  model: mistral-large-3
+  provider: mistralai
+- label: Ollama Local
+  model: mistral:latest
+  provider: custom-provider
 fallback_providers:
 - base_url: http://localhost:11434
   key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
@@ -77,8 +100,11 @@ fallback_providers:
   - 503
   - connection_error
 fallbacks:
+- base_url: https://api.groq.com/openai/v1
+  model: qwen/qwen3.6-27b
+  provider: custom
 - base_url: https://inference-api.nousresearch.com/v1
-  model: meituan/longcat-2.0:free
+  model: upstage/solar-pro4:free
   provider: nous
 - base_url: http://localhost:11434/v1
   model: hermes3:3b
@@ -167,10 +193,71 @@ memory:
   user_char_limit: 1375
   user_profile_enabled: true
 model:
-  api_mode: chat_completions
-  base_url: https://inference-api.nousresearch.com/v1
-  default: upstage/solar-pro4:free
-  provider: nous
+  base_url: https://api.groq.com/openai/v1
+  default: openai/gpt-oss-120b
+  provider: custom
+model_providers:
+- base_url: https://generativelanguage.googleapis.com/v1beta/openai
+  description: 'Free tier: 1M context, 15 RPM, 1500 RPD. No credit card.'
+  key_env: GOOGLE_API_KEY
+  model: gemini-2.5-flash
+  name: Google Gemini Free
+  provider: googleai-studio
+- base_url: https://api.groq.com/openai/v1
+  description: 'Free tier: 30 RPM, 1000 RPD. Ultra-fast LPU. gpt-oss-120b also available.'
+  key_env: GROQ_API_KEY
+  model: llama-3.3-70b-versatile
+  name: Groq Free
+  provider: groq
+- base_url: https://api.groq.com/openai/v1
+  description: 'Free tier: 30 RPM. OpenAI GPT-OSS 120B on Groq LPU.'
+  key_env: GROQ_API_KEY
+  model: openai/gpt-oss-120b
+  name: Groq GPT-OSS 120B
+  provider: groq
+- base_url: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run
+  description: 10K neurons/day free. 75+ models. No credit card.
+  key_env: CLOUDFLARE_API_TOKEN
+  model: '@cf/meta/llama-3.3-70b-instruct-fp8-fast'
+  name: Cloudflare Workers AI
+  provider: cloudflare-workers-ai
+- base_url: https://api.kilo.ai/api/gateway
+  description: Free, no credit card. Auto-routes to free pool. ~200 req/hr.
+  key_env: KILO_API_KEY
+  model: nvidia/nemotron-3-ultra-550b-a55b:free
+  name: Kilo AI Free
+  provider: kilo-ai
+- base_url: https://api.aionlabs.ai/v1
+  description: 'Permanent free: 15 RPM, 20K tokens/day. Roleplay + reasoning.'
+  key_env: AION_LABS_API_KEY
+  model: aion-labs/aion-3.0
+  name: Aion Labs Free
+  provider: aion-labs
+- base_url: https://api.mistral.ai/v1
+  description: 'Free mode: $10/month credits. Mistral Large 3, Medium 3.5, Small 4.'
+  key_env: MISTRAL_API_KEY
+  model: mistral-large-3
+  name: Mistral AI Free
+  provider: mistralai
+- base_url: https://api.cohere.com/v2
+  description: 'Free trial: 1000 calls/month. Command A+ (218B). Non-commercial.'
+  key_env: COHERE_API_KEY
+  model: command-a-plus-05-2026
+  name: Cohere Free
+  provider: cohere
+- base_url: https://router.huggingface.co/v1
+  description: $0.10/month free credits. Routes to Fireworks, Together, Hyperbolic,
+    etc.
+  key_env: HF_TOKEN
+  model: meta-llama/llama-3.1-8b-instruct
+  name: HuggingFace Free
+  provider: huggingface
+- base_url: https://api.llm7.io/v1
+  description: Free tier. GPT-OSS 20B reasoning model. 30 RPM (120 with token).
+  key_env: LLM7_API_KEY
+  model: gpt-oss:20b
+  name: LLM7 Free
+  provider: llm7
 onboarding:
   seen:
     busy_input_prompt: true
