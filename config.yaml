@@ -38,13 +38,13 @@ computer_use:
   enabled: true
 custom_providers:
 - api_mode: chat_completions
-  base_url: http://localhost:11434
-  key_env: HERMES_CUSTOM_LOCALHOST_11434_API_KEY
-  model: mistral:latest
+  base_url: http://localhost:11434/v1
+  key_env: OLLAMA_API_KEY
+  model: hermes3:3b
   models:
-  - mistral:latest
   - hermes3:3b
-  name: Mistral Local
+  - mistral:latest
+  name: Ollama Local
 database:
   journal_mode: wal
 delegation:
@@ -78,9 +78,12 @@ fallback_providers:
   - connection_error
 fallbacks:
 - base_url: https://inference-api.nousresearch.com/v1
-  model: stepfun/step-3.7-flash:free
+  model: meituan/longcat-2.0:free
   provider: nous
-- base_url: http://localhost:11434
+- base_url: http://localhost:11434/v1
+  model: hermes3:3b
+  provider: custom
+- base_url: http://localhost:11434/v1
   model: mistral:latest
   provider: custom
 group_sessions_per_user: true
@@ -165,9 +168,9 @@ memory:
   user_profile_enabled: true
 model:
   api_mode: chat_completions
-  base_url: https://openrouter.ai/api/v1
-  default: meta-llama/llama-3.3-70b-instruct:free
-  provider: openrouter
+  base_url: https://inference-api.nousresearch.com/v1
+  default: upstage/solar-pro4:free
+  provider: nous
 onboarding:
   seen:
     busy_input_prompt: true
