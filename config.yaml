@@ -1,5 +1,5 @@
 model:
-  default: gemini/gemini-2.5-flash
+  default: openrouter/meta-llama/llama-3.3-70b-instruct
   provider: gemini
   base_url: https://generativelanguage.googleapis.com/v1beta/openai
   aliases:
@@ -380,6 +380,7 @@ plugins:
     - model-providers/gemini
     - model-providers/huggingface
     - model-providers/kilocode
+    - model-providers/openrouter
     - observability/langfuse
     - observability/nemo_relay
     - platforms/a2a

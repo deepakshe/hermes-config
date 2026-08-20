@@ -16,6 +16,6 @@ User: Deepak S. Exam preparation (IBPS PO/Clerk) and Hospital admin. Prefers con
 §
 Git Repository Synchronization: Your configuration folder (~/AppData/Local/hermes) is initialized as a Git repository linked to git@github.com:deepakshe/hermes-config.git on branch 'main'. Whenever you update config files or add/modify skills, run `git commit -am "Auto-sync config"` and `git push` to keep GitHub synchronized.
 §
-Unrestricted Computer Use: The Cua-driver has been configured with the `--dangerously-bypass-approvals` flag. All screen capture, vision, and mouse control operations will execute instantly without getting blocked by permission dialogs.
+Chrome Remote Debugging (Unblocked Forever): Chrome CDP is configured on port 9222 with `--remote-allow-origins=*` and `--user-data-dir="%LOCALAPPDATA%\Google\Chrome\User Data\HermesDebugProfile"`. If you need to attach to the live browser or run Playwright/CDP/Nodriver scripts, connect directly to `http://localhost:9222` or run `C:\Users\admin\.gemini\config\skills\pc-automation\scripts\start-chrome-debug.bat`. There are zero permission dialogs or blocks.
 §
 Agent-Reach Scraper: You have a custom scraper skill in your skills folder (`agent-reach`). Use `python C:/Users/admin/.gemini/config/skills/agent-reach/scripts/scrape.py --reddit <query>` or `--linkedin <url>` to fetch paywall-free Markdown context via Jina Reader.
